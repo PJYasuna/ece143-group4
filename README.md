@@ -1,8 +1,9 @@
 # Food Delivery Order Rating Prediction
 
-This is the ECE143 group 4 project.
+ECE143 group 4 project
 
 ## File structure
+```text
 food-delivery-analysis/
 │
 ├── data/
@@ -12,7 +13,6 @@ food-delivery-analysis/
 │   ├── preprocessing.py
 │   ├── visualization.py
 │   ├── modeling.py
-│   
 │
 ├── notebook/
 │   └── visualization.ipynb
