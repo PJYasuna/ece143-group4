@@ -1,0 +1,2601 @@
+order_id,order_date,customer_age,restaurant_type,order_value,delivery_distance_km,delivery_time_minutes,payment_method,delivery_partner_rating,order_status
+1,2024-11-05,62,Indian,497.51,11.07,79,UPI,3.9,Cancelled
+2,2024-08-20,35,Bakery,232.32,5.83,69,Wallet,2.7,Cancelled
+3,2024-02-28,34,Italian,540.82,3.61,70,Wallet,3.4,Cancelled
+4,2024-05-26,65,Cafe,1197.99,3.66,18,Card,4.6,Cancelled
+5,2024-09-21,40,Indian,947.03,12.08,57,UPI,4.9,Delayed
+6,2024-03-16,51,Italian,835.75,3.56,85,UPI,3.8,Delayed
+7,2024-11-20,52,Cafe,771.83,14.37,80,Card,3.7,Delivered
+8,2024-11-24,52,Chinese,926.2,12.81,19,UPI,4.4,Delayed
+9,2024-07-23,38,Bakery,548.11,13.54,42,Cash,4.1,Delayed
+10,2024-07-01,24,Fast Food,177.18,8.15,29,Cash,2.9,Delivered
+11,2024-09-16,27,Cafe,806.68,5.43,53,Cash,3.1,Cancelled
+12,2024-08-27,61,Bakery,1193.33,9.68,26,UPI,3.5,Delivered
+13,2024-01-09,31,Chinese,758.14,1.28,57,Cash,2.9,Delayed
+14,2024-09-02,47,Cafe,937.07,13.41,88,Wallet,3.8,Cancelled
+15,2024-08-21,62,Chinese,810.18,12.36,87,Cash,5.0,Delayed
+16,2024-07-24,38,Bakery,773.12,9.07,50,Wallet,2.8,Cancelled
+17,2024-04-09,54,Cafe,816.14,10.95,86,UPI,4.8,Delayed
+18,2024-04-20,43,Cafe,640.6,4.49,50,Cash,4.1,Delayed
+19,2024-03-01,54,Indian,193.87,4.4,63,UPI,2.8,Delivered
+20,2024-08-23,23,Chinese,183.09,14.11,52,Cash,2.9,Cancelled
+21,2024-10-22,45,Italian,343.21,8.39,77,Cash,4.7,Cancelled
+22,2024-12-24,57,Cafe,628.52,12.79,50,UPI,4.0,Cancelled
+23,2024-07-11,38,Indian,471.61,10.22,33,Cash,4.8,Delivered
+24,2024-06-12,36,Fast Food,873.9,8.41,20,Wallet,3.8,Cancelled
+25,2024-03-18,53,Bakery,310.93,10.26,17,Wallet,3.1,Delivered
+26,2024-06-28,46,Indian,556.41,8.18,60,Card,2.6,Cancelled
+27,2024-03-25,53,Indian,921.62,12.48,56,Card,4.1,Cancelled
+28,2024-09-20,38,Cafe,272.59,6.26,21,UPI,4.7,Cancelled
+29,2024-05-26,43,Bakery,807.09,10.99,84,Card,4.4,Delayed
+30,2024-08-04,24,Cafe,209.75,10.47,82,UPI,3.3,Delivered
+31,2024-08-13,46,Bakery,572.97,7.68,57,Wallet,3.4,Delayed
+32,2024-08-15,55,Indian,453.01,7.74,72,Cash,3.5,Delayed
+33,2024-04-24,44,Chinese,266.46,1.75,71,Cash,3.4,Cancelled
+34,2024-11-05,65,Cafe,901.81,6.52,55,Wallet,2.8,Delivered
+35,2024-03-28,21,Bakery,335.18,3.36,27,Wallet,4.3,Delivered
+36,2024-06-12,58,Cafe,450.15,14.02,29,Cash,3.5,Cancelled
+37,2024-10-10,24,Fast Food,412.83,8.04,65,Wallet,3.7,Delivered
+38,2024-03-31,40,Indian,686.97,13.24,16,Cash,4.1,Cancelled
+39,2024-01-09,47,Chinese,194.0,12.99,16,UPI,3.2,Delayed
+40,2024-01-14,26,Cafe,1019.66,11.56,60,UPI,4.9,Delayed
+41,2024-12-08,26,Bakery,172.51,6.54,15,Card,4.2,Delivered
+42,2024-02-22,30,Italian,889.5,4.34,69,Wallet,4.3,Delayed
+43,2024-07-01,19,Fast Food,346.38,4.79,66,Cash,4.1,Delivered
+44,2024-12-12,40,Cafe,164.18,9.13,73,Card,3.1,Cancelled
+45,2024-10-24,20,Indian,985.03,6.83,71,UPI,4.3,Delivered
+46,2024-12-12,29,Cafe,412.23,11.33,41,Card,2.7,Delayed
+47,2024-05-30,52,Indian,286.76,5.08,27,Wallet,3.2,Delivered
+48,2024-11-23,38,Indian,481.74,8.16,77,Card,3.5,Delayed
+49,2024-03-02,53,Fast Food,468.92,6.71,60,Cash,2.8,Delayed
+50,2024-11-02,54,Chinese,809.62,3.33,64,Card,2.7,Delayed
+51,2024-11-28,33,Italian,854.03,12.18,33,UPI,2.7,Cancelled
+52,2024-09-01,64,Indian,499.12,1.64,79,UPI,4.2,Delayed
+53,2024-01-29,55,Chinese,331.23,8.32,26,Cash,3.9,Cancelled
+54,2024-02-07,59,Cafe,658.77,4.93,86,UPI,2.6,Delayed
+55,2024-11-11,64,Bakery,668.85,9.82,51,Card,3.2,Delayed
+56,2024-08-28,25,Indian,401.65,11.59,64,Card,3.9,Delivered
+57,2024-10-03,46,Chinese,779.74,12.57,31,UPI,4.5,Delayed
+58,2024-03-11,47,Indian,439.7,0.56,38,UPI,4.4,Cancelled
+59,2024-12-19,20,Indian,698.47,12.98,89,Cash,4.6,Delayed
+60,2024-12-20,52,Cafe,937.01,7.65,74,UPI,4.4,Delayed
+61,2024-07-28,39,Bakery,1183.0,4.69,53,Wallet,3.9,Cancelled
+62,2024-03-08,54,Fast Food,1004.92,11.83,40,Card,4.8,Cancelled
+63,2024-05-09,41,Italian,576.89,9.03,52,UPI,3.1,Delayed
+64,2024-12-09,19,Cafe,938.23,7.48,71,Cash,4.9,Delivered
+65,2024-10-20,38,Fast Food,420.05,8.92,68,Wallet,4.3,Cancelled
+66,2024-09-11,48,Indian,419.6,1.5,78,Card,3.1,Delayed
+67,2024-08-21,62,Italian,805.56,8.92,27,Wallet,3.9,Cancelled
+68,2024-08-20,22,Bakery,835.98,5.85,67,Wallet,4.5,Delayed
+69,2024-10-14,30,Fast Food,800.35,8.85,85,Card,3.4,Cancelled
+70,2024-05-01,55,Bakery,551.82,12.14,23,UPI,4.8,Delivered
+71,2024-06-11,49,Bakery,532.03,6.75,64,Wallet,3.7,Cancelled
+72,2024-10-11,37,Bakery,1096.12,1.82,45,UPI,4.8,Delivered
+73,2024-05-25,59,Italian,803.3,10.42,59,Wallet,3.0,Cancelled
+74,2024-08-21,39,Italian,313.66,14.04,35,Card,3.6,Cancelled
+75,2024-06-24,37,Chinese,193.56,6.78,49,UPI,4.9,Cancelled
+76,2024-08-12,37,Bakery,874.31,8.66,58,Wallet,5.0,Delayed
+77,2024-12-13,21,Bakery,1123.71,5.53,90,UPI,2.7,Delivered
+78,2024-11-28,43,Bakery,497.26,10.06,36,Wallet,3.3,Delivered
+79,2024-12-08,36,Italian,1083.21,1.78,41,Wallet,3.8,Cancelled
+80,2024-07-16,29,Chinese,961.1,13.2,16,Card,4.5,Cancelled
+81,2024-08-26,44,Chinese,765.08,9.84,69,Card,2.7,Delivered
+82,2024-11-06,47,Chinese,704.03,1.83,33,Wallet,4.4,Delayed
+83,2024-08-31,40,Italian,921.49,1.01,75,UPI,3.4,Delivered
+84,2024-10-10,42,Bakery,338.79,5.03,47,UPI,2.7,Delayed
+85,2024-09-12,53,Italian,925.0,0.91,44,UPI,4.0,Delayed
+86,2024-07-05,27,Chinese,219.65,4.48,80,Cash,4.1,Cancelled
+87,2024-06-03,42,Bakery,171.43,4.66,44,Wallet,4.2,Delayed
+88,2024-09-03,42,Italian,744.13,13.97,16,Wallet,2.8,Delayed
+89,2024-10-15,60,Chinese,1017.52,11.89,77,Card,4.9,Delayed
+90,2024-10-11,26,Cafe,857.45,8.73,77,Cash,3.0,Cancelled
+91,2024-03-18,53,Bakery,1177.39,6.95,76,Cash,3.9,Cancelled
+92,2024-07-21,64,Fast Food,222.94,4.01,68,Card,3.5,Delayed
+93,2024-08-24,60,Italian,358.24,9.45,86,Cash,2.6,Delayed
+94,2024-08-06,45,Italian,902.2,5.07,36,UPI,3.7,Cancelled
+95,2024-10-15,36,Fast Food,646.58,11.66,15,Cash,2.8,Delivered
+96,2024-03-31,26,Chinese,692.18,4.66,60,UPI,2.7,Delivered
+97,2024-05-13,21,Bakery,398.18,0.82,85,UPI,3.6,Delayed
+98,2024-01-10,48,Italian,261.92,6.57,46,UPI,3.1,Cancelled
+99,2024-05-21,44,Cafe,669.0,7.37,61,Wallet,3.9,Cancelled
+100,2024-08-25,59,Fast Food,1100.38,3.64,47,Cash,3.6,Delayed
+101,2024-06-16,29,Chinese,775.42,13.58,24,Cash,5.0,Cancelled
+102,2024-11-17,38,Indian,634.31,3.84,46,Wallet,3.1,Delivered
+103,2024-09-07,62,Chinese,425.38,6.99,79,Wallet,3.8,Delivered
+104,2024-09-25,41,Bakery,943.41,11.99,39,Wallet,3.3,Delivered
+105,2024-05-15,48,Indian,161.37,3.38,62,Wallet,3.4,Delivered
+106,2024-05-23,42,Italian,180.49,7.56,52,Wallet,4.3,Delayed
+107,2024-09-25,51,Cafe,295.69,14.51,40,Cash,3.6,Delayed
+108,2024-10-01,59,Indian,971.91,1.81,26,UPI,5.0,Delivered
+109,2024-12-01,48,Indian,1146.8,13.51,47,Wallet,2.8,Delayed
+110,2024-04-01,42,Indian,1060.8,10.84,16,Card,4.0,Delivered
+111,2024-04-18,45,Fast Food,246.11,7.61,62,UPI,2.9,Delayed
+112,2024-06-24,26,Bakery,998.09,2.47,48,Cash,3.3,Delayed
+113,2024-09-07,24,Cafe,590.8,13.57,40,Card,3.9,Cancelled
+114,2024-01-25,28,Cafe,278.46,6.56,38,Cash,4.0,Delayed
+115,2024-01-08,64,Fast Food,604.93,4.75,15,Cash,2.7,Cancelled
+116,2024-10-29,64,Fast Food,1014.01,4.31,73,UPI,3.2,Delivered
+117,2024-01-05,38,Indian,335.59,11.32,75,Card,3.7,Delayed
+118,2024-10-08,26,Fast Food,1085.17,14.4,55,Card,3.7,Delivered
+119,2024-05-20,33,Fast Food,1089.83,9.66,44,Card,2.8,Cancelled
+120,2024-04-22,19,Indian,1194.94,3.69,68,Cash,4.8,Delivered
+121,2024-03-13,51,Italian,468.73,4.94,51,Cash,3.9,Cancelled
+122,2024-04-24,36,Cafe,462.71,6.79,51,Card,3.2,Delivered
+123,2024-06-16,51,Chinese,886.72,8.53,47,Cash,3.1,Cancelled
+124,2024-04-07,19,Cafe,358.51,9.44,33,Cash,4.9,Delayed
+125,2024-09-14,38,Indian,934.86,11.37,28,Cash,2.7,Delivered
+126,2024-10-05,58,Indian,835.9,9.63,50,UPI,4.9,Delayed
+127,2024-10-05,59,Cafe,498.15,6.26,68,Card,3.3,Cancelled
+128,2024-09-23,31,Italian,637.59,13.18,40,Wallet,2.7,Cancelled
+129,2024-11-13,38,Bakery,676.33,8.69,86,Cash,4.3,Cancelled
+130,2024-12-27,34,Italian,1034.07,9.71,86,Card,3.5,Delivered
+131,2024-10-24,23,Italian,702.12,5.94,48,UPI,3.7,Delivered
+132,2024-12-08,31,Italian,440.5,5.26,88,Wallet,4.7,Cancelled
+133,2024-01-11,31,Chinese,335.52,13.67,83,Card,2.8,Cancelled
+134,2024-09-27,54,Bakery,614.99,5.91,19,Cash,4.0,Delivered
+135,2024-11-10,41,Fast Food,927.98,5.89,65,UPI,2.6,Delivered
+136,2024-03-20,53,Chinese,260.86,1.05,34,Wallet,3.5,Cancelled
+137,2024-01-03,24,Fast Food,320.5,14.21,27,UPI,2.8,Delivered
+138,2024-02-25,53,Fast Food,680.8,8.46,25,Wallet,2.9,Delivered
+139,2024-12-08,24,Indian,1072.74,8.2,65,Card,4.5,Cancelled
+140,2024-07-23,45,Italian,276.14,11.18,24,Wallet,2.9,Cancelled
+141,2024-04-02,38,Cafe,378.66,11.64,84,Cash,4.9,Delivered
+142,2024-10-12,55,Bakery,243.87,3.12,55,Wallet,4.7,Cancelled
+143,2024-10-04,61,Chinese,704.74,12.44,78,Wallet,3.2,Cancelled
+144,2024-06-18,21,Cafe,864.64,2.26,88,Cash,3.6,Cancelled
+145,2024-03-26,32,Chinese,1091.87,5.89,84,Card,3.9,Delayed
+146,2024-08-17,22,Chinese,790.11,13.35,73,Wallet,2.5,Cancelled
+147,2024-05-02,63,Italian,543.63,13.88,23,Card,4.3,Delivered
+148,2024-09-26,63,Chinese,736.6,3.72,24,UPI,4.9,Cancelled
+149,2024-12-09,57,Bakery,1153.33,14.24,74,UPI,4.6,Cancelled
+150,2024-11-12,54,Bakery,716.44,11.7,22,Card,4.4,Cancelled
+151,2024-11-05,65,Italian,326.2,5.9,33,Wallet,3.6,Delivered
+152,2024-02-09,29,Italian,733.43,10.92,46,Card,4.0,Delayed
+153,2024-07-20,41,Bakery,485.48,10.28,17,UPI,3.4,Delayed
+154,2024-11-13,54,Indian,643.99,11.25,38,Wallet,2.5,Delivered
+155,2024-08-14,18,Fast Food,853.07,10.08,26,UPI,4.0,Delayed
+156,2024-01-12,51,Chinese,454.17,13.95,32,Card,2.5,Delayed
+157,2024-03-04,61,Cafe,1168.19,8.4,57,Wallet,4.9,Cancelled
+158,2024-08-10,57,Bakery,554.75,4.35,87,UPI,2.6,Delayed
+159,2024-02-11,25,Bakery,884.45,12.76,51,Cash,2.7,Delayed
+160,2024-08-07,59,Cafe,158.59,14.83,67,UPI,4.9,Delivered
+161,2024-07-22,53,Cafe,500.34,11.75,40,UPI,3.5,Delayed
+162,2024-04-30,20,Bakery,1019.03,2.09,85,Card,4.0,Delayed
+163,2024-08-12,20,Cafe,926.55,4.36,53,Cash,4.4,Delivered
+164,2024-07-27,55,Indian,242.25,0.52,80,Wallet,4.9,Delayed
+165,2024-04-23,40,Cafe,402.58,13.06,76,Cash,4.9,Cancelled
+166,2024-10-02,48,Indian,295.25,11.16,29,Card,3.4,Cancelled
+167,2024-05-09,57,Chinese,403.94,14.68,61,UPI,3.4,Delayed
+168,2024-08-23,46,Chinese,530.68,3.52,70,Cash,4.3,Delivered
+169,2024-11-18,21,Bakery,897.59,4.91,26,Card,4.2,Cancelled
+170,2024-01-27,51,Italian,224.25,11.88,66,Wallet,4.8,Cancelled
+171,2024-10-08,26,Italian,470.73,3.34,28,Wallet,4.9,Cancelled
+172,2024-05-07,26,Fast Food,725.52,6.14,58,Card,4.8,Cancelled
+173,2024-08-08,46,Cafe,367.14,11.37,32,UPI,2.7,Delivered
+174,2024-09-04,48,Cafe,1130.32,14.17,22,UPI,3.7,Delivered
+175,2024-12-28,39,Chinese,684.01,7.92,88,UPI,3.1,Delivered
+176,2024-06-03,45,Chinese,439.21,5.67,19,Wallet,4.3,Cancelled
+177,2024-04-17,35,Bakery,869.39,11.5,45,UPI,4.9,Cancelled
+178,2024-03-25,59,Indian,470.19,5.66,23,Card,2.6,Delivered
+179,2024-02-01,29,Cafe,343.54,7.08,66,UPI,4.9,Delivered
+180,2024-05-04,55,Chinese,332.1,8.79,54,Card,3.2,Delivered
+181,2024-06-04,28,Fast Food,709.86,14.98,69,UPI,3.9,Cancelled
+182,2024-06-16,42,Bakery,648.63,1.47,78,Card,3.4,Cancelled
+183,2024-12-19,42,Italian,270.8,7.39,30,UPI,4.7,Delayed
+184,2024-09-02,64,Bakery,722.53,2.26,50,Cash,3.0,Delayed
+185,2024-02-06,22,Italian,577.24,14.77,54,UPI,3.5,Delayed
+186,2024-08-15,18,Cafe,846.5,7.16,48,UPI,3.6,Delayed
+187,2024-09-13,26,Italian,967.12,11.93,80,Card,3.7,Delivered
+188,2024-05-20,37,Fast Food,237.04,5.24,77,Card,3.1,Delivered
+189,2024-12-07,41,Cafe,322.97,5.35,53,Cash,3.6,Delivered
+190,2024-04-06,32,Indian,575.76,9.42,29,Cash,2.9,Cancelled
+191,2024-01-03,54,Cafe,1133.36,14.57,90,UPI,2.8,Delayed
+192,2024-10-20,22,Fast Food,874.0,13.48,47,Card,4.0,Cancelled
+193,2024-10-14,40,Cafe,329.51,9.37,82,Wallet,3.6,Delivered
+194,2024-11-06,61,Bakery,1060.61,13.48,56,Cash,2.9,Delayed
+195,2024-09-03,26,Chinese,551.77,12.28,61,Wallet,4.9,Delivered
+196,2024-11-27,36,Chinese,1132.54,4.17,78,Card,3.5,Delivered
+197,2024-09-08,37,Indian,876.47,4.54,72,Wallet,3.6,Cancelled
+198,2024-08-29,62,Cafe,933.54,4.61,80,Cash,4.3,Cancelled
+199,2024-01-29,49,Italian,1036.36,6.97,84,Card,5.0,Delivered
+200,2024-07-20,53,Italian,770.91,1.41,57,Card,3.2,Cancelled
+201,2024-01-13,20,Bakery,854.61,12.54,68,Card,4.7,Delayed
+202,2024-07-22,19,Indian,957.51,13.97,89,UPI,4.3,Delivered
+203,2024-07-19,48,Bakery,901.54,13.38,22,Card,3.5,Delayed
+204,2024-07-31,59,Bakery,805.7,11.91,29,Wallet,4.6,Cancelled
+205,2024-04-11,51,Indian,964.02,8.16,50,Wallet,4.3,Delivered
+206,2024-04-07,29,Chinese,1084.68,11.77,23,Cash,3.5,Delivered
+207,2024-03-02,29,Italian,1040.01,1.92,22,UPI,2.9,Delivered
+208,2024-08-27,44,Bakery,794.45,12.63,20,Wallet,3.7,Delivered
+209,2024-01-24,48,Bakery,1013.56,11.74,38,UPI,3.7,Delayed
+210,2024-11-13,38,Italian,256.03,13.58,72,UPI,4.9,Delivered
+211,2024-02-19,24,Cafe,729.32,11.3,80,Card,4.0,Cancelled
+212,2024-06-14,65,Italian,815.14,9.56,42,Wallet,4.9,Cancelled
+213,2024-06-19,63,Indian,1078.42,9.38,76,UPI,4.2,Cancelled
+214,2024-07-11,37,Fast Food,325.18,9.13,87,UPI,3.8,Cancelled
+215,2024-09-13,24,Fast Food,594.01,11.87,27,Cash,2.7,Delivered
+216,2024-01-22,45,Indian,910.7,1.86,71,Card,3.8,Delivered
+217,2024-11-03,54,Chinese,248.8,9.93,53,Card,4.4,Delayed
+218,2024-07-19,39,Fast Food,622.81,4.86,32,Wallet,4.0,Cancelled
+219,2024-07-22,18,Fast Food,690.74,13.53,39,Card,4.6,Delivered
+220,2024-06-20,52,Bakery,387.17,14.27,51,UPI,3.4,Delayed
+221,2024-02-20,30,Italian,625.94,4.66,43,UPI,3.1,Cancelled
+222,2024-01-08,31,Bakery,810.44,1.13,83,Cash,4.3,Delivered
+223,2024-05-05,22,Bakery,985.71,2.02,25,Card,4.8,Cancelled
+224,2024-08-22,51,Italian,582.18,7.08,40,Wallet,4.9,Delayed
+225,2024-11-26,25,Cafe,328.81,13.91,29,Card,4.7,Delivered
+226,2024-10-04,57,Cafe,311.45,4.56,67,Cash,3.2,Delivered
+227,2024-04-16,40,Fast Food,1109.26,3.27,59,Wallet,2.8,Delivered
+228,2024-11-06,62,Bakery,271.72,4.52,45,Cash,3.2,Cancelled
+229,2024-01-24,51,Indian,476.41,10.31,88,Wallet,4.2,Delayed
+230,2024-02-23,55,Cafe,547.41,14.07,86,UPI,4.2,Delayed
+231,2024-03-26,35,Cafe,531.15,13.93,58,Wallet,3.4,Delayed
+232,2024-12-06,40,Bakery,870.41,1.85,64,Cash,4.5,Delivered
+233,2024-05-09,18,Fast Food,428.4,14.92,33,Wallet,3.7,Delivered
+234,2024-09-20,48,Fast Food,1073.26,14.35,65,Card,2.6,Cancelled
+235,2024-04-13,49,Indian,212.28,14.72,32,UPI,4.0,Delayed
+236,2024-08-09,53,Fast Food,704.5,13.27,30,Cash,3.5,Delayed
+237,2024-11-17,23,Chinese,964.51,5.18,53,Wallet,4.3,Delivered
+238,2024-12-22,30,Indian,383.29,12.02,62,Card,3.4,Cancelled
+239,2024-05-12,65,Fast Food,404.63,10.35,17,Wallet,2.6,Delivered
+240,2024-04-23,53,Indian,1052.0,13.81,23,UPI,4.9,Delivered
+241,2024-11-27,52,Bakery,230.68,11.56,41,Cash,4.8,Delayed
+242,2024-11-27,34,Fast Food,294.66,4.68,27,Wallet,3.1,Delivered
+243,2024-04-18,63,Indian,677.97,7.39,42,Card,4.3,Cancelled
+244,2024-05-22,58,Bakery,340.46,13.75,24,Card,3.2,Delivered
+245,2024-04-04,65,Italian,321.79,7.14,51,Wallet,3.1,Cancelled
+246,2024-03-26,49,Italian,1140.15,13.33,50,Cash,3.6,Cancelled
+247,2024-03-11,24,Indian,331.16,8.77,49,Cash,4.3,Delayed
+248,2024-03-20,33,Cafe,1076.03,8.53,85,UPI,3.5,Cancelled
+249,2024-11-17,58,Chinese,744.81,7.94,20,Wallet,2.6,Delivered
+250,2024-06-23,56,Bakery,203.47,13.16,28,UPI,4.4,Delivered
+251,2024-03-14,61,Fast Food,842.87,9.28,38,Cash,3.0,Cancelled
+252,2024-11-10,37,Italian,412.97,11.03,82,Wallet,4.3,Cancelled
+253,2024-09-29,34,Indian,468.42,10.53,32,Cash,3.4,Delivered
+254,2024-06-21,25,Cafe,251.28,9.57,39,Wallet,4.7,Cancelled
+255,2024-11-30,24,Bakery,675.53,13.53,62,Wallet,4.1,Delivered
+256,2024-05-29,51,Italian,519.58,1.72,15,Card,4.8,Delayed
+257,2024-05-20,43,Cafe,752.07,8.45,64,Card,4.3,Delivered
+258,2024-02-07,25,Fast Food,1186.41,3.24,31,Cash,3.4,Delayed
+259,2024-12-25,22,Italian,1089.09,6.02,62,Cash,3.3,Delayed
+260,2024-03-29,57,Indian,439.57,1.61,48,Card,2.8,Delivered
+261,2024-03-21,19,Italian,586.76,1.84,67,UPI,4.9,Delivered
+262,2024-05-20,63,Cafe,925.38,3.47,71,UPI,4.1,Delivered
+263,2024-07-25,64,Cafe,550.52,3.05,67,UPI,3.0,Delayed
+264,2024-04-04,57,Italian,667.34,2.29,27,Wallet,4.7,Delivered
+265,2024-04-16,26,Chinese,344.43,0.58,24,Wallet,4.2,Cancelled
+266,2024-05-31,21,Indian,455.08,11.92,25,Wallet,3.9,Delivered
+267,2024-11-10,46,Bakery,1166.15,12.48,45,Wallet,4.5,Cancelled
+268,2024-10-10,39,Chinese,836.33,8.78,19,UPI,4.6,Cancelled
+269,2024-11-14,25,Fast Food,433.41,2.15,15,Cash,3.9,Cancelled
+270,2024-06-16,49,Indian,1043.8,10.08,87,Wallet,4.4,Delayed
+271,2024-10-03,19,Italian,677.65,1.22,70,Cash,3.0,Cancelled
+272,2024-01-06,58,Italian,1071.73,6.71,74,Wallet,4.5,Cancelled
+273,2024-06-22,32,Chinese,790.9,5.42,36,Wallet,4.2,Cancelled
+274,2024-12-14,57,Indian,154.76,3.57,75,Wallet,3.1,Delivered
+275,2024-06-02,28,Cafe,362.24,5.41,76,Wallet,3.8,Cancelled
+276,2024-01-17,51,Bakery,161.8,4.49,64,Card,3.0,Cancelled
+277,2024-05-26,41,Fast Food,1180.08,11.54,73,Wallet,3.3,Cancelled
+278,2024-07-18,61,Indian,759.1,12.21,60,Cash,3.9,Delivered
+279,2024-05-19,32,Fast Food,1057.25,10.55,71,UPI,3.4,Delivered
+280,2024-11-01,63,Italian,541.06,7.84,15,Wallet,4.1,Delayed
+281,2024-06-13,52,Indian,187.5,2.02,57,UPI,2.8,Delivered
+282,2024-11-07,55,Indian,255.32,13.0,42,Cash,5.0,Delayed
+283,2024-08-27,43,Indian,720.68,5.75,58,UPI,3.4,Delivered
+284,2024-05-01,63,Cafe,536.73,3.75,36,Cash,3.0,Delayed
+285,2024-04-05,23,Italian,828.72,11.29,52,Wallet,3.6,Cancelled
+286,2024-11-17,42,Indian,794.99,3.54,80,Card,4.2,Delayed
+287,2024-09-14,44,Fast Food,740.93,0.95,32,Card,4.2,Cancelled
+288,2024-07-15,32,Bakery,418.99,1.72,54,Cash,4.2,Delayed
+289,2024-06-24,28,Cafe,919.19,11.53,52,Card,3.7,Delayed
+290,2024-02-15,57,Bakery,1033.23,11.04,38,UPI,4.7,Cancelled
+291,2024-05-12,28,Cafe,610.36,7.61,32,UPI,3.0,Cancelled
+292,2024-07-11,38,Indian,315.72,5.19,83,Wallet,3.5,Delivered
+293,2024-08-28,62,Cafe,796.34,10.41,50,Wallet,3.1,Delayed
+294,2024-08-22,42,Fast Food,701.89,7.46,26,Card,3.7,Delivered
+295,2024-11-30,41,Italian,972.46,12.81,45,UPI,4.5,Delayed
+296,2024-04-21,23,Bakery,1029.92,4.74,48,Cash,5.0,Cancelled
+297,2024-09-29,60,Fast Food,1026.62,3.12,48,Card,4.1,Delayed
+298,2024-10-29,23,Indian,971.66,9.84,87,Wallet,3.7,Delayed
+299,2024-12-19,18,Fast Food,939.78,4.78,38,Cash,4.8,Delayed
+300,2024-04-18,42,Italian,209.02,0.64,88,Cash,3.5,Delayed
+301,2024-03-09,63,Italian,969.33,7.05,76,Wallet,2.7,Cancelled
+302,2024-07-22,55,Indian,395.7,10.0,57,Cash,4.2,Cancelled
+303,2024-02-29,55,Cafe,269.55,14.39,36,UPI,3.5,Delayed
+304,2024-04-15,38,Italian,981.93,8.88,19,Card,3.0,Cancelled
+305,2024-10-21,56,Bakery,470.29,7.73,53,Card,4.0,Cancelled
+306,2024-12-09,28,Chinese,1033.49,5.24,88,Cash,3.2,Delivered
+307,2024-02-15,25,Cafe,726.52,6.34,55,Wallet,3.8,Cancelled
+308,2024-02-21,47,Italian,997.41,13.61,57,UPI,2.8,Delayed
+309,2024-10-17,42,Indian,350.56,5.7,39,UPI,3.2,Delivered
+310,2024-04-08,61,Indian,1041.46,2.71,26,Wallet,2.5,Delivered
+311,2024-01-08,63,Chinese,361.86,14.43,29,UPI,3.2,Delivered
+312,2024-04-25,51,Bakery,882.01,0.73,79,Card,3.3,Delivered
+313,2024-05-30,39,Fast Food,624.41,14.73,71,Wallet,3.9,Cancelled
+314,2024-12-12,36,Cafe,1167.91,13.94,87,UPI,4.0,Delivered
+315,2024-10-17,28,Indian,782.69,14.96,35,Cash,4.5,Delivered
+316,2024-04-26,35,Fast Food,325.93,1.05,70,Cash,4.4,Delayed
+317,2024-10-02,30,Bakery,947.45,4.08,38,Card,3.5,Cancelled
+318,2024-06-02,37,Fast Food,474.63,0.77,87,Cash,3.4,Delivered
+319,2024-02-22,61,Italian,696.79,7.38,88,Cash,3.1,Cancelled
+320,2024-09-10,64,Cafe,730.29,1.88,49,Cash,2.5,Delayed
+321,2024-01-24,54,Bakery,301.33,12.26,17,Wallet,3.2,Cancelled
+322,2024-04-14,50,Fast Food,648.68,9.33,90,Wallet,4.7,Delayed
+323,2024-02-06,39,Fast Food,521.54,6.88,78,UPI,4.6,Delivered
+324,2024-04-11,55,Indian,365.05,13.05,34,UPI,3.5,Cancelled
+325,2024-08-13,29,Chinese,363.12,9.14,45,Card,4.8,Delivered
+326,2024-12-28,40,Indian,1007.11,5.47,19,Card,3.1,Cancelled
+327,2024-02-07,54,Indian,219.05,3.62,72,Wallet,4.6,Delivered
+328,2024-10-01,24,Fast Food,320.51,1.28,33,Card,4.9,Delayed
+329,2024-02-10,19,Bakery,569.28,3.69,20,Card,3.6,Cancelled
+330,2024-12-04,56,Bakery,1114.83,2.82,79,Card,4.8,Delayed
+331,2024-06-05,49,Italian,766.46,7.37,19,UPI,4.2,Delayed
+332,2024-07-11,64,Chinese,514.27,10.33,56,UPI,3.1,Delivered
+333,2024-08-30,27,Bakery,791.73,4.85,50,Cash,3.6,Cancelled
+334,2024-06-26,44,Chinese,269.71,8.62,85,Cash,4.6,Delayed
+335,2024-05-06,61,Chinese,948.16,4.83,64,Cash,3.7,Delivered
+336,2024-04-30,29,Italian,1152.86,8.39,41,Card,4.3,Delivered
+337,2024-06-15,28,Indian,159.32,4.79,90,Card,4.3,Cancelled
+338,2024-05-16,46,Bakery,774.45,5.27,29,Card,4.9,Delivered
+339,2024-07-13,25,Italian,1139.77,5.27,54,Cash,4.1,Delivered
+340,2024-01-22,65,Fast Food,332.43,1.89,59,UPI,4.7,Delivered
+341,2024-07-22,46,Italian,238.65,1.63,41,UPI,3.5,Delivered
+342,2024-03-18,24,Chinese,450.29,9.25,82,UPI,4.7,Delayed
+343,2024-01-11,56,Fast Food,489.4,1.57,48,UPI,2.8,Cancelled
+344,2024-07-19,44,Fast Food,777.81,14.96,41,Cash,3.7,Cancelled
+345,2024-06-18,55,Bakery,1051.74,5.51,82,Wallet,2.8,Delivered
+346,2024-07-20,59,Chinese,848.21,1.56,89,Card,3.7,Delivered
+347,2024-10-16,24,Italian,444.42,11.95,69,Wallet,3.3,Cancelled
+348,2024-02-21,58,Fast Food,597.4,8.94,81,Wallet,3.1,Delivered
+349,2024-07-05,56,Indian,739.95,13.04,42,Cash,2.7,Delivered
+350,2024-09-29,44,Indian,561.98,2.15,25,Cash,4.2,Delivered
+351,2024-09-10,51,Indian,1014.32,1.08,24,Card,4.6,Cancelled
+352,2024-06-01,35,Bakery,1104.96,14.58,78,Card,3.0,Cancelled
+353,2024-07-25,62,Indian,1007.64,13.82,72,Card,3.6,Delivered
+354,2024-04-18,65,Fast Food,576.26,8.65,61,UPI,3.9,Delayed
+355,2024-06-16,29,Cafe,704.81,10.58,44,Cash,3.5,Delayed
+356,2024-06-11,18,Bakery,908.21,3.96,32,Card,3.0,Delivered
+357,2024-03-14,58,Cafe,567.46,1.96,49,Cash,3.6,Delivered
+358,2024-08-31,31,Chinese,1035.05,1.65,66,Cash,2.7,Delivered
+359,2024-12-29,54,Chinese,1087.98,5.0,75,Card,4.7,Cancelled
+360,2024-10-29,43,Cafe,200.0,1.7,40,Wallet,4.4,Cancelled
+361,2024-02-28,33,Fast Food,1042.18,2.22,79,Wallet,4.7,Delayed
+362,2024-03-17,58,Bakery,346.25,2.09,24,UPI,3.9,Delayed
+363,2024-02-27,22,Fast Food,1100.92,3.24,23,Wallet,3.0,Cancelled
+364,2024-02-12,18,Chinese,791.59,8.57,70,Wallet,3.9,Cancelled
+365,2024-04-02,37,Fast Food,189.66,13.7,30,Card,3.8,Delayed
+366,2024-09-12,51,Cafe,1141.92,11.8,23,Cash,3.1,Delayed
+367,2024-10-25,41,Italian,552.56,6.65,42,Card,3.1,Cancelled
+368,2024-03-13,31,Bakery,152.67,5.21,27,Wallet,5.0,Delivered
+369,2024-06-18,23,Indian,825.56,6.36,70,Wallet,4.1,Delivered
+370,2024-05-28,60,Indian,379.93,4.05,44,Card,4.7,Delivered
+371,2024-06-08,59,Fast Food,773.43,14.19,40,Cash,4.1,Delayed
+372,2024-09-08,65,Indian,740.75,2.05,37,Wallet,2.5,Cancelled
+373,2024-03-05,57,Italian,1142.61,1.43,51,Cash,4.1,Cancelled
+374,2024-06-16,36,Indian,290.15,5.73,55,Wallet,4.2,Delayed
+375,2024-05-23,28,Cafe,303.62,12.61,17,UPI,4.6,Delayed
+376,2024-08-19,64,Cafe,1061.82,12.14,55,Card,4.7,Delivered
+377,2024-10-23,19,Fast Food,499.04,8.55,21,Card,3.4,Delayed
+378,2024-07-14,30,Cafe,210.87,7.89,78,Wallet,2.5,Delayed
+379,2024-11-23,60,Fast Food,1047.44,5.35,67,UPI,3.9,Delivered
+380,2024-10-14,51,Italian,765.17,8.74,36,Card,2.7,Delivered
+381,2024-04-13,21,Italian,918.55,11.49,41,Wallet,2.8,Delivered
+382,2024-06-03,26,Bakery,183.39,10.41,66,Wallet,2.6,Delayed
+383,2024-04-09,20,Indian,306.28,7.66,74,Wallet,3.3,Delayed
+384,2024-11-26,30,Chinese,400.9,7.98,48,Wallet,4.1,Delayed
+385,2024-04-03,48,Bakery,295.4,12.15,43,Card,3.4,Delayed
+386,2024-12-17,33,Bakery,1054.44,6.63,18,Cash,3.8,Cancelled
+387,2024-06-09,52,Chinese,1153.5,2.66,36,UPI,4.6,Delayed
+388,2024-07-30,23,Cafe,1169.87,13.93,50,Wallet,4.2,Delivered
+389,2024-06-16,64,Chinese,264.87,12.85,86,Wallet,3.4,Cancelled
+390,2024-11-27,57,Bakery,629.86,0.74,22,UPI,3.0,Delayed
+391,2024-09-30,34,Indian,380.0,12.39,34,Cash,2.6,Delivered
+392,2024-12-08,26,Chinese,477.49,14.03,73,Wallet,5.0,Delivered
+393,2024-01-15,48,Cafe,555.08,8.35,18,Wallet,3.2,Delayed
+394,2024-08-27,21,Bakery,1181.07,5.76,85,UPI,4.1,Delayed
+395,2024-12-07,18,Cafe,965.75,1.93,38,Card,4.7,Delayed
+396,2024-11-09,22,Bakery,556.83,3.52,88,UPI,3.8,Delayed
+397,2024-02-21,62,Bakery,323.34,4.04,60,Wallet,4.9,Cancelled
+398,2024-02-22,63,Bakery,903.19,10.77,53,Cash,4.5,Delivered
+399,2024-01-12,49,Italian,286.89,9.85,16,Card,3.5,Cancelled
+400,2024-02-27,36,Chinese,1092.96,4.15,17,Wallet,4.6,Delayed
+401,2024-06-02,20,Italian,932.63,10.66,86,Cash,3.8,Delivered
+402,2024-04-22,36,Cafe,179.54,2.74,49,Cash,2.9,Delayed
+403,2024-07-14,45,Chinese,1079.88,3.17,19,Wallet,4.9,Cancelled
+404,2024-04-16,38,Indian,193.86,1.75,58,Cash,3.7,Cancelled
+405,2024-10-30,29,Bakery,303.82,8.43,81,Wallet,3.4,Cancelled
+406,2024-12-09,50,Cafe,1094.51,5.94,89,UPI,4.0,Delayed
+407,2024-11-24,44,Indian,825.16,10.38,25,UPI,4.1,Delivered
+408,2024-06-18,40,Chinese,588.74,8.52,45,Card,4.8,Cancelled
+409,2024-06-08,61,Indian,621.0,7.79,47,UPI,4.6,Delayed
+410,2024-07-09,64,Cafe,401.64,8.86,33,Cash,5.0,Delivered
+411,2024-06-10,40,Indian,730.83,11.95,72,Card,3.6,Delivered
+412,2024-12-03,36,Indian,545.83,10.55,35,Cash,4.6,Delivered
+413,2024-09-29,39,Fast Food,261.99,2.09,43,Wallet,4.6,Delayed
+414,2024-07-12,54,Bakery,533.9,4.9,53,Cash,3.2,Delivered
+415,2024-12-23,61,Bakery,628.37,6.11,62,UPI,3.3,Delayed
+416,2024-08-13,60,Italian,644.47,1.81,51,Cash,2.7,Delivered
+417,2024-06-30,19,Cafe,895.01,5.2,52,Cash,4.1,Delivered
+418,2024-07-01,60,Fast Food,987.66,7.26,45,Wallet,5.0,Delivered
+419,2024-03-21,41,Indian,455.89,14.16,44,Cash,4.8,Delivered
+420,2024-06-03,51,Indian,1030.95,9.57,31,Cash,2.7,Delivered
+421,2024-08-09,48,Bakery,1030.81,5.37,36,Card,4.7,Cancelled
+422,2024-08-31,30,Italian,193.77,8.97,42,UPI,4.2,Cancelled
+423,2024-11-27,61,Chinese,593.57,3.55,47,Card,5.0,Delivered
+424,2024-03-16,44,Indian,486.67,8.73,64,Cash,3.9,Delivered
+425,2024-04-08,20,Bakery,604.62,8.66,86,Wallet,5.0,Delivered
+426,2024-02-14,55,Bakery,439.39,12.87,60,Card,3.4,Cancelled
+427,2024-01-06,23,Bakery,173.37,11.43,88,Card,3.9,Cancelled
+428,2024-09-10,59,Italian,266.66,8.05,20,UPI,2.6,Delayed
+429,2024-02-16,26,Bakery,531.25,3.42,69,UPI,2.7,Delivered
+430,2024-10-20,41,Italian,296.73,2.74,40,Wallet,2.6,Cancelled
+431,2024-07-06,38,Fast Food,233.93,3.81,72,Card,4.3,Delivered
+432,2024-01-25,64,Italian,488.89,7.55,42,Wallet,4.0,Delivered
+433,2024-06-14,33,Italian,1131.55,9.11,86,Card,3.8,Delayed
+434,2024-08-23,63,Fast Food,162.49,6.14,47,UPI,3.0,Delayed
+435,2024-07-29,58,Bakery,1014.28,6.41,59,Wallet,4.4,Delivered
+436,2024-02-13,40,Fast Food,1180.39,3.99,53,Cash,4.8,Cancelled
+437,2024-02-16,51,Chinese,639.96,13.64,51,Wallet,3.9,Delayed
+438,2024-10-01,18,Bakery,1010.07,2.16,43,Cash,3.3,Delayed
+439,2024-01-14,48,Indian,1117.87,10.5,72,Card,4.1,Delivered
+440,2024-05-17,18,Bakery,320.09,10.94,62,UPI,4.5,Delivered
+441,2024-11-16,21,Indian,226.31,7.49,43,Wallet,3.1,Delivered
+442,2024-02-01,38,Italian,1185.89,0.91,36,Wallet,4.7,Delivered
+443,2024-09-26,56,Bakery,938.98,11.95,25,Wallet,2.7,Cancelled
+444,2024-06-22,30,Bakery,984.23,11.33,34,Cash,4.7,Cancelled
+445,2024-08-18,22,Fast Food,221.98,6.53,16,Card,2.6,Cancelled
+446,2024-09-07,55,Indian,188.6,4.95,50,Wallet,3.1,Delayed
+447,2024-10-16,37,Chinese,534.03,14.08,59,Cash,2.8,Delivered
+448,2024-01-21,48,Chinese,543.43,11.59,21,Wallet,4.1,Delivered
+449,2024-12-11,27,Cafe,875.0,6.53,55,Wallet,3.3,Delayed
+450,2024-04-18,21,Chinese,538.04,1.7,36,UPI,4.6,Delivered
+451,2024-05-30,29,Indian,321.55,0.9,74,UPI,3.9,Delayed
+452,2024-11-26,20,Cafe,632.98,6.33,17,Cash,3.5,Delivered
+453,2024-04-09,64,Cafe,1149.61,3.64,82,Card,3.5,Cancelled
+454,2024-08-29,30,Italian,558.06,5.85,70,Card,2.6,Delayed
+455,2024-11-01,61,Bakery,392.88,6.45,72,Cash,3.0,Delivered
+456,2024-03-20,44,Bakery,1079.4,5.15,32,UPI,5.0,Cancelled
+457,2024-10-08,52,Chinese,427.24,8.23,66,Wallet,3.1,Delivered
+458,2024-06-16,40,Fast Food,1122.34,6.08,24,UPI,3.0,Delivered
+459,2024-05-10,34,Chinese,623.97,3.01,41,Card,4.2,Delayed
+460,2024-07-16,61,Indian,577.36,12.03,30,Card,3.1,Delivered
+461,2024-03-08,24,Fast Food,898.45,8.48,48,Card,4.4,Delivered
+462,2024-10-11,41,Cafe,879.19,2.24,82,Card,3.0,Delivered
+463,2024-07-22,50,Bakery,1048.48,7.16,57,Card,3.3,Cancelled
+464,2024-09-16,45,Indian,1069.5,1.51,72,UPI,3.2,Cancelled
+465,2024-05-28,44,Indian,1039.58,5.21,64,UPI,4.4,Cancelled
+466,2024-01-13,40,Cafe,397.01,10.29,47,Cash,3.3,Delivered
+467,2024-09-28,22,Cafe,942.97,7.97,84,Cash,4.0,Delivered
+468,2024-10-24,23,Cafe,187.46,13.8,57,Wallet,3.9,Delayed
+469,2024-06-30,54,Bakery,275.86,3.54,62,UPI,2.6,Delivered
+470,2024-06-27,55,Cafe,699.02,3.16,57,UPI,3.8,Cancelled
+471,2024-07-17,20,Cafe,226.02,10.85,21,Cash,2.6,Cancelled
+472,2024-04-03,33,Indian,225.19,12.67,58,Cash,4.0,Cancelled
+473,2024-01-06,33,Chinese,318.48,1.16,79,Wallet,4.7,Cancelled
+474,2024-08-23,59,Cafe,494.62,1.99,26,Cash,2.7,Delayed
+475,2024-09-26,31,Cafe,743.35,7.73,81,Card,3.9,Delivered
+476,2024-06-28,38,Cafe,531.47,14.39,49,Card,3.4,Delivered
+477,2024-09-23,44,Chinese,263.2,11.09,65,Cash,2.5,Delayed
+478,2024-09-12,34,Fast Food,947.92,14.09,73,Wallet,2.6,Delivered
+479,2024-05-20,40,Chinese,1054.39,3.47,40,UPI,3.2,Delayed
+480,2024-02-28,27,Indian,443.98,14.09,22,Cash,3.8,Delayed
+481,2024-05-21,62,Bakery,556.44,14.06,52,Card,4.6,Delayed
+482,2024-12-16,20,Italian,658.85,1.96,23,Card,4.2,Cancelled
+483,2024-05-17,53,Italian,354.88,8.53,28,UPI,4.4,Cancelled
+484,2024-10-24,24,Chinese,848.45,3.92,85,Wallet,2.6,Delayed
+485,2024-06-26,44,Indian,1031.65,7.18,78,UPI,3.5,Cancelled
+486,2024-04-03,18,Indian,549.78,3.48,62,Card,3.6,Delayed
+487,2024-04-05,33,Cafe,341.26,8.93,83,Cash,4.2,Delayed
+488,2024-12-25,49,Cafe,411.82,12.27,21,UPI,3.0,Delivered
+489,2024-08-26,46,Cafe,868.16,6.38,42,Cash,3.4,Cancelled
+490,2024-10-26,56,Chinese,345.29,5.83,37,Card,2.6,Delayed
+491,2024-05-19,57,Fast Food,797.02,6.43,86,Wallet,2.8,Delivered
+492,2024-06-27,27,Chinese,854.8,6.04,89,Cash,2.8,Delivered
+493,2024-10-12,56,Bakery,674.23,9.73,80,UPI,4.2,Delivered
+494,2024-07-05,56,Chinese,273.53,7.84,51,UPI,2.9,Delivered
+495,2024-01-10,37,Indian,262.19,7.18,63,Card,4.3,Delayed
+496,2024-12-07,27,Fast Food,348.99,12.0,36,UPI,3.6,Cancelled
+497,2024-06-06,63,Italian,643.3,13.14,39,Cash,4.2,Delivered
+498,2024-09-11,59,Fast Food,933.59,14.99,30,Card,4.1,Delivered
+499,2024-12-18,25,Cafe,707.88,6.38,72,Wallet,2.5,Delivered
+500,2024-10-01,41,Bakery,982.94,9.41,63,Wallet,4.6,Delayed
+501,2024-12-22,63,Fast Food,1004.82,7.47,62,Wallet,4.5,Delivered
+502,2024-01-22,56,Fast Food,822.27,10.19,67,Card,3.2,Delivered
+503,2024-04-01,28,Bakery,737.54,0.71,74,Card,4.6,Delayed
+504,2024-08-24,25,Fast Food,632.86,7.77,87,Wallet,4.9,Delivered
+505,2024-10-23,49,Cafe,1045.7,14.39,69,Wallet,2.6,Delivered
+506,2024-03-05,37,Bakery,755.87,14.47,62,Cash,4.5,Delivered
+507,2024-08-06,27,Italian,468.77,6.28,86,Wallet,3.5,Delivered
+508,2024-05-17,49,Fast Food,664.71,14.79,65,UPI,3.2,Delayed
+509,2024-11-13,63,Chinese,580.24,5.73,69,Card,3.7,Cancelled
+510,2024-07-22,51,Italian,1005.11,14.11,25,Card,4.9,Delivered
+511,2024-02-15,44,Indian,565.08,11.27,86,Card,4.6,Delayed
+512,2024-07-04,61,Italian,477.98,9.8,38,Card,2.6,Delivered
+513,2024-01-12,55,Italian,228.56,13.32,30,Card,4.8,Cancelled
+514,2024-12-14,42,Italian,448.49,6.86,50,UPI,3.7,Delayed
+515,2024-07-22,40,Chinese,843.69,7.34,65,UPI,3.4,Delayed
+516,2024-10-24,21,Chinese,1150.64,2.46,78,UPI,4.8,Delayed
+517,2024-04-07,53,Italian,473.79,13.75,62,Cash,3.7,Delayed
+518,2024-10-27,35,Chinese,1016.14,6.98,45,Card,5.0,Delivered
+519,2024-07-23,40,Cafe,365.02,9.69,80,Wallet,3.2,Delayed
+520,2024-06-04,59,Chinese,401.86,10.25,27,Cash,4.1,Cancelled
+521,2024-07-31,44,Bakery,498.55,9.6,28,Wallet,4.8,Delayed
+522,2024-07-25,63,Bakery,347.51,14.96,38,Cash,2.5,Cancelled
+523,2024-11-02,20,Chinese,245.32,0.79,22,Card,5.0,Cancelled
+524,2024-11-07,60,Indian,982.19,7.11,24,Card,2.6,Delivered
+525,2024-06-17,59,Cafe,1074.12,8.21,53,Cash,4.9,Delayed
+526,2024-02-07,40,Cafe,1142.5,8.28,69,Card,4.4,Delivered
+527,2024-01-16,39,Cafe,182.52,13.3,28,UPI,4.8,Delivered
+528,2024-06-09,56,Cafe,229.19,3.05,54,Card,4.8,Delivered
+529,2024-06-20,26,Cafe,179.32,2.84,61,UPI,2.5,Delayed
+530,2024-08-24,27,Fast Food,1168.56,2.06,63,Card,3.1,Delayed
+531,2024-11-10,44,Italian,309.39,2.85,46,Cash,2.9,Delayed
+532,2024-07-11,50,Italian,1066.11,11.41,68,UPI,3.8,Delivered
+533,2024-11-01,30,Chinese,621.15,6.62,61,Card,4.2,Delayed
+534,2024-01-25,33,Indian,947.71,11.3,53,Wallet,3.4,Delivered
+535,2024-11-25,26,Bakery,322.72,6.28,65,Wallet,4.3,Delivered
+536,2024-08-20,18,Bakery,1020.42,9.95,84,Card,3.9,Delivered
+537,2024-05-23,25,Fast Food,184.24,7.34,84,Cash,4.6,Delayed
+538,2024-02-16,65,Chinese,595.58,1.15,69,Card,2.5,Cancelled
+539,2024-09-27,54,Fast Food,1069.84,0.51,31,Card,4.4,Delayed
+540,2024-09-10,51,Fast Food,469.56,1.2,28,UPI,4.9,Cancelled
+541,2024-11-14,65,Cafe,352.73,6.59,75,Wallet,3.4,Delayed
+542,2024-02-22,31,Chinese,1044.0,8.66,41,UPI,4.2,Delayed
+543,2024-12-27,27,Fast Food,344.33,14.53,25,Card,4.4,Delayed
+544,2024-06-26,22,Italian,982.47,7.58,61,Cash,3.4,Delayed
+545,2024-04-26,41,Cafe,269.41,6.56,40,Card,3.7,Delivered
+546,2024-06-21,46,Cafe,999.54,2.61,69,Cash,4.7,Cancelled
+547,2024-09-06,25,Fast Food,410.67,3.14,57,Cash,3.3,Cancelled
+548,2024-08-03,37,Indian,1100.25,2.22,61,Cash,4.2,Delivered
+549,2024-12-27,65,Italian,780.33,2.84,15,Card,4.7,Delivered
+550,2024-03-21,45,Fast Food,334.52,6.23,76,Card,4.8,Delayed
+551,2024-10-02,38,Bakery,385.48,8.36,76,Cash,4.6,Delivered
+552,2024-08-29,59,Indian,967.38,1.73,15,UPI,4.3,Cancelled
+553,2024-05-29,53,Italian,770.01,14.03,76,UPI,3.9,Cancelled
+554,2024-11-08,22,Italian,324.5,10.59,22,UPI,2.9,Delayed
+555,2024-08-10,40,Italian,581.46,7.56,48,UPI,3.9,Delayed
+556,2024-09-11,48,Chinese,796.41,12.93,90,Card,4.7,Delivered
+557,2024-06-12,50,Chinese,1051.18,14.34,32,UPI,3.0,Delivered
+558,2024-08-08,24,Indian,205.96,3.52,37,Cash,4.1,Delayed
+559,2024-03-01,27,Fast Food,957.55,7.61,90,Cash,4.3,Cancelled
+560,2024-09-15,19,Bakery,934.41,12.44,34,Wallet,4.4,Cancelled
+561,2024-12-25,41,Cafe,393.73,4.96,29,UPI,4.1,Delivered
+562,2024-04-21,35,Chinese,1061.37,4.13,78,Wallet,3.2,Delivered
+563,2024-11-19,42,Fast Food,934.5,3.69,35,UPI,2.6,Cancelled
+564,2024-12-02,40,Cafe,316.75,4.13,17,Card,3.2,Delivered
+565,2024-10-31,27,Indian,427.6,12.22,22,Cash,4.5,Cancelled
+566,2024-10-13,36,Fast Food,681.32,1.39,80,Card,2.9,Cancelled
+567,2024-06-10,22,Cafe,922.63,12.23,53,UPI,3.3,Delivered
+568,2024-11-16,41,Fast Food,468.1,7.3,77,UPI,4.9,Delivered
+569,2024-12-17,56,Bakery,515.53,4.96,67,Wallet,3.5,Cancelled
+570,2024-12-17,48,Bakery,344.2,7.09,86,Wallet,3.8,Delayed
+571,2024-02-24,54,Cafe,777.39,9.58,59,Cash,3.6,Cancelled
+572,2024-02-29,25,Indian,539.98,4.75,68,Cash,4.5,Delayed
+573,2024-08-29,22,Chinese,1178.29,13.41,81,UPI,4.4,Delayed
+574,2024-11-12,21,Bakery,291.73,11.54,47,Wallet,4.8,Delivered
+575,2024-06-19,19,Italian,341.15,2.69,76,Wallet,2.6,Cancelled
+576,2024-07-17,29,Bakery,512.03,1.02,69,Cash,3.8,Delivered
+577,2024-03-09,65,Chinese,890.96,1.68,71,Cash,4.6,Delivered
+578,2024-06-09,61,Indian,764.03,2.34,83,Cash,3.2,Cancelled
+579,2024-10-30,60,Bakery,818.3,13.68,30,Card,3.0,Cancelled
+580,2024-09-26,57,Fast Food,403.72,1.69,43,UPI,3.0,Delivered
+581,2024-05-15,28,Fast Food,860.44,7.84,44,Cash,4.1,Cancelled
+582,2024-03-08,29,Italian,529.84,7.38,64,UPI,4.0,Cancelled
+583,2024-06-05,23,Bakery,402.53,12.81,82,UPI,3.0,Delayed
+584,2024-07-24,21,Italian,917.35,13.98,43,Card,2.9,Delivered
+585,2024-10-11,19,Bakery,357.48,11.4,83,UPI,3.8,Delayed
+586,2024-05-01,51,Indian,430.1,13.11,61,Wallet,3.0,Cancelled
+587,2024-03-17,49,Fast Food,1045.66,2.05,25,UPI,3.6,Delivered
+588,2024-01-26,47,Fast Food,1029.23,10.15,52,Cash,4.6,Delayed
+589,2024-01-26,28,Cafe,237.53,6.81,63,Cash,4.7,Delivered
+590,2024-04-20,28,Cafe,526.2,4.73,44,UPI,2.9,Delayed
+591,2024-12-12,23,Bakery,780.04,1.27,25,UPI,3.7,Delayed
+592,2024-02-13,47,Indian,733.61,7.21,25,Card,4.3,Delayed
+593,2024-11-06,59,Bakery,509.08,11.58,19,Cash,3.2,Delayed
+594,2024-04-06,63,Fast Food,889.69,10.03,43,UPI,4.3,Cancelled
+595,2024-06-01,29,Indian,1094.75,12.56,60,UPI,4.4,Delivered
+596,2024-12-24,28,Chinese,541.01,7.3,47,Card,2.7,Delayed
+597,2024-06-04,52,Italian,928.39,6.3,39,Card,4.8,Cancelled
+598,2024-03-08,65,Chinese,797.87,2.15,27,Card,4.5,Cancelled
+599,2024-08-05,64,Bakery,460.65,1.72,38,UPI,2.9,Delivered
+600,2024-08-22,49,Indian,244.32,12.61,23,Card,4.8,Delayed
+601,2024-08-06,26,Cafe,526.94,3.58,22,UPI,4.5,Delayed
+602,2024-07-04,44,Fast Food,789.61,11.76,69,UPI,3.8,Cancelled
+603,2024-06-01,65,Chinese,343.53,13.48,75,UPI,3.3,Delayed
+604,2024-01-16,62,Indian,323.92,12.08,57,UPI,4.8,Delayed
+605,2024-08-20,43,Cafe,689.23,3.7,72,Card,4.1,Cancelled
+606,2024-03-11,63,Chinese,1044.39,9.89,89,UPI,3.1,Delayed
+607,2024-04-27,29,Cafe,290.66,7.07,90,Cash,4.5,Delivered
+608,2024-05-01,63,Cafe,568.99,8.48,85,UPI,2.6,Delayed
+609,2024-12-03,59,Chinese,545.82,2.29,86,Card,4.8,Delayed
+610,2024-05-01,19,Indian,775.44,0.97,55,Card,2.9,Delayed
+611,2024-03-01,58,Chinese,748.31,1.95,39,Card,4.7,Delivered
+612,2024-10-05,33,Chinese,827.44,3.48,68,Card,4.4,Delivered
+613,2024-05-20,39,Italian,1178.69,2.06,51,Wallet,3.0,Cancelled
+614,2024-05-27,38,Fast Food,837.5,5.35,33,Cash,3.2,Delayed
+615,2024-12-07,59,Fast Food,336.5,3.7,18,Card,4.5,Delayed
+616,2024-10-27,48,Indian,522.67,9.3,77,Cash,2.6,Cancelled
+617,2024-05-12,26,Cafe,1093.62,7.94,30,UPI,4.4,Delayed
+618,2024-05-25,42,Fast Food,564.79,13.51,38,Wallet,3.6,Cancelled
+619,2024-12-08,53,Indian,177.19,10.48,20,Wallet,3.1,Delivered
+620,2024-01-30,25,Cafe,776.66,10.41,31,Wallet,4.7,Delayed
+621,2024-11-14,41,Cafe,534.55,4.08,20,UPI,2.6,Delayed
+622,2024-11-25,46,Chinese,747.1,12.17,54,UPI,4.6,Delayed
+623,2024-05-22,62,Chinese,1009.58,2.69,39,Cash,4.2,Cancelled
+624,2024-03-01,55,Bakery,849.71,7.0,41,Card,3.3,Delivered
+625,2024-05-28,43,Fast Food,244.17,5.26,60,Cash,2.6,Delayed
+626,2024-08-13,43,Indian,621.07,6.81,81,Wallet,4.9,Delivered
+627,2024-07-16,19,Bakery,441.47,13.16,57,Card,3.5,Delayed
+628,2024-03-01,32,Cafe,928.24,14.5,36,UPI,3.7,Delayed
+629,2024-01-30,62,Indian,651.57,11.71,34,UPI,2.7,Delivered
+630,2024-04-13,20,Indian,728.75,7.11,46,UPI,3.7,Cancelled
+631,2024-04-18,34,Italian,158.69,11.36,63,UPI,4.2,Cancelled
+632,2024-09-27,32,Bakery,1075.08,9.42,80,Cash,4.8,Delivered
+633,2024-07-08,33,Cafe,445.59,1.34,30,Card,4.7,Delivered
+634,2024-02-07,43,Cafe,279.95,0.74,62,Wallet,4.2,Delivered
+635,2024-12-30,46,Italian,1015.09,3.87,39,Cash,2.9,Cancelled
+636,2024-05-29,52,Indian,748.66,10.4,67,UPI,3.6,Delivered
+637,2024-10-10,21,Bakery,585.45,4.27,67,Card,3.0,Delayed
+638,2024-12-31,33,Cafe,1116.1,3.11,38,Card,3.7,Delayed
+639,2024-12-28,30,Fast Food,1068.98,13.34,79,Wallet,3.9,Cancelled
+640,2024-09-15,18,Indian,964.33,1.65,76,UPI,4.0,Delivered
+641,2024-03-13,49,Chinese,682.58,2.21,19,UPI,4.0,Delivered
+642,2024-10-15,49,Bakery,860.99,12.65,53,UPI,2.8,Cancelled
+643,2024-05-19,39,Fast Food,1185.01,2.48,17,Card,4.6,Delivered
+644,2024-01-22,26,Cafe,569.53,2.45,67,Cash,2.6,Delivered
+645,2024-08-16,24,Chinese,696.27,11.58,26,UPI,3.9,Cancelled
+646,2024-03-04,61,Bakery,577.69,10.58,17,Card,3.4,Cancelled
+647,2024-07-27,58,Fast Food,1187.07,5.17,43,Card,2.6,Cancelled
+648,2024-06-02,18,Indian,712.31,13.14,46,UPI,2.7,Delayed
+649,2024-02-03,20,Bakery,1066.22,11.64,15,Wallet,4.4,Cancelled
+650,2024-01-05,31,Chinese,284.07,3.62,36,Card,4.7,Cancelled
+651,2024-06-07,58,Chinese,888.28,13.15,79,Cash,2.9,Delayed
+652,2024-06-01,56,Bakery,278.95,12.72,48,Card,4.1,Delayed
+653,2024-09-04,52,Fast Food,305.52,2.97,49,Cash,3.7,Cancelled
+654,2024-04-30,41,Italian,171.62,4.41,68,Wallet,4.5,Delivered
+655,2024-07-20,60,Chinese,309.07,4.37,87,Cash,2.9,Delayed
+656,2024-06-25,24,Fast Food,948.17,13.58,83,Wallet,5.0,Delayed
+657,2024-09-12,35,Cafe,373.86,12.18,45,Wallet,4.6,Cancelled
+658,2024-02-15,35,Cafe,306.64,11.06,30,Card,2.9,Cancelled
+659,2024-05-19,55,Italian,804.34,1.68,60,Cash,3.1,Cancelled
+660,2024-07-22,22,Fast Food,724.63,11.75,25,UPI,3.3,Delivered
+661,2024-08-29,24,Bakery,1005.97,10.38,65,Cash,4.4,Delayed
+662,2024-07-15,61,Chinese,1120.79,13.78,43,Card,4.7,Delayed
+663,2024-03-21,54,Chinese,839.15,5.23,77,Wallet,4.4,Delivered
+664,2024-08-16,59,Indian,488.48,7.11,26,Cash,2.7,Delivered
+665,2024-05-24,57,Cafe,382.31,14.58,46,Cash,2.6,Delivered
+666,2024-07-16,40,Fast Food,587.47,11.54,67,Card,2.8,Cancelled
+667,2024-03-21,21,Italian,1155.17,3.71,45,UPI,3.4,Delayed
+668,2024-12-17,21,Italian,340.79,10.03,16,Wallet,4.7,Delayed
+669,2024-10-17,24,Indian,718.38,11.59,79,UPI,2.8,Delivered
+670,2024-10-26,42,Cafe,1164.6,9.04,70,Cash,3.5,Delivered
+671,2024-02-16,54,Cafe,185.23,3.12,86,UPI,3.6,Cancelled
+672,2024-04-04,63,Italian,711.22,13.75,41,Wallet,4.0,Delivered
+673,2024-04-23,24,Bakery,499.02,2.24,80,Wallet,4.7,Delayed
+674,2024-11-02,37,Cafe,338.34,8.34,62,Card,4.9,Cancelled
+675,2024-10-27,25,Cafe,725.24,13.39,90,UPI,3.9,Cancelled
+676,2024-10-20,22,Italian,363.04,12.66,37,Cash,4.0,Delivered
+677,2024-06-24,22,Chinese,995.57,11.52,68,Cash,4.1,Cancelled
+678,2024-10-07,52,Italian,768.27,0.74,45,UPI,3.2,Delivered
+679,2024-02-14,52,Bakery,755.59,14.99,47,Wallet,3.7,Delivered
+680,2024-10-29,48,Cafe,989.42,14.11,50,Cash,3.1,Delivered
+681,2024-07-07,19,Chinese,692.65,13.08,82,Card,3.0,Cancelled
+682,2024-06-22,63,Bakery,756.34,10.62,61,Cash,5.0,Delayed
+683,2024-12-25,59,Indian,977.52,12.78,68,UPI,3.3,Cancelled
+684,2024-08-11,45,Cafe,894.83,14.79,59,Card,4.6,Delivered
+685,2024-07-31,42,Fast Food,271.08,2.53,70,UPI,3.8,Delayed
+686,2024-02-19,61,Bakery,851.81,9.85,56,Card,2.7,Delivered
+687,2024-03-25,56,Fast Food,320.18,14.11,85,Card,4.2,Delayed
+688,2024-08-04,31,Fast Food,1021.52,3.42,58,Wallet,4.0,Delivered
+689,2024-10-05,47,Cafe,1024.52,8.54,60,Cash,3.1,Delivered
+690,2024-07-09,39,Indian,479.07,13.54,65,Card,4.2,Delayed
+691,2024-09-04,23,Italian,446.46,12.63,32,Wallet,4.5,Cancelled
+692,2024-08-14,54,Italian,1007.86,1.84,37,UPI,4.5,Delayed
+693,2024-07-05,44,Chinese,785.87,1.5,78,Cash,4.4,Cancelled
+694,2024-03-06,63,Indian,942.65,14.66,66,Cash,4.5,Delivered
+695,2024-11-15,60,Fast Food,153.84,10.48,79,Card,4.1,Cancelled
+696,2024-04-08,35,Indian,552.91,5.16,48,Cash,2.6,Delayed
+697,2024-05-17,40,Indian,683.53,1.72,46,Cash,3.6,Cancelled
+698,2024-07-08,28,Chinese,533.63,9.84,57,UPI,4.4,Cancelled
+699,2024-01-06,28,Fast Food,439.57,11.32,75,Cash,4.3,Cancelled
+700,2024-04-04,49,Cafe,1146.08,5.67,74,UPI,3.0,Cancelled
+701,2024-07-17,20,Cafe,1183.39,5.24,77,UPI,2.7,Delayed
+702,2024-06-28,33,Indian,1099.47,0.52,89,Cash,4.2,Delayed
+703,2024-01-22,54,Bakery,501.04,1.72,87,Cash,3.7,Delayed
+704,2024-04-03,40,Chinese,1108.61,13.68,76,Cash,4.4,Delivered
+705,2024-02-06,53,Fast Food,410.16,1.09,83,Cash,3.8,Delayed
+706,2024-08-05,38,Indian,695.17,14.37,85,Cash,4.0,Delayed
+707,2024-02-18,51,Italian,610.35,13.35,85,Wallet,3.5,Cancelled
+708,2024-12-16,24,Fast Food,765.13,13.23,20,Cash,3.2,Delayed
+709,2024-05-11,34,Bakery,974.78,4.97,74,UPI,3.3,Cancelled
+710,2024-07-21,39,Bakery,751.56,10.14,31,UPI,4.7,Cancelled
+711,2024-05-06,46,Italian,688.67,6.66,42,Wallet,4.8,Cancelled
+712,2024-08-04,64,Chinese,1049.29,0.86,75,Wallet,4.8,Delivered
+713,2024-03-23,49,Cafe,712.17,2.91,41,Wallet,4.9,Delayed
+714,2024-03-31,48,Chinese,627.05,4.95,61,Cash,4.8,Delayed
+715,2024-03-12,52,Cafe,983.33,13.88,21,UPI,3.0,Delayed
+716,2024-05-22,65,Bakery,159.27,13.03,78,Cash,2.9,Cancelled
+717,2024-07-19,45,Indian,386.52,4.43,57,UPI,4.6,Delivered
+718,2024-12-01,58,Fast Food,686.52,10.64,38,Wallet,3.5,Cancelled
+719,2024-10-17,48,Bakery,213.71,8.46,37,Card,4.4,Delivered
+720,2024-06-18,64,Indian,277.69,12.82,47,Wallet,4.9,Cancelled
+721,2024-02-10,62,Indian,652.92,2.07,24,Wallet,4.7,Cancelled
+722,2024-12-18,29,Fast Food,985.31,12.31,28,Cash,3.1,Delivered
+723,2024-02-07,19,Indian,413.27,2.92,78,Card,4.0,Delivered
+724,2024-07-21,20,Fast Food,163.65,9.29,51,UPI,4.9,Delivered
+725,2024-11-02,45,Indian,256.98,7.17,17,Wallet,4.4,Delivered
+726,2024-12-27,33,Italian,262.24,11.3,86,Card,4.5,Cancelled
+727,2024-03-31,54,Cafe,387.37,2.55,52,Cash,3.2,Delivered
+728,2024-10-23,55,Fast Food,530.94,10.56,67,Wallet,4.0,Delayed
+729,2024-02-18,47,Indian,787.0,1.82,68,Card,3.8,Delivered
+730,2024-08-06,35,Indian,947.14,5.56,56,Cash,4.5,Cancelled
+731,2024-06-12,53,Cafe,832.39,13.42,15,Wallet,2.7,Delivered
+732,2024-09-18,30,Bakery,329.64,3.66,74,Cash,2.6,Cancelled
+733,2024-07-18,34,Bakery,348.52,5.79,43,UPI,3.2,Cancelled
+734,2024-07-13,56,Chinese,890.29,9.35,19,UPI,4.8,Delivered
+735,2024-02-22,21,Italian,645.83,2.86,16,Card,2.7,Cancelled
+736,2024-03-29,38,Fast Food,151.92,14.72,17,Wallet,4.0,Delayed
+737,2024-12-15,32,Cafe,1181.05,5.47,57,Card,4.9,Cancelled
+738,2024-02-27,37,Fast Food,556.67,8.97,22,UPI,4.2,Cancelled
+739,2024-05-13,23,Italian,724.9,6.92,23,Wallet,4.3,Delivered
+740,2024-11-15,60,Fast Food,413.58,10.85,73,Wallet,3.9,Delayed
+741,2024-01-10,49,Italian,914.75,4.89,65,Card,2.6,Delivered
+742,2024-07-22,64,Indian,419.6,8.21,87,UPI,3.8,Delivered
+743,2024-11-12,56,Indian,283.33,3.92,15,Cash,3.2,Delayed
+744,2024-01-16,43,Bakery,967.78,1.15,57,UPI,3.9,Delayed
+745,2024-02-12,25,Indian,671.88,2.62,39,Wallet,4.2,Delayed
+746,2024-12-05,52,Italian,966.68,14.28,42,Wallet,3.2,Cancelled
+747,2024-12-28,47,Cafe,1181.75,13.26,19,Cash,3.7,Delayed
+748,2024-02-26,47,Indian,317.34,5.56,59,Wallet,3.0,Cancelled
+749,2024-04-08,62,Italian,332.87,1.44,65,UPI,4.5,Delayed
+750,2024-11-01,56,Bakery,974.78,7.78,79,UPI,2.5,Delivered
+751,2024-09-23,64,Chinese,345.4,1.71,89,UPI,3.2,Delivered
+752,2024-05-15,36,Indian,1185.32,0.63,20,UPI,3.2,Delayed
+753,2024-06-18,53,Indian,832.38,3.89,53,UPI,3.3,Delayed
+754,2024-12-19,37,Chinese,339.28,2.96,64,Wallet,3.9,Delivered
+755,2024-03-29,57,Italian,452.69,10.34,53,UPI,4.3,Delayed
+756,2024-04-14,55,Bakery,978.59,8.9,80,Wallet,2.6,Cancelled
+757,2024-03-15,29,Chinese,269.52,13.95,42,UPI,3.0,Delivered
+758,2024-10-04,50,Cafe,908.98,12.63,87,Cash,4.6,Cancelled
+759,2024-08-09,44,Italian,1044.48,12.16,22,Card,3.2,Cancelled
+760,2024-09-23,19,Italian,416.13,11.95,67,UPI,4.9,Delayed
+761,2024-02-18,35,Italian,401.32,7.87,85,UPI,4.0,Delivered
+762,2024-05-31,36,Cafe,617.04,11.07,76,Cash,4.2,Delayed
+763,2024-05-13,47,Indian,497.5,1.01,27,Card,3.6,Delivered
+764,2024-02-21,61,Bakery,873.4,2.55,20,UPI,3.3,Delayed
+765,2024-04-11,48,Bakery,468.36,6.54,27,Card,4.3,Delayed
+766,2024-12-23,55,Chinese,562.83,7.08,48,Card,3.2,Delivered
+767,2024-05-09,42,Indian,1005.33,3.74,18,Card,3.8,Delayed
+768,2024-04-26,64,Italian,728.75,14.31,28,Cash,4.9,Cancelled
+769,2024-06-05,41,Indian,855.0,0.72,48,Wallet,4.9,Delivered
+770,2024-05-24,65,Indian,691.13,12.2,29,Cash,2.9,Delayed
+771,2024-05-27,41,Indian,709.32,1.14,87,Wallet,4.0,Cancelled
+772,2024-09-16,26,Indian,186.26,5.09,15,Cash,2.6,Cancelled
+773,2024-05-02,57,Chinese,736.13,3.52,45,Card,3.2,Delivered
+774,2024-02-12,56,Italian,250.63,6.72,27,UPI,3.6,Cancelled
+775,2024-01-28,65,Cafe,1101.94,12.49,63,Cash,3.8,Delayed
+776,2024-07-24,30,Indian,571.58,5.39,38,Wallet,3.3,Delivered
+777,2024-04-01,43,Italian,1173.63,4.97,30,Card,3.8,Cancelled
+778,2024-05-07,28,Bakery,1131.55,0.78,45,Card,3.3,Delayed
+779,2024-07-12,51,Cafe,341.85,12.86,31,Cash,3.2,Delayed
+780,2024-04-21,47,Italian,861.96,3.09,26,Card,4.7,Delivered
+781,2024-10-19,65,Cafe,508.3,14.43,30,UPI,2.5,Delayed
+782,2024-10-10,54,Fast Food,748.83,6.98,80,Cash,4.0,Delayed
+783,2024-08-21,53,Indian,566.78,0.83,19,Wallet,2.6,Delivered
+784,2024-06-14,41,Cafe,1150.08,3.38,82,Card,2.6,Delayed
+785,2024-02-02,33,Cafe,335.38,13.73,80,Card,4.6,Cancelled
+786,2024-12-21,43,Chinese,231.75,14.73,57,UPI,3.1,Delayed
+787,2024-03-05,55,Bakery,1088.02,6.66,36,Card,3.3,Delivered
+788,2024-10-27,35,Bakery,153.94,1.18,84,Card,2.9,Delivered
+789,2024-04-13,57,Fast Food,959.7,2.82,90,Cash,4.4,Delivered
+790,2024-03-27,51,Indian,692.15,4.11,76,Wallet,3.1,Delayed
+791,2024-02-20,27,Bakery,484.59,4.72,43,Cash,4.2,Delivered
+792,2024-09-26,33,Fast Food,1104.82,9.81,86,Card,4.1,Delivered
+793,2024-12-13,25,Bakery,515.86,8.41,39,UPI,2.9,Delivered
+794,2024-01-30,55,Indian,639.93,1.85,48,Wallet,4.7,Delivered
+795,2024-05-14,48,Indian,452.51,7.75,87,Wallet,3.8,Delivered
+796,2024-09-19,30,Indian,463.26,2.27,42,Card,2.7,Delivered
+797,2024-10-08,42,Bakery,475.68,7.98,61,Cash,3.3,Cancelled
+798,2024-03-17,36,Cafe,513.28,12.87,36,Card,4.5,Cancelled
+799,2024-09-02,29,Indian,393.59,6.31,15,Wallet,3.2,Cancelled
+800,2024-02-13,42,Cafe,767.06,14.54,40,Card,3.2,Cancelled
+801,2024-11-04,55,Cafe,192.99,14.16,43,Card,4.5,Delivered
+802,2024-07-23,29,Cafe,273.53,1.33,79,UPI,3.8,Cancelled
+803,2024-11-14,29,Chinese,969.81,14.45,65,Wallet,3.1,Cancelled
+804,2024-12-05,56,Cafe,655.84,8.66,18,Wallet,3.8,Cancelled
+805,2024-12-04,58,Chinese,258.45,0.52,76,Cash,4.8,Delivered
+806,2024-01-04,28,Indian,362.47,13.12,64,UPI,4.2,Delayed
+807,2024-01-28,20,Chinese,459.94,4.83,89,Cash,4.5,Cancelled
+808,2024-07-04,41,Italian,654.13,1.01,51,Card,3.3,Delayed
+809,2024-03-29,53,Fast Food,269.03,8.89,15,Cash,3.5,Delayed
+810,2024-08-17,61,Chinese,816.66,0.94,67,Cash,4.1,Delivered
+811,2024-04-25,50,Chinese,570.23,9.42,90,Cash,3.9,Delayed
+812,2024-01-12,38,Italian,660.01,9.89,52,Wallet,3.2,Delivered
+813,2024-06-15,49,Indian,336.22,5.41,58,Wallet,3.0,Delayed
+814,2024-04-26,58,Bakery,608.58,3.08,44,UPI,3.8,Delivered
+815,2024-07-02,64,Bakery,417.43,13.01,81,Card,4.7,Delayed
+816,2024-12-03,45,Italian,1053.22,2.45,32,Card,2.9,Delivered
+817,2024-05-17,25,Fast Food,367.83,14.4,57,Wallet,3.4,Delayed
+818,2024-10-31,24,Indian,914.66,5.95,60,Card,3.0,Cancelled
+819,2024-10-23,22,Cafe,730.29,11.29,84,Card,4.7,Delayed
+820,2024-09-18,27,Chinese,640.43,1.85,26,Wallet,4.7,Delivered
+821,2024-09-18,53,Fast Food,1180.2,5.53,55,Wallet,4.2,Delayed
+822,2024-01-10,41,Bakery,534.56,5.84,38,Wallet,3.9,Delivered
+823,2024-07-11,28,Indian,281.33,13.15,41,Cash,4.1,Delayed
+824,2024-12-30,18,Fast Food,677.84,5.71,27,Wallet,4.5,Delivered
+825,2024-11-23,63,Cafe,1026.03,8.17,69,UPI,4.6,Delivered
+826,2024-06-28,49,Fast Food,1182.74,3.3,81,Wallet,3.9,Delayed
+827,2024-07-21,54,Italian,155.22,0.57,27,Card,3.5,Delivered
+828,2024-12-13,23,Chinese,252.6,11.3,20,Cash,3.7,Delivered
+829,2024-12-26,30,Bakery,580.05,5.13,83,Card,3.6,Delivered
+830,2024-08-24,53,Fast Food,286.49,10.69,30,Card,3.2,Delivered
+831,2024-12-02,50,Chinese,589.09,13.51,36,Cash,3.5,Cancelled
+832,2024-04-27,24,Chinese,612.48,3.63,30,Card,3.5,Delayed
+833,2024-10-26,49,Italian,522.49,10.32,44,Wallet,3.4,Cancelled
+834,2024-11-09,65,Chinese,696.96,13.49,55,Wallet,2.9,Delayed
+835,2024-01-30,51,Cafe,384.37,9.7,53,UPI,4.1,Delayed
+836,2024-06-29,56,Italian,933.63,2.2,56,Card,4.2,Delayed
+837,2024-03-15,28,Fast Food,1180.72,7.3,36,Card,3.6,Delayed
+838,2024-08-20,36,Cafe,198.42,8.57,28,UPI,3.0,Cancelled
+839,2024-11-27,33,Indian,510.73,12.76,52,Wallet,4.7,Cancelled
+840,2024-05-26,20,Bakery,280.77,12.94,65,Card,2.9,Delayed
+841,2024-08-14,20,Italian,327.44,0.86,29,Card,2.8,Cancelled
+842,2024-03-24,47,Fast Food,461.49,13.67,29,Cash,2.9,Cancelled
+843,2024-01-08,28,Cafe,597.92,9.32,37,UPI,3.4,Cancelled
+844,2024-09-25,51,Cafe,1025.66,11.11,63,Cash,4.3,Delivered
+845,2024-12-01,27,Fast Food,342.32,9.24,32,Card,4.2,Delivered
+846,2024-02-25,36,Italian,916.06,12.26,43,Wallet,3.5,Cancelled
+847,2024-01-05,26,Bakery,643.99,5.06,25,Card,3.2,Delivered
+848,2024-04-25,44,Italian,914.52,9.32,81,Cash,4.1,Delayed
+849,2024-03-14,56,Cafe,684.12,9.64,59,UPI,4.0,Delayed
+850,2024-07-27,27,Fast Food,238.4,11.2,68,UPI,4.1,Cancelled
+851,2024-04-08,54,Italian,672.32,8.47,52,Cash,3.1,Delivered
+852,2024-05-07,30,Fast Food,250.56,7.9,20,Wallet,3.0,Cancelled
+853,2024-08-16,18,Fast Food,502.13,6.18,41,Card,3.3,Delivered
+854,2024-10-21,43,Bakery,262.37,9.4,56,Card,3.3,Delivered
+855,2024-11-29,37,Chinese,1072.4,2.13,35,Cash,4.9,Delayed
+856,2024-07-12,48,Fast Food,694.88,5.22,26,Wallet,3.9,Delivered
+857,2024-02-08,60,Chinese,932.55,9.9,34,Wallet,4.3,Delivered
+858,2024-03-15,46,Chinese,476.31,13.53,16,Wallet,3.4,Delivered
+859,2024-03-16,42,Bakery,352.34,10.21,19,UPI,4.0,Delayed
+860,2024-12-05,38,Indian,168.31,14.16,52,Card,2.5,Delivered
+861,2024-08-16,45,Fast Food,1167.91,12.75,43,UPI,3.3,Delivered
+862,2024-01-17,40,Fast Food,657.95,7.7,89,Cash,4.8,Delivered
+863,2024-01-04,49,Cafe,439.16,6.33,39,Card,4.9,Delivered
+864,2024-10-13,44,Fast Food,423.1,8.59,24,UPI,3.0,Cancelled
+865,2024-08-16,57,Cafe,411.0,6.61,60,Wallet,4.5,Delivered
+866,2024-08-01,46,Fast Food,1137.92,4.61,76,Cash,4.9,Delayed
+867,2024-03-28,23,Cafe,562.64,11.92,73,Wallet,2.8,Delayed
+868,2024-08-29,54,Fast Food,1118.58,7.25,25,Card,4.3,Delayed
+869,2024-02-02,40,Fast Food,577.87,13.81,58,Wallet,4.5,Delivered
+870,2024-08-30,60,Italian,304.08,3.25,58,Cash,4.2,Cancelled
+871,2024-09-07,46,Cafe,822.55,9.72,65,Wallet,3.2,Delayed
+872,2024-02-25,19,Fast Food,1128.98,4.03,54,Cash,2.9,Delivered
+873,2024-08-07,54,Chinese,670.73,8.24,27,Card,4.6,Delivered
+874,2024-02-20,19,Italian,962.78,14.1,62,UPI,4.0,Delivered
+875,2024-09-26,44,Bakery,877.04,1.25,46,Cash,4.3,Delayed
+876,2024-03-13,34,Fast Food,464.41,13.43,85,UPI,4.5,Delayed
+877,2024-05-17,19,Italian,851.41,2.29,67,Cash,3.5,Delayed
+878,2024-11-09,52,Bakery,1183.42,12.79,25,UPI,3.0,Delayed
+879,2024-02-06,30,Chinese,1119.21,13.57,18,Card,2.6,Delivered
+880,2024-02-09,47,Indian,787.48,4.8,61,Wallet,3.1,Delayed
+881,2024-08-23,48,Fast Food,803.99,7.03,58,UPI,3.4,Delayed
+882,2024-02-29,22,Cafe,1120.88,5.28,37,Card,2.8,Delayed
+883,2024-02-26,63,Cafe,964.45,10.82,21,Card,3.7,Delayed
+884,2024-09-03,40,Chinese,686.04,9.25,59,Cash,4.1,Cancelled
+885,2024-06-25,45,Chinese,227.48,6.55,77,Card,4.4,Delayed
+886,2024-01-28,43,Chinese,980.6,12.55,35,Card,4.1,Delivered
+887,2024-10-28,43,Chinese,377.59,10.43,89,Cash,4.9,Cancelled
+888,2024-12-01,60,Cafe,597.1,9.59,60,Cash,4.1,Cancelled
+889,2024-01-23,58,Italian,1087.41,6.33,54,UPI,4.6,Delayed
+890,2024-06-09,37,Cafe,916.16,10.9,80,Wallet,4.3,Delayed
+891,2024-10-10,50,Cafe,994.47,9.98,37,Cash,4.1,Delayed
+892,2024-10-04,52,Italian,828.17,4.67,54,Card,4.8,Cancelled
+893,2024-11-09,57,Italian,1113.85,6.78,18,Wallet,3.5,Delivered
+894,2024-03-25,31,Indian,932.3,14.77,44,UPI,4.6,Delayed
+895,2024-02-19,61,Bakery,365.45,12.14,19,Card,4.1,Delivered
+896,2024-01-19,32,Italian,658.92,0.76,21,Card,2.9,Delivered
+897,2024-10-22,53,Bakery,940.19,9.64,15,Wallet,4.4,Delivered
+898,2024-05-03,45,Cafe,1134.13,7.23,51,Wallet,3.5,Delivered
+899,2024-11-07,28,Fast Food,1073.18,5.66,61,UPI,3.6,Cancelled
+900,2024-08-24,56,Indian,788.09,2.8,78,Card,4.6,Delivered
+901,2024-05-07,44,Bakery,772.17,10.11,69,Cash,4.4,Cancelled
+902,2024-12-03,54,Bakery,870.06,4.11,20,UPI,2.9,Delayed
+903,2024-02-20,37,Indian,802.44,14.01,19,UPI,3.6,Delayed
+904,2024-05-20,26,Fast Food,172.39,7.79,80,UPI,4.6,Delayed
+905,2024-08-15,27,Chinese,255.03,8.89,47,Cash,3.9,Delivered
+906,2024-10-06,43,Bakery,336.05,7.25,27,UPI,4.2,Delivered
+907,2024-07-20,25,Cafe,778.54,8.94,60,Card,3.3,Cancelled
+908,2024-08-03,47,Cafe,380.56,3.58,80,Cash,4.1,Cancelled
+909,2024-07-10,48,Chinese,451.16,6.71,49,UPI,2.9,Cancelled
+910,2024-12-30,60,Italian,816.48,13.84,29,UPI,4.6,Delivered
+911,2024-01-13,49,Cafe,625.99,13.37,37,UPI,2.5,Cancelled
+912,2024-09-24,44,Indian,678.96,13.04,82,Card,4.6,Cancelled
+913,2024-05-08,31,Chinese,896.16,11.59,34,UPI,3.4,Delivered
+914,2024-06-10,55,Cafe,1035.59,10.3,77,UPI,3.6,Cancelled
+915,2024-08-28,31,Indian,826.41,3.06,23,Cash,3.6,Cancelled
+916,2024-09-08,38,Fast Food,529.91,8.84,78,UPI,4.1,Cancelled
+917,2024-01-11,62,Cafe,267.66,2.03,17,Cash,4.3,Cancelled
+918,2024-08-03,24,Bakery,1096.62,14.52,88,Wallet,3.2,Delivered
+919,2024-01-06,23,Cafe,394.33,8.18,29,Card,3.9,Cancelled
+920,2024-08-13,39,Italian,663.72,4.58,76,Cash,4.3,Cancelled
+921,2024-04-18,26,Italian,891.89,12.73,48,UPI,4.3,Cancelled
+922,2024-08-22,36,Bakery,790.1,5.83,64,Cash,2.7,Cancelled
+923,2024-12-17,23,Chinese,1040.45,13.42,45,Wallet,3.1,Cancelled
+924,2024-03-15,32,Chinese,1071.05,13.93,69,Wallet,4.7,Delayed
+925,2024-03-12,53,Bakery,295.85,9.95,80,Wallet,2.6,Delivered
+926,2024-12-12,62,Indian,537.6,8.16,71,Cash,4.6,Delivered
+927,2024-12-16,41,Chinese,1077.41,14.06,59,Card,2.9,Delayed
+928,2024-01-22,19,Bakery,1085.41,7.53,25,Card,2.5,Cancelled
+929,2024-02-14,33,Bakery,1053.42,11.56,21,Card,4.8,Cancelled
+930,2024-04-29,44,Cafe,372.95,8.78,62,Card,4.1,Delivered
+931,2024-08-25,50,Italian,470.07,12.06,18,UPI,4.5,Cancelled
+932,2024-05-31,62,Cafe,993.2,9.38,56,Cash,3.1,Cancelled
+933,2024-01-28,31,Fast Food,1071.69,12.43,31,Cash,3.2,Delayed
+934,2024-12-02,50,Indian,315.69,1.7,38,Card,4.7,Delayed
+935,2024-03-03,37,Bakery,717.09,4.78,84,UPI,3.3,Delayed
+936,2024-04-29,63,Fast Food,262.65,1.44,24,Cash,3.3,Delivered
+937,2024-11-13,53,Bakery,848.62,7.95,76,Card,4.1,Delayed
+938,2024-11-02,65,Chinese,200.54,7.19,32,Wallet,3.1,Delayed
+939,2024-05-25,65,Italian,870.62,1.12,37,Cash,2.6,Delayed
+940,2024-09-02,26,Italian,304.05,6.84,38,Cash,4.3,Delayed
+941,2024-03-12,27,Chinese,759.81,3.57,21,Wallet,3.6,Delayed
+942,2024-12-12,62,Chinese,1033.94,12.99,43,Wallet,2.8,Delayed
+943,2024-05-17,40,Chinese,496.46,1.58,63,UPI,5.0,Cancelled
+944,2024-10-22,18,Italian,297.76,11.72,21,Cash,4.6,Delayed
+945,2024-02-02,62,Italian,296.58,10.05,53,Wallet,4.0,Cancelled
+946,2024-05-30,33,Bakery,754.41,7.94,46,Wallet,4.9,Delivered
+947,2024-08-03,45,Cafe,1147.06,12.39,48,Wallet,4.7,Delayed
+948,2024-01-27,19,Indian,1140.05,12.01,75,Cash,3.2,Delivered
+949,2024-04-12,59,Indian,877.52,8.27,80,UPI,3.4,Delayed
+950,2024-05-30,32,Bakery,658.86,6.72,32,Cash,2.8,Cancelled
+951,2024-12-10,62,Fast Food,599.93,5.05,45,Card,4.8,Delayed
+952,2024-01-23,31,Italian,666.35,8.35,50,Wallet,3.3,Delayed
+953,2024-11-01,44,Cafe,922.35,2.6,44,Wallet,3.2,Cancelled
+954,2024-05-01,58,Cafe,403.53,7.65,81,Wallet,4.0,Delayed
+955,2024-06-21,28,Bakery,737.46,5.03,78,Card,3.8,Delayed
+956,2024-05-30,41,Italian,376.81,5.23,25,Cash,3.9,Delivered
+957,2024-10-23,45,Indian,1040.22,9.64,36,Cash,4.6,Cancelled
+958,2024-07-30,49,Italian,775.78,9.13,19,Card,5.0,Cancelled
+959,2024-05-04,20,Bakery,763.48,0.61,23,Wallet,3.3,Delayed
+960,2024-07-29,56,Chinese,673.35,7.23,79,Wallet,3.1,Cancelled
+961,2024-05-08,29,Chinese,338.05,2.69,42,Wallet,3.0,Delayed
+962,2024-01-12,35,Italian,698.81,5.03,76,Wallet,4.3,Delivered
+963,2024-08-07,26,Chinese,361.2,7.59,16,Wallet,3.4,Delivered
+964,2024-01-19,64,Indian,866.05,0.81,33,UPI,3.0,Cancelled
+965,2024-05-11,56,Indian,521.31,9.05,67,Card,3.4,Cancelled
+966,2024-05-19,55,Indian,686.57,8.04,64,UPI,3.1,Delivered
+967,2024-05-25,55,Italian,785.38,2.51,28,Wallet,4.3,Delivered
+968,2024-10-24,65,Indian,1057.41,13.81,70,Wallet,4.1,Cancelled
+969,2024-01-13,46,Chinese,900.38,13.6,52,Card,4.2,Delayed
+970,2024-06-29,37,Bakery,414.29,4.38,39,Wallet,3.2,Delivered
+971,2024-03-24,57,Bakery,243.54,12.64,15,Wallet,2.9,Cancelled
+972,2024-04-04,34,Chinese,644.06,7.21,43,Cash,4.6,Delayed
+973,2024-04-04,45,Cafe,341.52,8.25,83,Wallet,3.0,Cancelled
+974,2024-11-25,38,Italian,373.5,14.23,73,UPI,3.1,Cancelled
+975,2024-01-20,53,Chinese,881.75,3.8,20,UPI,5.0,Delivered
+976,2024-02-18,34,Chinese,1052.14,10.34,79,UPI,2.8,Delivered
+977,2024-04-05,39,Bakery,234.48,11.78,48,Wallet,2.5,Delivered
+978,2024-02-16,22,Indian,986.97,3.54,89,Cash,2.7,Delayed
+979,2024-07-23,52,Fast Food,597.4,6.26,30,Cash,3.3,Cancelled
+980,2024-08-23,19,Indian,1022.47,1.04,26,Cash,4.2,Delivered
+981,2024-10-12,33,Cafe,558.99,10.99,25,UPI,3.3,Delayed
+982,2024-12-18,23,Italian,330.8,9.87,42,Cash,3.0,Delayed
+983,2024-04-02,30,Cafe,527.37,7.35,19,Card,3.7,Cancelled
+984,2024-03-29,43,Italian,1173.2,11.28,60,Cash,2.6,Delivered
+985,2024-08-23,53,Cafe,316.51,5.98,52,UPI,3.5,Delivered
+986,2024-09-03,64,Italian,269.29,2.47,60,Wallet,3.9,Cancelled
+987,2024-12-16,46,Fast Food,672.41,12.17,67,Cash,4.3,Cancelled
+988,2024-11-22,49,Indian,688.94,2.16,21,Wallet,4.3,Delivered
+989,2024-09-15,46,Bakery,255.98,13.02,59,Cash,4.1,Delivered
+990,2024-03-15,58,Chinese,493.76,4.09,32,Wallet,4.4,Cancelled
+991,2024-10-19,47,Bakery,187.33,13.31,18,Wallet,2.9,Cancelled
+992,2024-01-02,55,Chinese,662.06,11.87,41,Cash,3.4,Cancelled
+993,2024-03-01,38,Fast Food,605.55,1.64,71,Wallet,3.6,Delivered
+994,2024-05-07,53,Bakery,608.15,13.49,29,Cash,2.9,Cancelled
+995,2024-10-04,53,Fast Food,684.22,13.15,68,Cash,4.7,Cancelled
+996,2024-07-09,53,Bakery,598.32,11.73,59,Card,2.8,Delivered
+997,2024-05-19,46,Italian,436.3,10.79,29,Card,2.6,Cancelled
+998,2024-09-08,28,Chinese,489.28,8.66,52,UPI,4.7,Delayed
+999,2024-04-20,28,Bakery,586.28,1.45,65,Wallet,3.3,Cancelled
+1000,2024-03-07,54,Italian,958.93,9.53,51,Cash,3.3,Cancelled
+1001,2024-07-01,28,Chinese,522.36,6.64,49,UPI,3.3,Cancelled
+1002,2024-02-11,18,Chinese,394.67,0.75,73,Wallet,4.2,Delivered
+1003,2024-01-23,31,Italian,1018.66,13.24,22,Card,3.9,Delayed
+1004,2024-11-26,26,Chinese,462.21,6.79,60,Cash,4.1,Delivered
+1005,2024-12-24,54,Italian,231.49,9.25,77,UPI,2.9,Delayed
+1006,2024-05-06,35,Cafe,193.09,13.17,53,UPI,4.2,Cancelled
+1007,2024-04-17,51,Cafe,480.08,4.61,16,Cash,4.3,Delayed
+1008,2024-03-22,36,Cafe,716.64,7.63,84,UPI,4.7,Cancelled
+1009,2024-03-19,27,Fast Food,319.9,2.56,85,Card,2.7,Cancelled
+1010,2024-09-16,55,Bakery,579.19,13.98,47,Wallet,4.1,Delayed
+1011,2024-03-11,38,Chinese,261.83,0.85,86,Wallet,3.3,Delivered
+1012,2024-01-14,28,Cafe,899.89,5.91,48,UPI,4.0,Delivered
+1013,2024-06-13,61,Chinese,1000.59,6.4,74,Card,4.0,Cancelled
+1014,2024-11-17,29,Chinese,601.46,10.06,42,UPI,3.9,Delivered
+1015,2024-03-26,34,Bakery,1063.13,6.96,61,UPI,4.2,Delivered
+1016,2024-11-01,33,Cafe,868.36,6.91,82,UPI,4.1,Cancelled
+1017,2024-01-13,45,Fast Food,333.36,5.23,84,Card,3.9,Delivered
+1018,2024-07-26,42,Cafe,372.81,13.56,24,Card,2.7,Delivered
+1019,2024-10-10,60,Cafe,259.55,3.88,39,Cash,2.8,Delivered
+1020,2024-12-04,61,Italian,633.95,8.71,43,UPI,4.2,Delayed
+1021,2024-08-11,19,Fast Food,200.56,5.68,64,Cash,3.7,Cancelled
+1022,2024-05-18,55,Bakery,794.91,6.77,33,UPI,4.0,Delivered
+1023,2024-03-16,34,Indian,564.67,6.39,65,Card,3.7,Delivered
+1024,2024-12-29,34,Bakery,1133.88,14.62,31,Wallet,2.5,Delayed
+1025,2024-10-29,19,Chinese,174.83,2.51,24,Cash,3.9,Delayed
+1026,2024-11-28,63,Chinese,787.98,9.73,48,Cash,3.0,Delivered
+1027,2024-08-25,19,Chinese,1136.43,3.68,19,Card,3.4,Cancelled
+1028,2024-03-09,54,Bakery,1081.02,13.55,71,Card,4.1,Cancelled
+1029,2024-01-25,18,Indian,959.94,2.52,28,Wallet,4.6,Delayed
+1030,2024-07-03,40,Chinese,791.12,10.51,64,UPI,4.9,Delivered
+1031,2024-05-12,20,Bakery,180.08,2.77,33,Cash,3.7,Delivered
+1032,2024-06-30,46,Indian,285.11,2.13,50,Wallet,4.8,Delivered
+1033,2024-10-17,65,Italian,1082.95,3.01,52,Card,4.2,Cancelled
+1034,2024-07-17,28,Cafe,787.89,7.24,47,UPI,4.0,Delivered
+1035,2024-09-05,63,Indian,882.61,0.69,30,Cash,4.0,Cancelled
+1036,2024-07-27,44,Chinese,673.41,2.96,86,Wallet,4.3,Cancelled
+1037,2024-12-19,29,Bakery,887.11,3.9,16,UPI,3.2,Delivered
+1038,2024-02-29,19,Italian,321.96,9.19,40,Wallet,3.7,Cancelled
+1039,2024-05-17,58,Italian,569.27,1.0,71,Wallet,4.7,Delayed
+1040,2024-12-04,34,Bakery,983.96,10.08,21,Wallet,3.0,Delayed
+1041,2024-10-25,54,Indian,784.92,6.38,18,UPI,3.4,Cancelled
+1042,2024-11-04,65,Bakery,521.59,13.89,55,Card,4.3,Delivered
+1043,2024-04-24,36,Cafe,604.22,0.62,60,Cash,4.7,Delivered
+1044,2024-07-06,31,Italian,694.44,2.67,77,UPI,4.0,Cancelled
+1045,2024-05-13,25,Fast Food,473.93,11.68,53,Cash,4.9,Cancelled
+1046,2024-04-23,51,Cafe,1143.01,4.49,50,Card,4.1,Delivered
+1047,2024-03-08,48,Bakery,263.31,8.38,67,Cash,4.3,Delivered
+1048,2024-04-20,56,Italian,865.14,14.17,24,Wallet,3.7,Cancelled
+1049,2024-03-14,63,Cafe,283.4,5.37,82,UPI,2.5,Cancelled
+1050,2024-11-12,51,Indian,1144.56,6.46,70,Cash,4.9,Cancelled
+1051,2024-11-30,31,Fast Food,633.95,6.37,27,UPI,3.3,Cancelled
+1052,2024-10-02,31,Bakery,1116.93,12.06,59,Cash,4.7,Delivered
+1053,2024-12-25,27,Chinese,263.36,0.94,71,Cash,4.7,Delayed
+1054,2024-06-30,51,Indian,439.59,8.12,35,UPI,4.0,Delivered
+1055,2024-05-06,18,Italian,312.33,12.58,74,Wallet,4.4,Cancelled
+1056,2024-02-27,38,Bakery,394.52,7.86,85,UPI,3.8,Cancelled
+1057,2024-06-29,54,Indian,863.91,6.26,23,Card,4.2,Delivered
+1058,2024-07-28,18,Bakery,1086.52,14.73,43,Wallet,3.7,Delivered
+1059,2024-06-21,30,Cafe,533.89,5.48,42,Wallet,3.8,Cancelled
+1060,2024-01-20,19,Fast Food,719.69,2.51,71,Wallet,4.5,Delayed
+1061,2024-11-07,29,Fast Food,783.35,3.19,33,UPI,3.0,Cancelled
+1062,2024-09-29,38,Fast Food,460.28,10.52,41,Wallet,2.5,Cancelled
+1063,2024-09-02,32,Bakery,385.99,6.62,45,Card,3.8,Cancelled
+1064,2024-02-16,21,Bakery,597.91,4.98,67,Card,4.0,Delayed
+1065,2024-08-25,24,Bakery,827.65,10.68,68,Cash,3.1,Delayed
+1066,2024-09-20,64,Fast Food,870.91,12.97,38,Card,3.1,Delayed
+1067,2024-12-18,60,Bakery,593.64,3.6,37,UPI,2.8,Cancelled
+1068,2024-08-04,40,Fast Food,169.03,13.47,36,Cash,2.5,Delayed
+1069,2024-05-03,35,Cafe,284.87,1.02,46,UPI,4.1,Delivered
+1070,2024-07-30,57,Indian,485.8,3.66,45,Card,3.7,Cancelled
+1071,2024-01-28,63,Bakery,653.36,12.94,38,Card,3.0,Cancelled
+1072,2024-02-25,39,Fast Food,861.69,10.39,22,Cash,4.6,Delivered
+1073,2024-07-25,62,Cafe,1017.58,10.46,74,Card,4.5,Delivered
+1074,2024-06-24,18,Fast Food,1063.23,3.09,54,Wallet,3.6,Cancelled
+1075,2024-09-06,21,Cafe,688.71,0.82,45,Card,3.4,Delivered
+1076,2024-12-14,46,Cafe,786.1,13.81,58,Wallet,2.7,Cancelled
+1077,2024-09-18,33,Bakery,917.0,1.72,47,Wallet,2.5,Delayed
+1078,2024-10-27,55,Bakery,607.37,9.27,70,Cash,3.8,Delivered
+1079,2024-03-03,25,Bakery,912.39,8.66,26,Wallet,2.8,Delayed
+1080,2024-04-06,25,Fast Food,1088.0,7.39,59,Card,3.2,Cancelled
+1081,2024-03-01,24,Fast Food,343.45,8.72,78,Cash,4.4,Cancelled
+1082,2024-08-01,21,Fast Food,253.99,1.83,76,UPI,4.7,Delayed
+1083,2024-02-29,51,Indian,368.12,10.32,81,Cash,4.1,Delayed
+1084,2024-10-09,65,Cafe,770.48,1.61,70,Cash,4.9,Delayed
+1085,2024-10-11,60,Cafe,760.6,13.14,58,UPI,2.8,Delayed
+1086,2024-09-12,21,Fast Food,694.14,8.74,22,Wallet,3.8,Delivered
+1087,2024-11-08,61,Fast Food,985.23,11.36,18,Cash,4.2,Delayed
+1088,2024-07-01,45,Italian,1053.84,11.7,25,Wallet,4.1,Cancelled
+1089,2024-05-15,28,Chinese,547.93,10.06,39,Wallet,4.4,Delivered
+1090,2024-02-13,57,Fast Food,455.7,2.25,83,Card,2.8,Delayed
+1091,2024-08-18,21,Indian,517.78,8.99,35,UPI,3.8,Delayed
+1092,2024-03-20,31,Italian,1031.15,1.17,30,UPI,3.0,Delayed
+1093,2024-06-18,19,Fast Food,215.63,3.92,55,Wallet,4.8,Delivered
+1094,2024-01-22,21,Cafe,1101.2,13.64,89,UPI,2.7,Delivered
+1095,2024-11-10,19,Italian,898.76,7.61,54,Cash,3.9,Delivered
+1096,2024-10-11,39,Bakery,379.22,0.57,71,Wallet,2.8,Cancelled
+1097,2024-02-13,50,Chinese,1124.53,5.77,22,Cash,2.8,Cancelled
+1098,2024-08-15,22,Fast Food,931.9,4.83,87,Cash,4.6,Delayed
+1099,2024-11-24,29,Cafe,779.96,8.47,41,Wallet,2.9,Delayed
+1100,2024-12-04,63,Bakery,1083.6,4.93,67,Card,3.7,Cancelled
+1101,2024-08-12,24,Indian,944.48,1.21,63,UPI,4.9,Delivered
+1102,2024-06-28,38,Cafe,554.24,0.61,53,Card,4.0,Delivered
+1103,2024-10-13,42,Bakery,172.19,8.54,31,Cash,3.3,Cancelled
+1104,2024-06-10,38,Italian,1043.84,9.8,59,Card,4.9,Delivered
+1105,2024-04-15,50,Cafe,835.14,4.14,15,UPI,3.0,Cancelled
+1106,2024-02-09,37,Cafe,728.5,9.95,53,Wallet,3.3,Cancelled
+1107,2024-05-13,42,Fast Food,259.76,8.8,53,Card,3.6,Delayed
+1108,2024-09-19,55,Bakery,614.51,4.3,83,Wallet,3.2,Delayed
+1109,2024-05-30,29,Fast Food,613.31,10.03,54,Cash,2.6,Delayed
+1110,2024-04-28,62,Fast Food,543.08,4.84,22,Cash,3.3,Cancelled
+1111,2024-03-16,58,Indian,374.62,9.82,21,Card,4.8,Delayed
+1112,2024-09-23,27,Bakery,406.44,1.81,50,Wallet,3.6,Cancelled
+1113,2024-05-02,59,Bakery,988.12,8.91,89,Wallet,3.7,Delayed
+1114,2024-04-23,30,Fast Food,470.08,4.97,30,Wallet,2.9,Delayed
+1115,2024-11-13,52,Indian,855.38,13.84,64,Card,3.6,Delayed
+1116,2024-02-16,27,Indian,667.47,9.21,38,UPI,4.9,Delivered
+1117,2024-10-27,42,Chinese,560.77,7.9,51,Card,3.0,Cancelled
+1118,2024-03-13,30,Cafe,1115.96,2.14,77,UPI,4.1,Delivered
+1119,2024-08-22,56,Italian,269.92,3.43,82,Card,3.3,Cancelled
+1120,2024-11-12,54,Cafe,173.64,14.82,87,Wallet,2.6,Delivered
+1121,2024-12-31,31,Cafe,845.45,12.85,29,Wallet,2.5,Cancelled
+1122,2024-02-22,60,Indian,1022.95,14.38,42,Cash,3.8,Delivered
+1123,2024-07-31,22,Cafe,276.24,13.91,35,Cash,2.8,Delayed
+1124,2024-05-10,39,Italian,1059.31,8.45,52,Wallet,3.8,Cancelled
+1125,2024-08-14,22,Bakery,729.0,9.65,57,Card,2.8,Delayed
+1126,2024-01-19,34,Chinese,516.24,8.41,41,Card,2.8,Delivered
+1127,2024-11-13,40,Bakery,362.85,5.81,88,Card,3.0,Delivered
+1128,2024-08-10,29,Indian,1047.0,14.93,60,Cash,3.8,Cancelled
+1129,2024-01-29,42,Cafe,983.01,11.6,26,Card,4.7,Delayed
+1130,2024-02-24,60,Bakery,406.87,10.59,60,Card,2.7,Cancelled
+1131,2024-10-12,50,Italian,244.42,1.56,76,UPI,3.9,Delayed
+1132,2024-05-24,63,Indian,594.15,7.88,90,Cash,3.5,Delayed
+1133,2024-11-06,54,Indian,373.42,11.72,86,Wallet,3.5,Delayed
+1134,2024-12-23,23,Chinese,505.93,5.06,35,Cash,3.6,Cancelled
+1135,2024-11-24,41,Cafe,843.51,3.04,57,Cash,3.6,Delivered
+1136,2024-10-30,28,Fast Food,160.98,11.32,85,UPI,4.2,Delayed
+1137,2024-02-23,28,Chinese,740.22,12.39,83,Cash,4.8,Cancelled
+1138,2024-12-16,65,Chinese,561.19,11.57,32,Card,3.1,Delayed
+1139,2024-03-17,37,Bakery,316.91,2.52,26,Wallet,4.5,Delayed
+1140,2024-07-04,31,Bakery,1083.4,6.74,57,UPI,4.7,Cancelled
+1141,2024-07-04,25,Fast Food,917.2,7.05,84,Cash,4.3,Cancelled
+1142,2024-05-11,61,Chinese,1016.11,1.83,64,Card,3.2,Cancelled
+1143,2024-08-22,65,Chinese,857.71,13.4,69,Card,3.1,Cancelled
+1144,2024-11-08,29,Italian,886.94,5.67,35,Cash,4.6,Delayed
+1145,2024-01-29,50,Fast Food,812.05,7.16,35,Card,3.8,Cancelled
+1146,2024-06-13,21,Italian,346.56,1.62,46,Card,4.6,Delivered
+1147,2024-02-13,36,Chinese,827.0,2.4,34,Cash,3.2,Delayed
+1148,2024-01-06,62,Fast Food,585.97,8.98,16,Card,2.6,Delayed
+1149,2024-12-02,52,Fast Food,502.02,2.57,33,Wallet,3.2,Cancelled
+1150,2024-09-21,56,Chinese,1109.85,11.96,16,Cash,2.9,Delivered
+1151,2024-08-02,44,Cafe,992.33,13.9,68,Cash,4.0,Cancelled
+1152,2024-12-08,35,Chinese,314.17,13.16,69,UPI,4.8,Delivered
+1153,2024-07-19,45,Indian,1047.7,12.0,57,Card,2.5,Delivered
+1154,2024-12-13,18,Bakery,1080.21,4.23,61,Card,3.8,Cancelled
+1155,2024-01-05,41,Indian,627.61,10.38,36,UPI,4.7,Delayed
+1156,2024-12-04,25,Indian,602.62,14.29,59,Card,3.4,Cancelled
+1157,2024-03-25,31,Chinese,256.85,3.19,39,UPI,2.7,Delayed
+1158,2024-02-05,54,Indian,251.57,9.37,72,Cash,4.6,Delivered
+1159,2024-04-19,49,Cafe,419.86,1.55,65,Card,4.0,Cancelled
+1160,2024-10-02,20,Cafe,569.89,9.15,39,UPI,4.8,Delayed
+1161,2024-04-25,46,Bakery,940.7,14.35,59,UPI,3.7,Delayed
+1162,2024-01-22,45,Cafe,507.47,0.53,53,UPI,3.3,Delivered
+1163,2024-03-03,33,Indian,500.67,1.9,36,Card,3.5,Cancelled
+1164,2024-09-11,18,Italian,1038.74,10.61,48,Wallet,4.6,Cancelled
+1165,2024-03-16,34,Cafe,749.03,0.6,67,Wallet,4.8,Cancelled
+1166,2024-07-26,58,Bakery,849.32,6.76,74,Wallet,4.4,Delayed
+1167,2024-09-06,37,Bakery,1081.07,4.86,20,Card,3.5,Delivered
+1168,2024-09-02,24,Cafe,779.02,6.88,65,Card,4.5,Delivered
+1169,2024-01-04,51,Bakery,211.6,10.17,22,Cash,3.6,Delayed
+1170,2024-01-24,30,Fast Food,392.46,9.97,29,Wallet,4.0,Cancelled
+1171,2024-10-13,58,Cafe,537.14,6.19,49,Card,2.7,Delivered
+1172,2024-08-27,49,Chinese,332.9,13.49,39,Wallet,3.0,Delayed
+1173,2024-02-15,32,Fast Food,1140.35,1.05,80,Wallet,3.2,Delivered
+1174,2024-12-21,54,Bakery,616.99,10.98,71,Wallet,3.8,Cancelled
+1175,2024-07-24,61,Cafe,609.42,7.56,49,Card,2.8,Cancelled
+1176,2024-09-18,49,Bakery,992.85,13.04,46,UPI,4.6,Cancelled
+1177,2024-05-07,52,Cafe,471.45,2.05,59,Wallet,2.6,Cancelled
+1178,2024-08-28,45,Fast Food,568.0,4.28,60,Card,3.0,Delayed
+1179,2024-07-20,38,Bakery,1110.5,3.11,89,UPI,3.2,Cancelled
+1180,2024-10-31,28,Fast Food,318.62,9.48,27,Card,3.5,Cancelled
+1181,2024-01-04,63,Cafe,1001.51,2.13,22,Wallet,4.7,Delayed
+1182,2024-12-06,28,Italian,1196.73,14.12,40,Cash,3.9,Delayed
+1183,2024-11-16,56,Indian,794.77,7.16,86,Cash,4.3,Delivered
+1184,2024-03-30,34,Indian,623.53,9.62,19,Wallet,4.5,Cancelled
+1185,2024-04-16,29,Fast Food,608.63,10.39,33,Wallet,4.2,Delayed
+1186,2024-01-27,54,Italian,698.98,14.68,55,UPI,4.6,Cancelled
+1187,2024-11-30,33,Indian,534.47,3.68,80,UPI,3.4,Delivered
+1188,2024-10-24,62,Bakery,313.51,12.29,17,UPI,4.7,Cancelled
+1189,2024-11-27,53,Italian,215.0,7.79,79,UPI,4.2,Cancelled
+1190,2024-01-19,46,Italian,315.62,9.54,48,Card,3.3,Cancelled
+1191,2024-03-27,59,Cafe,843.0,7.27,37,Wallet,3.2,Delivered
+1192,2024-11-05,38,Chinese,393.45,9.07,76,UPI,3.7,Delayed
+1193,2024-08-20,59,Italian,795.26,12.29,59,Wallet,3.1,Delivered
+1194,2024-11-29,45,Fast Food,834.81,12.88,42,UPI,3.9,Delayed
+1195,2024-01-25,61,Fast Food,668.31,14.34,66,UPI,4.1,Delivered
+1196,2024-07-19,57,Indian,908.06,8.21,28,UPI,2.8,Delivered
+1197,2024-03-20,29,Bakery,252.38,14.62,20,UPI,3.1,Cancelled
+1198,2024-12-05,49,Fast Food,481.83,4.24,71,Cash,3.8,Delayed
+1199,2024-01-19,63,Fast Food,850.73,5.46,76,Wallet,3.9,Cancelled
+1200,2024-03-12,30,Chinese,164.21,5.61,33,UPI,3.4,Cancelled
+1201,2024-11-28,31,Indian,679.67,6.84,22,Card,3.6,Delivered
+1202,2024-02-24,33,Chinese,586.55,7.97,27,Wallet,3.4,Delivered
+1203,2024-01-02,21,Bakery,894.17,12.03,23,Card,2.5,Cancelled
+1204,2024-01-21,65,Chinese,627.72,9.93,62,UPI,4.9,Cancelled
+1205,2024-08-20,64,Bakery,170.9,1.78,19,Card,3.3,Cancelled
+1206,2024-06-05,32,Fast Food,684.12,10.73,54,Wallet,2.7,Cancelled
+1207,2024-06-29,65,Cafe,334.45,10.1,16,Wallet,3.1,Delivered
+1208,2024-12-12,52,Cafe,745.51,5.73,89,UPI,3.0,Delivered
+1209,2024-08-02,26,Fast Food,960.01,8.1,59,Wallet,3.1,Delivered
+1210,2024-01-08,32,Italian,308.58,12.27,56,UPI,4.7,Delayed
+1211,2024-06-11,49,Indian,229.52,13.26,38,Wallet,3.5,Delivered
+1212,2024-12-10,27,Bakery,721.5,2.61,58,Cash,2.6,Cancelled
+1213,2024-09-21,50,Chinese,700.31,3.99,79,UPI,3.4,Delayed
+1214,2024-05-19,37,Chinese,593.28,10.1,15,UPI,4.2,Delivered
+1215,2024-11-16,54,Indian,338.32,1.51,22,Wallet,3.7,Delayed
+1216,2024-06-30,45,Bakery,1102.1,12.95,40,Cash,2.5,Cancelled
+1217,2024-06-17,18,Fast Food,319.71,11.78,68,UPI,2.6,Delayed
+1218,2024-05-15,63,Fast Food,820.65,11.86,35,Cash,3.0,Delivered
+1219,2024-03-11,56,Chinese,789.95,6.33,18,Card,4.5,Delivered
+1220,2024-02-27,41,Fast Food,258.2,13.44,88,Card,4.1,Delivered
+1221,2024-01-02,60,Fast Food,368.91,7.89,21,Card,3.6,Delivered
+1222,2024-11-28,25,Indian,875.94,7.23,74,Card,4.5,Delivered
+1223,2024-09-10,27,Chinese,529.89,3.68,86,Card,3.9,Delivered
+1224,2024-11-02,62,Chinese,595.67,10.23,78,Cash,4.5,Delayed
+1225,2024-10-27,56,Fast Food,280.76,9.47,80,Wallet,2.8,Delayed
+1226,2024-12-31,19,Fast Food,415.56,14.8,65,Cash,4.2,Delayed
+1227,2024-02-21,57,Italian,721.76,11.94,83,Card,4.1,Cancelled
+1228,2024-11-07,56,Fast Food,673.4,1.25,85,Cash,3.3,Cancelled
+1229,2024-11-27,47,Italian,199.65,12.04,52,Wallet,4.0,Delivered
+1230,2024-04-21,59,Cafe,1093.09,6.61,76,UPI,3.2,Cancelled
+1231,2024-02-21,42,Bakery,340.92,3.34,45,Card,2.6,Cancelled
+1232,2024-07-08,36,Fast Food,155.88,7.87,87,Cash,3.3,Cancelled
+1233,2024-08-08,32,Chinese,1016.52,1.2,87,Card,3.4,Cancelled
+1234,2024-02-25,51,Italian,192.48,13.22,56,Wallet,2.8,Delayed
+1235,2024-11-24,57,Chinese,616.26,13.54,20,UPI,3.4,Cancelled
+1236,2024-06-16,48,Chinese,678.71,2.33,16,Cash,4.1,Delivered
+1237,2024-03-23,23,Cafe,1112.45,11.2,49,Wallet,4.4,Delayed
+1238,2024-04-30,60,Italian,250.99,11.38,64,Wallet,3.8,Cancelled
+1239,2024-03-07,19,Chinese,1153.56,6.4,63,UPI,3.0,Delayed
+1240,2024-08-24,30,Chinese,623.34,2.25,54,Card,3.0,Delayed
+1241,2024-12-02,55,Chinese,758.29,2.69,61,Wallet,3.7,Delivered
+1242,2024-11-03,35,Cafe,292.59,13.81,29,Card,4.7,Delayed
+1243,2024-01-09,22,Chinese,674.17,4.66,70,Wallet,3.1,Cancelled
+1244,2024-03-18,22,Chinese,909.66,4.76,90,UPI,2.8,Delivered
+1245,2024-07-26,41,Fast Food,1162.06,11.9,53,Cash,3.1,Delayed
+1246,2024-09-22,63,Fast Food,647.16,14.69,56,Card,3.0,Delayed
+1247,2024-07-29,35,Cafe,289.38,1.94,70,Wallet,4.1,Delayed
+1248,2024-09-23,19,Bakery,520.33,3.89,82,Wallet,2.9,Delivered
+1249,2024-01-09,39,Chinese,589.49,13.48,59,UPI,4.5,Delivered
+1250,2024-05-23,31,Chinese,1082.14,13.97,19,Card,3.0,Delayed
+1251,2024-05-15,19,Bakery,1028.82,5.65,30,UPI,2.7,Delivered
+1252,2024-08-27,37,Indian,425.62,8.99,84,Wallet,4.2,Delivered
+1253,2024-10-16,55,Chinese,342.51,7.87,65,Wallet,4.3,Delivered
+1254,2024-04-01,19,Cafe,1097.47,2.8,20,UPI,2.9,Cancelled
+1255,2024-02-10,45,Bakery,191.35,2.34,59,Cash,3.7,Delayed
+1256,2024-05-07,59,Bakery,1040.2,7.06,55,Wallet,4.1,Delivered
+1257,2024-08-02,48,Italian,540.56,5.43,24,Wallet,3.8,Cancelled
+1258,2024-03-07,46,Bakery,232.63,7.81,28,Wallet,3.2,Cancelled
+1259,2024-03-22,48,Indian,283.63,12.12,53,Card,2.9,Cancelled
+1260,2024-02-15,43,Indian,1179.2,8.81,28,Wallet,3.8,Cancelled
+1261,2024-02-09,37,Chinese,363.53,2.57,18,Cash,4.9,Delivered
+1262,2024-04-07,36,Chinese,1021.27,8.93,59,Card,4.5,Cancelled
+1263,2024-09-10,35,Bakery,372.01,14.6,24,Cash,3.2,Cancelled
+1264,2024-11-21,61,Bakery,319.22,3.47,83,Cash,3.7,Delivered
+1265,2024-06-23,65,Cafe,686.27,7.61,79,Card,3.5,Delayed
+1266,2024-01-13,20,Fast Food,478.66,5.69,39,Wallet,3.9,Delayed
+1267,2024-05-30,55,Italian,296.29,12.28,87,Wallet,3.6,Cancelled
+1268,2024-12-31,50,Chinese,534.34,8.5,53,Wallet,3.6,Delivered
+1269,2024-09-18,50,Indian,469.95,8.46,67,Wallet,3.2,Cancelled
+1270,2024-08-24,36,Cafe,1106.16,5.86,15,Wallet,4.1,Delivered
+1271,2024-05-04,25,Italian,235.14,3.58,44,Wallet,4.7,Cancelled
+1272,2024-05-16,19,Italian,249.78,12.45,65,Card,4.2,Delivered
+1273,2024-09-15,18,Chinese,819.73,9.82,45,Wallet,2.8,Delivered
+1274,2024-06-07,39,Bakery,1134.96,14.32,62,Card,3.0,Cancelled
+1275,2024-09-09,36,Indian,772.93,4.17,17,Wallet,4.1,Delivered
+1276,2024-10-19,51,Fast Food,323.5,8.84,44,Cash,3.1,Cancelled
+1277,2024-11-07,23,Bakery,341.54,14.97,45,UPI,2.9,Delayed
+1278,2024-05-24,22,Italian,924.89,8.01,85,Card,2.6,Delayed
+1279,2024-11-06,56,Italian,915.67,9.95,23,Card,3.8,Delayed
+1280,2024-10-07,18,Cafe,216.08,6.84,68,UPI,5.0,Delivered
+1281,2024-10-29,36,Italian,184.17,6.5,29,Wallet,4.5,Cancelled
+1282,2024-06-13,54,Cafe,151.46,7.61,26,Wallet,3.7,Delivered
+1283,2024-04-22,54,Italian,893.97,9.83,42,Cash,3.1,Delivered
+1284,2024-02-20,18,Cafe,162.83,11.18,90,Card,3.3,Delivered
+1285,2024-04-24,23,Fast Food,231.0,4.62,30,UPI,3.3,Cancelled
+1286,2024-12-19,64,Cafe,988.87,10.37,22,Card,2.8,Delivered
+1287,2024-08-01,44,Cafe,381.37,11.94,44,Cash,4.5,Delivered
+1288,2024-12-08,25,Chinese,679.26,5.28,26,Cash,2.6,Delivered
+1289,2024-01-06,33,Indian,521.09,1.12,47,UPI,4.2,Delayed
+1290,2024-03-10,61,Bakery,1115.77,3.83,50,UPI,4.2,Delayed
+1291,2024-07-30,36,Fast Food,444.43,13.99,28,Card,3.3,Cancelled
+1292,2024-02-19,47,Cafe,539.82,6.83,48,Wallet,3.4,Cancelled
+1293,2024-01-30,20,Cafe,535.14,9.81,78,Cash,4.0,Delayed
+1294,2024-05-21,18,Fast Food,1143.16,3.83,16,Card,3.9,Delivered
+1295,2024-11-01,43,Fast Food,699.84,11.28,73,Cash,2.5,Delayed
+1296,2024-08-05,33,Italian,721.87,2.88,53,Wallet,2.5,Delayed
+1297,2024-02-12,44,Chinese,241.51,11.84,43,Card,3.8,Delayed
+1298,2024-02-13,30,Italian,293.11,7.75,20,UPI,3.0,Delayed
+1299,2024-08-10,21,Italian,910.25,10.69,47,UPI,5.0,Delivered
+1300,2024-06-10,34,Fast Food,817.46,8.68,80,Wallet,3.5,Delayed
+1301,2024-07-04,35,Bakery,662.72,10.64,87,Wallet,4.7,Delivered
+1302,2024-04-28,44,Chinese,709.78,14.52,16,UPI,2.9,Delayed
+1303,2024-10-17,27,Indian,480.89,10.57,39,Cash,4.8,Delivered
+1304,2024-02-06,32,Cafe,1009.96,11.91,75,Card,4.9,Delivered
+1305,2024-10-12,43,Italian,476.51,8.32,25,Wallet,4.6,Delayed
+1306,2024-02-15,64,Indian,183.19,0.92,86,Wallet,4.9,Cancelled
+1307,2024-10-07,41,Chinese,949.28,1.48,75,UPI,3.2,Delivered
+1308,2024-05-23,24,Bakery,356.07,13.83,70,Cash,5.0,Delayed
+1309,2024-03-31,20,Indian,410.63,7.8,34,Wallet,3.8,Cancelled
+1310,2024-11-18,30,Chinese,1137.97,13.14,87,Card,4.6,Cancelled
+1311,2024-08-26,30,Italian,391.76,11.93,49,Card,3.3,Delivered
+1312,2024-03-25,19,Chinese,805.65,8.98,17,Cash,4.9,Delivered
+1313,2024-08-05,58,Italian,386.63,13.24,23,Card,3.0,Delivered
+1314,2024-07-16,43,Chinese,737.65,8.14,43,Card,3.4,Delayed
+1315,2024-09-15,28,Italian,251.95,11.81,58,Cash,2.7,Delivered
+1316,2024-07-10,57,Cafe,659.16,9.64,80,Cash,4.7,Cancelled
+1317,2024-04-21,45,Chinese,489.02,10.34,60,Cash,3.8,Cancelled
+1318,2024-03-08,56,Chinese,1184.98,1.55,22,Card,4.7,Delivered
+1319,2024-02-07,52,Cafe,691.04,11.35,58,Cash,4.5,Delayed
+1320,2024-12-19,49,Fast Food,280.69,4.41,53,Cash,4.1,Cancelled
+1321,2024-06-19,48,Indian,1130.71,12.71,16,Wallet,4.5,Delivered
+1322,2024-11-27,35,Chinese,722.7,5.5,85,UPI,4.4,Delivered
+1323,2024-03-16,49,Bakery,321.94,14.11,34,UPI,3.9,Delayed
+1324,2024-02-05,35,Bakery,804.01,6.46,33,Card,3.2,Cancelled
+1325,2024-02-10,60,Indian,260.75,6.16,70,Cash,4.3,Cancelled
+1326,2024-10-07,36,Fast Food,760.01,9.6,50,UPI,3.0,Delivered
+1327,2024-09-24,50,Bakery,1143.39,0.63,60,Cash,4.3,Delayed
+1328,2024-05-16,19,Cafe,842.62,4.33,87,UPI,3.4,Delivered
+1329,2024-06-27,39,Indian,350.26,11.44,90,Cash,3.5,Delivered
+1330,2024-03-15,31,Fast Food,634.33,1.64,24,Cash,4.7,Delivered
+1331,2024-07-13,48,Fast Food,733.37,8.21,21,Wallet,2.8,Delivered
+1332,2024-08-26,46,Bakery,374.44,6.42,43,UPI,4.8,Delivered
+1333,2024-11-05,23,Fast Food,823.64,14.92,40,Card,3.4,Delayed
+1334,2024-09-12,54,Indian,506.38,3.13,44,Wallet,3.5,Cancelled
+1335,2024-09-21,57,Italian,1106.57,11.44,83,Wallet,3.6,Delayed
+1336,2024-05-25,35,Fast Food,934.78,1.98,34,UPI,4.8,Delayed
+1337,2024-08-09,49,Italian,274.44,0.84,48,Card,4.9,Delayed
+1338,2024-06-27,41,Bakery,879.32,3.22,65,Card,2.8,Cancelled
+1339,2024-11-27,44,Fast Food,1085.09,2.36,88,UPI,3.1,Cancelled
+1340,2024-12-19,56,Chinese,1155.34,3.36,58,Cash,2.6,Delayed
+1341,2024-10-20,42,Cafe,1077.13,2.09,47,UPI,4.1,Delivered
+1342,2024-04-17,36,Italian,333.9,13.1,30,Card,4.5,Delivered
+1343,2024-04-06,26,Fast Food,1025.11,5.87,28,Card,3.5,Delivered
+1344,2024-02-14,46,Cafe,555.97,10.74,65,Cash,4.3,Delivered
+1345,2024-08-10,65,Chinese,303.75,14.75,37,UPI,4.6,Delayed
+1346,2024-10-29,41,Indian,474.75,14.51,15,UPI,3.5,Delivered
+1347,2024-05-12,35,Bakery,1001.65,6.91,53,Card,4.1,Cancelled
+1348,2024-10-17,20,Italian,665.82,7.08,19,Cash,4.2,Cancelled
+1349,2024-04-05,20,Indian,356.11,7.56,61,UPI,2.9,Delivered
+1350,2024-03-06,23,Bakery,808.0,6.19,52,UPI,4.6,Delayed
+1351,2024-02-26,21,Fast Food,674.36,9.19,63,UPI,2.7,Delayed
+1352,2024-01-13,30,Indian,928.72,13.63,43,UPI,3.3,Delayed
+1353,2024-04-02,25,Bakery,1110.29,10.14,77,Cash,5.0,Cancelled
+1354,2024-07-29,59,Fast Food,266.07,4.28,75,UPI,3.0,Delivered
+1355,2024-05-25,48,Bakery,176.0,7.08,84,Card,3.2,Cancelled
+1356,2024-05-05,22,Chinese,328.22,2.61,81,Card,2.6,Delayed
+1357,2024-05-11,47,Chinese,264.46,6.39,32,UPI,4.4,Delivered
+1358,2024-10-27,34,Italian,524.34,5.52,81,Cash,3.7,Delayed
+1359,2024-12-09,49,Chinese,205.01,6.93,47,Cash,4.0,Delayed
+1360,2024-06-09,38,Indian,860.86,1.17,26,Wallet,3.7,Delivered
+1361,2024-03-24,38,Indian,1139.28,13.68,61,UPI,4.7,Delivered
+1362,2024-08-19,37,Italian,550.12,2.67,76,Cash,3.2,Cancelled
+1363,2024-05-31,54,Italian,447.61,11.28,39,Card,4.2,Delivered
+1364,2024-08-01,51,Bakery,331.35,13.31,40,Cash,2.6,Delivered
+1365,2024-03-12,24,Italian,1084.81,1.48,60,Wallet,4.0,Cancelled
+1366,2024-10-25,53,Cafe,1008.34,7.29,16,Cash,4.0,Delayed
+1367,2024-06-27,46,Italian,1137.89,5.14,17,UPI,3.7,Cancelled
+1368,2024-09-22,41,Bakery,1156.82,13.91,70,Card,3.5,Delayed
+1369,2024-05-11,39,Bakery,433.87,9.36,34,UPI,3.2,Cancelled
+1370,2024-05-08,63,Italian,517.21,8.16,88,Cash,4.2,Delivered
+1371,2024-10-19,52,Indian,889.55,4.75,35,Cash,3.4,Delivered
+1372,2024-11-09,23,Cafe,1183.06,2.87,82,UPI,2.5,Delayed
+1373,2024-05-12,53,Fast Food,300.9,11.0,34,Cash,4.1,Cancelled
+1374,2024-03-06,24,Cafe,1063.08,2.76,36,UPI,3.7,Delivered
+1375,2024-07-28,62,Bakery,580.81,10.04,34,Cash,4.3,Delayed
+1376,2024-05-18,42,Bakery,871.96,0.57,56,Card,3.8,Delivered
+1377,2024-09-30,36,Cafe,406.29,6.75,90,Cash,4.2,Delivered
+1378,2024-12-12,60,Bakery,995.93,4.94,82,Wallet,4.5,Delivered
+1379,2024-06-29,40,Cafe,504.97,0.92,17,Cash,4.4,Delivered
+1380,2024-09-28,54,Indian,1007.64,6.0,85,Wallet,3.2,Delayed
+1381,2024-11-01,42,Italian,625.22,14.78,66,Wallet,2.7,Delayed
+1382,2024-07-03,44,Cafe,302.85,3.7,75,UPI,2.9,Cancelled
+1383,2024-08-28,23,Italian,182.15,4.29,74,Wallet,4.0,Delayed
+1384,2024-12-23,40,Cafe,733.43,0.84,74,Card,4.9,Delivered
+1385,2024-01-10,34,Indian,681.03,7.33,44,Card,3.0,Cancelled
+1386,2024-01-16,56,Chinese,587.3,5.23,58,Card,4.5,Cancelled
+1387,2024-12-09,22,Bakery,491.45,2.58,30,Wallet,4.0,Delivered
+1388,2024-04-19,38,Bakery,1094.08,5.84,88,Card,3.3,Delivered
+1389,2024-02-07,53,Chinese,1057.89,1.19,67,Card,2.7,Cancelled
+1390,2024-11-27,21,Italian,529.47,4.15,55,Card,4.7,Delayed
+1391,2024-11-08,22,Bakery,1096.78,8.25,59,UPI,4.8,Cancelled
+1392,2024-07-18,26,Cafe,652.34,2.54,83,UPI,3.9,Cancelled
+1393,2024-10-01,60,Italian,996.97,6.6,31,Wallet,4.1,Delayed
+1394,2024-07-25,61,Indian,854.11,9.68,42,Cash,4.5,Cancelled
+1395,2024-04-02,23,Indian,361.07,1.72,81,Card,4.6,Delayed
+1396,2024-03-11,40,Indian,486.04,7.91,80,Card,3.5,Delivered
+1397,2024-04-13,21,Bakery,921.25,0.89,40,UPI,4.3,Cancelled
+1398,2024-04-09,24,Italian,571.06,5.34,60,Wallet,4.2,Delayed
+1399,2024-06-04,31,Cafe,188.92,3.58,65,UPI,2.8,Delivered
+1400,2024-02-10,63,Bakery,869.54,7.19,84,Wallet,5.0,Cancelled
+1401,2024-06-20,39,Chinese,328.64,10.5,87,Card,2.7,Delayed
+1402,2024-05-04,24,Cafe,995.32,7.61,42,Cash,4.5,Delivered
+1403,2024-10-05,29,Indian,890.69,8.5,33,UPI,3.3,Delayed
+1404,2024-09-15,25,Indian,900.26,10.32,43,Card,2.9,Cancelled
+1405,2024-06-25,52,Chinese,1195.51,3.85,31,Wallet,4.0,Cancelled
+1406,2024-10-26,49,Bakery,1144.94,14.24,66,Wallet,4.8,Delayed
+1407,2024-09-08,25,Italian,848.42,12.27,16,UPI,3.4,Delayed
+1408,2024-10-21,55,Italian,800.38,12.95,83,Card,4.0,Delivered
+1409,2024-01-18,24,Bakery,371.11,13.1,25,Wallet,2.9,Cancelled
+1410,2024-09-22,65,Italian,338.23,7.7,58,Cash,2.9,Delayed
+1411,2024-06-27,21,Chinese,435.14,9.76,21,Cash,3.8,Cancelled
+1412,2024-01-24,56,Fast Food,868.08,4.64,27,Wallet,4.4,Delayed
+1413,2024-01-10,61,Italian,652.02,7.88,70,Card,3.8,Delivered
+1414,2024-02-10,40,Italian,914.93,2.85,59,Cash,3.5,Cancelled
+1415,2024-04-01,41,Cafe,999.49,4.22,68,Card,3.9,Delivered
+1416,2024-10-11,28,Indian,824.18,6.97,29,Card,2.9,Delayed
+1417,2024-03-30,30,Cafe,943.65,8.4,63,Card,4.4,Delayed
+1418,2024-08-24,57,Cafe,979.67,6.29,46,Cash,3.8,Delivered
+1419,2024-07-12,43,Italian,326.86,7.87,20,Cash,4.5,Delayed
+1420,2024-12-16,55,Fast Food,352.16,14.74,38,Cash,3.3,Delayed
+1421,2024-08-23,56,Italian,279.15,3.16,69,Wallet,4.7,Cancelled
+1422,2024-04-19,21,Chinese,925.14,11.65,57,Wallet,3.9,Delayed
+1423,2024-07-01,29,Bakery,664.87,8.18,89,Wallet,3.7,Delivered
+1424,2024-02-12,63,Italian,1116.05,11.32,22,Cash,3.1,Cancelled
+1425,2024-01-05,55,Chinese,738.65,1.83,77,Card,4.9,Delivered
+1426,2024-03-19,19,Italian,548.19,9.26,31,Card,4.3,Delivered
+1427,2024-10-15,45,Chinese,437.81,14.85,28,Cash,4.3,Delivered
+1428,2024-05-19,55,Cafe,541.8,4.66,88,Card,4.7,Delivered
+1429,2024-05-24,55,Chinese,897.96,1.14,74,UPI,3.8,Cancelled
+1430,2024-02-02,19,Indian,574.05,5.25,60,Cash,3.4,Delivered
+1431,2024-03-14,52,Cafe,974.69,2.57,68,Card,2.6,Delayed
+1432,2024-08-14,35,Indian,1089.71,4.34,65,Cash,4.7,Delayed
+1433,2024-05-03,33,Italian,837.52,11.41,25,Cash,3.1,Cancelled
+1434,2024-02-27,53,Indian,1051.89,8.01,33,Card,3.5,Delivered
+1435,2024-08-16,32,Fast Food,833.99,6.09,65,UPI,2.8,Cancelled
+1436,2024-06-05,44,Chinese,356.04,8.68,61,Card,3.5,Delayed
+1437,2024-05-31,34,Italian,181.85,6.14,28,Cash,3.7,Delayed
+1438,2024-04-05,52,Bakery,234.01,11.91,78,UPI,3.6,Cancelled
+1439,2024-03-15,22,Chinese,528.5,11.2,71,Cash,4.8,Cancelled
+1440,2024-10-08,64,Indian,438.44,4.27,83,Wallet,3.5,Delayed
+1441,2024-06-07,65,Indian,376.07,9.08,63,Wallet,4.4,Delivered
+1442,2024-04-04,31,Cafe,541.95,11.9,23,Cash,3.5,Delayed
+1443,2024-05-13,57,Bakery,672.57,9.33,35,Cash,4.0,Delivered
+1444,2024-10-11,50,Fast Food,643.19,4.72,65,Cash,4.2,Delivered
+1445,2024-05-30,50,Chinese,1018.4,2.04,73,UPI,3.7,Delayed
+1446,2024-11-23,28,Cafe,1097.25,2.72,47,Card,2.9,Cancelled
+1447,2024-09-13,41,Cafe,587.91,2.6,38,Wallet,5.0,Cancelled
+1448,2024-10-01,25,Chinese,332.1,3.68,90,Wallet,3.6,Delivered
+1449,2024-03-07,54,Italian,357.13,12.09,66,Cash,4.1,Delayed
+1450,2024-11-08,61,Bakery,190.69,3.28,15,Cash,4.1,Cancelled
+1451,2024-07-09,32,Italian,464.27,6.79,18,UPI,4.1,Delivered
+1452,2024-03-16,40,Italian,972.45,1.1,17,UPI,4.5,Delivered
+1453,2024-09-05,61,Fast Food,1037.58,2.32,64,Card,4.5,Delivered
+1454,2024-07-27,59,Bakery,268.98,6.01,24,Cash,3.1,Delivered
+1455,2024-10-15,37,Indian,336.98,14.52,86,Cash,3.9,Cancelled
+1456,2024-08-07,46,Chinese,568.49,1.29,31,Card,2.6,Cancelled
+1457,2024-10-06,18,Indian,1166.86,3.41,52,Cash,2.5,Cancelled
+1458,2024-11-29,65,Bakery,179.46,8.8,28,UPI,2.7,Cancelled
+1459,2024-11-24,39,Fast Food,1189.81,7.76,19,Cash,3.2,Cancelled
+1460,2024-05-07,49,Bakery,1140.3,8.69,23,UPI,4.1,Delayed
+1461,2024-09-27,48,Indian,1160.06,5.51,27,Card,3.9,Cancelled
+1462,2024-02-04,43,Italian,652.73,11.93,82,Wallet,3.7,Delayed
+1463,2024-04-28,23,Fast Food,1173.89,14.88,69,Cash,4.7,Delivered
+1464,2024-09-19,54,Indian,1140.25,11.12,67,Wallet,4.8,Cancelled
+1465,2024-06-09,29,Bakery,792.07,12.52,72,Cash,2.7,Delayed
+1466,2024-03-23,59,Cafe,302.94,11.39,21,UPI,2.8,Delivered
+1467,2024-11-25,57,Indian,813.69,5.74,74,UPI,4.8,Delayed
+1468,2024-04-25,23,Bakery,963.46,4.43,17,Card,4.3,Cancelled
+1469,2024-05-10,44,Cafe,914.0,3.85,16,UPI,3.3,Delayed
+1470,2024-04-13,62,Italian,1170.81,11.59,78,Cash,4.3,Delayed
+1471,2024-08-16,36,Italian,784.9,7.84,66,UPI,3.4,Delivered
+1472,2024-07-05,54,Indian,622.75,2.73,20,UPI,3.0,Cancelled
+1473,2024-12-20,53,Cafe,1189.09,14.96,33,Wallet,4.4,Cancelled
+1474,2024-05-27,23,Chinese,694.37,12.55,34,Wallet,3.9,Delayed
+1475,2024-03-25,60,Cafe,1059.89,9.1,77,UPI,4.9,Delayed
+1476,2024-11-10,51,Chinese,993.57,7.37,39,UPI,4.5,Delivered
+1477,2024-03-03,22,Fast Food,242.62,3.95,57,Wallet,2.8,Delivered
+1478,2024-06-15,57,Italian,167.53,6.66,38,Card,4.2,Cancelled
+1479,2024-02-13,52,Fast Food,379.82,2.06,55,Cash,4.0,Cancelled
+1480,2024-08-27,45,Italian,1058.21,7.02,45,Wallet,3.0,Delivered
+1481,2024-10-05,55,Cafe,190.16,14.95,64,UPI,4.5,Cancelled
+1482,2024-03-04,56,Cafe,546.53,8.63,24,UPI,4.0,Delivered
+1483,2024-03-10,25,Bakery,767.35,2.12,61,UPI,3.7,Cancelled
+1484,2024-03-12,59,Fast Food,216.13,8.94,15,UPI,3.2,Cancelled
+1485,2024-05-15,18,Bakery,938.1,4.07,24,Card,4.0,Delayed
+1486,2024-12-29,54,Bakery,821.23,3.56,56,Cash,4.7,Cancelled
+1487,2024-08-05,53,Chinese,873.45,11.4,16,Card,2.8,Delivered
+1488,2024-02-17,42,Fast Food,809.95,1.8,43,Cash,2.7,Delivered
+1489,2024-07-08,32,Chinese,894.95,13.53,73,Card,2.8,Delayed
+1490,2024-09-26,29,Fast Food,606.33,5.56,46,Cash,2.6,Delivered
+1491,2024-10-01,35,Fast Food,914.92,3.51,67,UPI,4.8,Delivered
+1492,2024-07-03,54,Italian,672.11,8.92,72,Wallet,3.7,Cancelled
+1493,2024-11-12,31,Cafe,818.71,2.58,66,Wallet,2.9,Delivered
+1494,2024-06-25,65,Italian,445.97,11.91,70,Card,3.2,Delivered
+1495,2024-07-01,20,Chinese,254.04,12.21,27,Card,4.4,Delivered
+1496,2024-05-04,64,Indian,783.05,13.69,16,Cash,2.6,Delivered
+1497,2024-08-05,18,Chinese,656.79,2.7,49,UPI,3.9,Delayed
+1498,2024-04-13,30,Cafe,464.94,7.04,32,UPI,4.4,Delivered
+1499,2024-12-10,34,Indian,559.17,6.86,30,Cash,2.6,Delivered
+1500,2024-03-06,34,Indian,729.95,13.98,61,UPI,4.7,Delivered
+1501,2024-11-08,64,Indian,801.14,5.32,70,Wallet,3.7,Delayed
+1502,2024-08-25,33,Indian,689.6,4.34,54,Cash,2.7,Delivered
+1503,2024-11-18,36,Bakery,1185.1,4.11,71,Wallet,4.3,Delivered
+1504,2024-11-29,49,Bakery,383.83,4.04,59,Wallet,4.4,Delivered
+1505,2024-01-27,52,Indian,609.65,3.89,55,UPI,3.6,Cancelled
+1506,2024-11-09,52,Indian,431.88,14.75,55,Card,3.9,Cancelled
+1507,2024-04-25,34,Italian,196.46,12.64,25,Wallet,3.1,Delivered
+1508,2024-09-02,29,Indian,358.9,9.82,45,UPI,2.7,Cancelled
+1509,2024-09-27,27,Bakery,1045.61,10.07,20,Wallet,2.5,Delivered
+1510,2024-10-21,25,Bakery,188.46,2.17,67,UPI,4.4,Delivered
+1511,2024-10-18,42,Chinese,163.86,7.86,24,Card,4.5,Delivered
+1512,2024-07-03,62,Chinese,982.64,7.26,72,Wallet,4.9,Delivered
+1513,2024-11-01,23,Italian,394.13,11.36,86,Card,2.6,Delivered
+1514,2024-12-31,63,Cafe,270.71,11.41,18,Wallet,3.9,Cancelled
+1515,2024-03-08,48,Indian,897.1,2.07,57,Cash,4.0,Cancelled
+1516,2024-04-03,24,Chinese,495.81,7.16,74,UPI,2.8,Delivered
+1517,2024-01-02,33,Indian,717.34,14.41,17,Cash,3.0,Delayed
+1518,2024-04-13,56,Fast Food,327.32,10.58,28,Card,4.9,Delivered
+1519,2024-02-11,31,Cafe,960.55,12.54,53,UPI,2.9,Delayed
+1520,2024-07-07,43,Italian,418.81,10.0,29,Cash,2.5,Delayed
+1521,2024-01-28,49,Cafe,578.31,4.96,73,UPI,4.7,Cancelled
+1522,2024-07-17,26,Indian,269.73,7.8,25,Card,2.8,Delayed
+1523,2024-08-05,26,Bakery,191.6,9.94,67,Wallet,4.1,Delayed
+1524,2024-09-10,27,Bakery,546.61,12.33,44,UPI,2.9,Cancelled
+1525,2024-11-27,51,Italian,741.05,10.56,47,UPI,4.7,Delivered
+1526,2024-11-04,44,Fast Food,974.68,1.05,26,UPI,2.9,Cancelled
+1527,2024-01-17,57,Bakery,787.08,8.89,84,Wallet,3.1,Cancelled
+1528,2024-05-09,45,Cafe,691.34,5.74,38,Card,4.8,Delayed
+1529,2024-05-06,25,Fast Food,405.34,9.26,19,Wallet,2.6,Delayed
+1530,2024-07-26,18,Bakery,924.11,7.55,62,UPI,3.6,Cancelled
+1531,2024-11-10,20,Cafe,528.93,1.69,58,UPI,4.5,Cancelled
+1532,2024-11-11,33,Indian,1046.0,11.96,84,Wallet,4.0,Cancelled
+1533,2024-08-20,60,Italian,662.98,14.38,72,Cash,4.1,Delayed
+1534,2024-11-12,24,Cafe,234.71,2.09,59,Card,2.9,Cancelled
+1535,2024-07-15,37,Italian,1167.99,4.9,47,Wallet,3.4,Delayed
+1536,2024-06-06,64,Indian,1039.02,5.68,45,Card,4.3,Cancelled
+1537,2024-07-01,20,Cafe,158.25,0.94,36,UPI,3.2,Cancelled
+1538,2024-12-15,25,Chinese,232.0,11.47,51,Wallet,4.4,Cancelled
+1539,2024-12-29,31,Bakery,1167.21,2.4,39,Wallet,4.2,Cancelled
+1540,2024-04-05,19,Chinese,998.01,7.48,83,Cash,3.2,Cancelled
+1541,2024-03-22,34,Italian,718.61,7.61,63,Wallet,2.9,Delayed
+1542,2024-11-17,30,Chinese,736.56,5.67,68,Cash,3.4,Delivered
+1543,2024-03-07,26,Bakery,1151.1,9.98,82,Cash,2.6,Delayed
+1544,2024-01-29,56,Bakery,202.66,4.7,27,UPI,4.2,Delayed
+1545,2024-10-24,25,Italian,807.13,7.99,69,Wallet,3.1,Cancelled
+1546,2024-07-03,34,Italian,559.02,14.97,52,UPI,4.1,Delivered
+1547,2024-05-25,29,Italian,636.08,10.42,81,Wallet,4.5,Delivered
+1548,2024-08-13,27,Bakery,268.83,14.5,51,Card,4.8,Delivered
+1549,2024-03-13,49,Italian,827.93,5.95,77,Cash,2.8,Delivered
+1550,2024-02-27,32,Indian,418.56,9.02,71,Cash,4.8,Delayed
+1551,2024-01-09,52,Italian,1039.64,11.24,66,Cash,3.2,Delivered
+1552,2024-11-09,49,Bakery,888.36,11.72,33,Cash,2.7,Delivered
+1553,2024-05-12,19,Fast Food,311.13,13.33,31,Card,3.9,Delivered
+1554,2024-05-07,39,Cafe,258.2,14.96,70,UPI,3.3,Cancelled
+1555,2024-01-31,52,Cafe,1043.71,5.63,49,Cash,3.6,Cancelled
+1556,2024-02-14,20,Indian,216.94,3.16,57,UPI,2.9,Cancelled
+1557,2024-12-11,36,Chinese,206.94,8.79,80,UPI,2.9,Cancelled
+1558,2024-04-03,31,Bakery,386.2,12.44,63,UPI,4.0,Delivered
+1559,2024-12-13,27,Chinese,263.83,0.54,55,Card,2.9,Delayed
+1560,2024-03-21,28,Chinese,850.37,14.49,78,UPI,3.1,Delivered
+1561,2024-07-28,22,Fast Food,801.03,1.64,77,Cash,5.0,Cancelled
+1562,2024-09-30,55,Italian,788.99,2.98,57,Card,3.9,Delayed
+1563,2024-12-26,40,Chinese,423.18,13.44,17,Cash,5.0,Cancelled
+1564,2024-02-12,35,Italian,458.3,8.99,55,UPI,2.6,Cancelled
+1565,2024-10-17,28,Indian,919.26,2.89,76,Card,4.6,Delayed
+1566,2024-11-12,35,Chinese,296.7,8.21,86,UPI,2.6,Cancelled
+1567,2024-08-16,54,Bakery,779.7,5.72,29,Card,3.1,Delivered
+1568,2024-04-29,51,Bakery,1099.94,10.7,81,Cash,4.5,Cancelled
+1569,2024-10-08,55,Cafe,252.06,13.93,83,UPI,4.2,Delayed
+1570,2024-11-10,45,Cafe,893.56,9.44,17,Cash,4.1,Delivered
+1571,2024-12-20,57,Indian,1117.76,4.17,19,Cash,3.1,Cancelled
+1572,2024-11-02,63,Indian,743.87,13.36,50,Wallet,3.6,Cancelled
+1573,2024-06-30,65,Italian,814.9,6.2,26,Cash,4.6,Cancelled
+1574,2024-08-27,63,Fast Food,1170.99,4.32,36,Cash,3.7,Delivered
+1575,2024-01-03,28,Cafe,581.01,7.8,80,Cash,4.9,Delivered
+1576,2024-09-05,28,Cafe,1111.96,1.91,29,Card,3.3,Delayed
+1577,2024-08-29,32,Bakery,1021.01,9.08,44,UPI,3.8,Cancelled
+1578,2024-02-04,21,Fast Food,247.64,2.83,71,Cash,4.0,Cancelled
+1579,2024-03-10,27,Italian,1042.44,10.46,19,Cash,4.6,Delivered
+1580,2024-03-06,37,Indian,338.73,6.01,83,Wallet,3.8,Cancelled
+1581,2024-04-20,27,Italian,329.62,13.13,78,Cash,4.0,Delivered
+1582,2024-09-16,25,Italian,1052.93,2.21,30,Wallet,2.9,Cancelled
+1583,2024-10-10,27,Cafe,1041.18,4.66,56,Card,4.7,Cancelled
+1584,2024-07-03,44,Bakery,491.33,13.26,25,Cash,4.7,Delayed
+1585,2024-04-07,31,Italian,591.84,12.5,90,UPI,3.4,Delivered
+1586,2024-10-18,18,Italian,737.21,10.76,78,Wallet,3.2,Delivered
+1587,2024-04-23,48,Italian,797.89,4.05,56,Card,3.6,Cancelled
+1588,2024-09-09,41,Fast Food,1037.91,0.57,44,Card,4.5,Delayed
+1589,2024-04-29,19,Chinese,193.04,10.21,61,UPI,4.2,Cancelled
+1590,2024-07-31,37,Chinese,1039.81,12.59,38,UPI,3.0,Delivered
+1591,2024-11-13,28,Chinese,1002.71,6.94,74,Cash,4.7,Delivered
+1592,2024-10-07,45,Italian,485.6,6.66,24,UPI,3.5,Delayed
+1593,2024-02-05,62,Chinese,155.57,2.06,20,Wallet,4.7,Delayed
+1594,2024-09-19,40,Italian,1000.27,12.44,49,Wallet,3.3,Cancelled
+1595,2024-11-03,28,Cafe,1089.95,4.81,60,Cash,4.4,Delivered
+1596,2024-08-21,18,Bakery,938.42,0.69,19,Cash,3.8,Delayed
+1597,2024-01-28,21,Cafe,482.71,1.53,57,UPI,4.7,Delayed
+1598,2024-04-08,22,Cafe,995.83,1.29,18,Card,3.2,Delayed
+1599,2024-10-28,46,Cafe,834.48,14.53,67,Wallet,4.1,Delayed
+1600,2024-08-19,41,Bakery,527.08,7.81,39,Wallet,3.2,Cancelled
+1601,2024-08-01,65,Chinese,236.07,3.81,77,Card,3.5,Delivered
+1602,2024-05-29,50,Chinese,526.96,1.3,82,Card,3.0,Delayed
+1603,2024-03-22,30,Indian,407.33,9.82,25,Cash,4.8,Delivered
+1604,2024-12-10,22,Bakery,409.47,13.46,21,Card,4.9,Delayed
+1605,2024-12-07,27,Indian,476.69,7.09,66,Cash,2.9,Cancelled
+1606,2024-07-12,44,Fast Food,919.72,2.02,18,UPI,4.0,Delivered
+1607,2024-11-05,29,Bakery,393.43,8.44,41,Card,4.4,Delayed
+1608,2024-02-19,50,Fast Food,1011.37,3.99,47,Wallet,3.8,Delivered
+1609,2024-03-02,55,Italian,721.37,6.47,22,Cash,3.8,Delayed
+1610,2024-07-24,29,Italian,384.89,7.64,19,UPI,4.9,Cancelled
+1611,2024-08-03,25,Fast Food,594.83,8.06,38,Wallet,3.6,Delivered
+1612,2024-01-21,24,Fast Food,1124.41,5.09,35,Cash,3.6,Delayed
+1613,2024-02-11,57,Bakery,821.7,4.4,52,Wallet,3.7,Delayed
+1614,2024-09-04,40,Fast Food,970.34,3.96,48,UPI,2.8,Delivered
+1615,2024-01-25,31,Bakery,1076.79,2.23,16,UPI,4.4,Delivered
+1616,2024-12-25,43,Indian,813.06,7.37,22,UPI,4.4,Delayed
+1617,2024-08-30,27,Chinese,1176.44,11.68,27,UPI,3.7,Delivered
+1618,2024-10-02,21,Bakery,1056.5,2.55,57,Wallet,2.9,Delivered
+1619,2024-12-02,35,Chinese,429.83,3.44,26,UPI,3.1,Delayed
+1620,2024-11-07,26,Fast Food,1199.78,10.95,67,Cash,3.7,Cancelled
+1621,2024-12-04,63,Bakery,785.22,11.24,55,Cash,3.0,Delivered
+1622,2024-04-25,33,Fast Food,1114.07,1.59,51,Cash,4.9,Delivered
+1623,2024-05-11,24,Indian,1119.05,13.6,83,UPI,4.0,Delivered
+1624,2024-09-21,49,Chinese,1064.04,5.58,47,Cash,4.1,Delivered
+1625,2024-02-05,33,Italian,474.81,1.27,87,Card,4.3,Cancelled
+1626,2024-04-12,24,Indian,546.15,11.25,34,UPI,3.2,Delayed
+1627,2024-06-03,44,Chinese,411.54,1.06,43,Cash,4.3,Cancelled
+1628,2024-05-26,20,Indian,1102.63,0.85,87,Card,4.7,Cancelled
+1629,2024-07-23,62,Bakery,688.82,4.65,19,UPI,4.1,Delivered
+1630,2024-04-30,65,Cafe,152.58,6.3,87,Wallet,4.4,Cancelled
+1631,2024-03-30,48,Fast Food,406.84,14.51,35,Wallet,4.1,Delivered
+1632,2024-10-29,58,Fast Food,456.1,13.09,90,UPI,4.4,Cancelled
+1633,2024-03-09,49,Fast Food,581.36,4.56,28,Cash,3.8,Cancelled
+1634,2024-09-02,56,Bakery,638.83,11.42,22,UPI,3.0,Delayed
+1635,2024-10-30,55,Cafe,1162.53,9.91,24,UPI,3.1,Cancelled
+1636,2024-08-07,43,Cafe,830.72,4.22,71,Cash,2.6,Delayed
+1637,2024-07-05,65,Fast Food,1020.59,12.69,54,Cash,2.9,Delayed
+1638,2024-10-09,39,Italian,1195.8,2.92,32,Cash,2.9,Cancelled
+1639,2024-12-14,42,Italian,307.15,1.79,52,Card,3.4,Delayed
+1640,2024-11-06,53,Chinese,232.27,11.29,54,Card,3.0,Delivered
+1641,2024-11-04,36,Cafe,356.2,3.25,88,Wallet,3.8,Delayed
+1642,2024-11-06,20,Cafe,1129.94,14.76,72,Wallet,3.0,Delayed
+1643,2024-07-15,48,Chinese,1177.67,4.03,61,Cash,3.6,Delayed
+1644,2024-09-03,32,Chinese,817.71,2.77,27,Cash,4.3,Delivered
+1645,2024-06-28,63,Italian,614.15,0.93,33,Wallet,5.0,Cancelled
+1646,2024-11-10,41,Bakery,728.16,13.26,45,Wallet,3.8,Delayed
+1647,2024-01-21,61,Indian,974.36,13.41,35,UPI,3.3,Delivered
+1648,2024-10-24,51,Chinese,1118.83,13.18,65,UPI,3.3,Delayed
+1649,2024-02-22,31,Bakery,1171.05,10.71,58,Wallet,3.3,Cancelled
+1650,2024-07-29,35,Bakery,547.4,13.55,50,UPI,2.8,Delayed
+1651,2024-01-29,36,Bakery,1052.54,10.08,24,Card,3.2,Cancelled
+1652,2024-04-22,32,Chinese,573.02,12.11,21,Card,3.6,Delayed
+1653,2024-06-06,39,Chinese,365.38,1.22,62,Cash,4.9,Delayed
+1654,2024-06-12,23,Indian,653.94,3.44,55,UPI,4.6,Delivered
+1655,2024-05-10,37,Chinese,975.27,12.74,71,UPI,2.6,Cancelled
+1656,2024-11-18,54,Cafe,848.97,12.57,47,Wallet,2.9,Delivered
+1657,2024-12-30,53,Bakery,643.31,14.48,73,UPI,4.4,Cancelled
+1658,2024-05-11,42,Fast Food,887.05,10.82,20,Cash,3.0,Delayed
+1659,2024-05-30,39,Italian,799.97,13.11,85,Cash,3.1,Delivered
+1660,2024-03-15,43,Italian,740.94,7.11,41,Cash,3.9,Delayed
+1661,2024-05-11,29,Cafe,346.75,2.71,32,Cash,4.1,Delivered
+1662,2024-05-09,53,Indian,938.76,7.53,40,Wallet,4.1,Delivered
+1663,2024-02-17,44,Bakery,813.07,11.45,44,Card,3.0,Cancelled
+1664,2024-12-10,40,Italian,326.46,6.98,70,UPI,4.7,Cancelled
+1665,2024-04-01,47,Chinese,245.41,1.1,31,Wallet,3.6,Delivered
+1666,2024-09-14,25,Cafe,1001.24,8.84,27,Wallet,4.3,Cancelled
+1667,2024-11-13,18,Fast Food,975.88,9.91,87,Wallet,2.8,Cancelled
+1668,2024-07-23,37,Italian,809.55,12.61,74,Wallet,4.3,Delivered
+1669,2024-06-28,63,Indian,568.01,6.92,82,UPI,4.4,Cancelled
+1670,2024-08-20,64,Fast Food,1150.93,11.09,53,UPI,4.6,Delayed
+1671,2024-05-05,56,Chinese,895.04,6.35,32,Cash,3.7,Cancelled
+1672,2024-07-11,53,Bakery,392.27,5.94,22,Wallet,4.8,Cancelled
+1673,2024-02-26,35,Bakery,892.72,6.06,81,UPI,3.4,Delivered
+1674,2024-11-19,60,Chinese,1176.54,13.51,81,Card,3.6,Cancelled
+1675,2024-03-21,63,Bakery,768.64,2.58,37,Card,3.9,Delivered
+1676,2024-07-31,57,Cafe,745.75,5.53,28,Cash,4.4,Cancelled
+1677,2024-09-10,61,Indian,984.23,10.13,75,Wallet,2.6,Delayed
+1678,2024-09-10,51,Fast Food,1143.64,5.39,39,Card,2.6,Delayed
+1679,2024-07-11,53,Cafe,892.31,10.42,48,UPI,3.8,Delayed
+1680,2024-12-29,46,Italian,977.87,7.96,58,Wallet,4.8,Delivered
+1681,2024-01-24,64,Chinese,1048.6,6.86,48,Wallet,3.7,Delayed
+1682,2024-01-15,55,Chinese,886.37,9.39,21,Cash,4.8,Delayed
+1683,2024-03-14,63,Italian,378.2,12.34,42,UPI,4.0,Cancelled
+1684,2024-07-11,55,Chinese,418.17,11.11,34,Wallet,4.5,Cancelled
+1685,2024-11-03,54,Italian,401.66,3.16,80,UPI,3.6,Cancelled
+1686,2024-07-21,48,Bakery,234.71,8.49,57,Card,4.7,Delivered
+1687,2024-02-22,34,Italian,473.5,3.59,83,Cash,3.0,Cancelled
+1688,2024-01-19,31,Fast Food,464.57,9.3,52,Cash,4.1,Cancelled
+1689,2024-06-21,40,Bakery,296.64,10.85,70,Wallet,3.3,Delivered
+1690,2024-12-11,53,Italian,240.29,14.57,40,Wallet,3.1,Delayed
+1691,2024-08-02,47,Fast Food,168.16,10.77,90,UPI,4.6,Cancelled
+1692,2024-12-16,23,Chinese,710.18,4.05,15,UPI,3.8,Delivered
+1693,2024-08-07,28,Indian,883.51,2.34,85,Wallet,4.1,Delayed
+1694,2024-10-11,48,Italian,643.31,14.47,35,Cash,2.7,Delivered
+1695,2024-12-05,28,Italian,626.84,11.59,35,Cash,4.9,Delayed
+1696,2024-01-30,23,Cafe,688.77,13.66,52,UPI,3.3,Cancelled
+1697,2024-11-30,22,Fast Food,1055.8,11.42,27,UPI,3.9,Cancelled
+1698,2024-06-17,30,Italian,916.63,11.59,70,Wallet,4.0,Delivered
+1699,2024-11-30,21,Cafe,243.7,12.34,40,UPI,2.9,Cancelled
+1700,2024-10-07,18,Cafe,872.92,5.95,25,Cash,4.2,Delayed
+1701,2024-07-12,63,Chinese,707.37,7.79,54,Cash,2.8,Cancelled
+1702,2024-08-06,50,Indian,742.71,4.26,76,Card,2.9,Delivered
+1703,2024-03-22,41,Italian,621.67,7.47,53,Wallet,3.2,Delayed
+1704,2024-07-27,41,Indian,907.04,14.62,23,UPI,3.6,Delivered
+1705,2024-06-07,49,Fast Food,680.68,4.85,87,Cash,4.1,Delivered
+1706,2024-06-01,47,Italian,701.51,7.62,48,Wallet,2.6,Delivered
+1707,2024-07-16,65,Italian,951.3,11.63,80,Wallet,4.2,Cancelled
+1708,2024-11-13,65,Italian,628.58,3.79,50,Wallet,4.2,Cancelled
+1709,2024-10-11,42,Cafe,683.54,7.93,27,Wallet,4.6,Cancelled
+1710,2024-03-18,32,Italian,450.29,9.83,81,Cash,4.0,Cancelled
+1711,2024-04-13,38,Fast Food,798.13,11.76,84,Wallet,4.3,Cancelled
+1712,2024-11-18,51,Bakery,1193.39,14.09,21,Card,4.8,Cancelled
+1713,2024-04-13,53,Italian,1014.48,13.44,51,Wallet,3.5,Cancelled
+1714,2024-10-21,39,Fast Food,263.4,7.67,44,Cash,3.7,Delayed
+1715,2024-02-16,44,Chinese,769.74,13.46,78,Card,3.4,Cancelled
+1716,2024-01-28,37,Chinese,883.83,12.7,67,Card,3.3,Delivered
+1717,2024-07-21,27,Italian,535.34,6.82,84,UPI,3.2,Cancelled
+1718,2024-09-08,27,Fast Food,714.79,5.03,36,Cash,3.3,Delayed
+1719,2024-02-08,27,Fast Food,619.73,4.82,52,Cash,4.8,Cancelled
+1720,2024-10-28,34,Fast Food,830.83,12.05,73,Cash,3.7,Cancelled
+1721,2024-04-10,46,Fast Food,1159.52,9.18,78,Wallet,4.1,Delayed
+1722,2024-04-15,25,Cafe,606.96,3.65,17,UPI,2.8,Cancelled
+1723,2024-11-27,21,Cafe,961.47,14.41,37,Cash,3.5,Delivered
+1724,2024-04-19,58,Fast Food,541.4,1.25,26,Cash,3.9,Delivered
+1725,2024-09-05,57,Cafe,1198.51,8.8,15,Cash,3.6,Delivered
+1726,2024-11-09,22,Chinese,586.29,2.06,62,Card,4.3,Delivered
+1727,2024-09-07,51,Fast Food,623.86,8.55,44,Wallet,3.2,Delivered
+1728,2024-02-01,56,Fast Food,274.34,14.0,25,UPI,3.9,Delayed
+1729,2024-09-03,20,Cafe,224.31,6.09,53,Card,4.6,Cancelled
+1730,2024-06-01,43,Indian,288.76,1.45,58,Wallet,4.2,Delayed
+1731,2024-10-14,62,Italian,349.01,1.54,48,Cash,4.0,Cancelled
+1732,2024-10-15,65,Cafe,1125.95,2.83,50,Wallet,3.4,Cancelled
+1733,2024-06-07,24,Cafe,338.21,1.71,49,Wallet,3.2,Delayed
+1734,2024-01-24,44,Fast Food,1174.99,5.08,73,Wallet,2.6,Delayed
+1735,2024-03-18,60,Fast Food,811.69,10.13,18,Cash,5.0,Delivered
+1736,2024-04-09,29,Fast Food,650.46,13.42,89,Wallet,5.0,Delivered
+1737,2024-08-30,56,Cafe,902.91,1.41,60,Card,4.2,Delayed
+1738,2024-09-12,37,Chinese,161.45,5.11,51,Card,3.4,Delayed
+1739,2024-08-23,27,Fast Food,257.57,9.86,45,Card,3.4,Cancelled
+1740,2024-09-16,36,Fast Food,712.05,5.16,53,Card,4.3,Cancelled
+1741,2024-07-05,44,Cafe,543.38,5.36,64,Cash,4.8,Cancelled
+1742,2024-04-05,42,Cafe,250.76,8.52,19,Cash,3.4,Delivered
+1743,2024-06-15,62,Chinese,1133.1,5.45,28,Cash,4.1,Delayed
+1744,2024-09-24,27,Bakery,394.83,14.61,45,Cash,4.8,Delayed
+1745,2024-05-10,29,Bakery,869.81,6.27,66,Wallet,3.1,Delivered
+1746,2024-11-28,52,Italian,923.9,8.6,30,Card,3.1,Delayed
+1747,2024-05-03,25,Bakery,1070.12,12.16,84,Cash,4.4,Delivered
+1748,2024-08-12,40,Italian,1035.66,3.05,70,Cash,3.9,Cancelled
+1749,2024-07-09,43,Chinese,520.7,5.04,40,UPI,4.8,Delayed
+1750,2024-12-28,36,Cafe,843.97,14.88,18,UPI,2.8,Delivered
+1751,2024-10-01,57,Bakery,405.03,6.99,33,Cash,4.0,Cancelled
+1752,2024-08-23,37,Chinese,1111.6,2.5,34,Cash,3.4,Cancelled
+1753,2024-05-14,27,Fast Food,1156.07,11.98,61,Card,2.6,Cancelled
+1754,2024-08-21,45,Indian,1130.5,2.56,38,Cash,5.0,Cancelled
+1755,2024-12-02,37,Cafe,392.98,0.6,42,Wallet,4.9,Delayed
+1756,2024-04-11,56,Chinese,598.44,9.2,39,Cash,2.9,Delivered
+1757,2024-02-12,19,Chinese,821.28,8.19,38,Card,4.3,Delivered
+1758,2024-10-02,64,Chinese,313.07,13.33,46,Wallet,2.7,Cancelled
+1759,2024-11-27,49,Chinese,327.54,8.25,62,Card,4.0,Delivered
+1760,2024-10-03,52,Fast Food,304.26,14.89,50,Wallet,4.4,Delivered
+1761,2024-03-05,52,Fast Food,162.96,5.04,63,UPI,3.6,Cancelled
+1762,2024-08-13,22,Chinese,871.99,6.26,31,UPI,2.7,Cancelled
+1763,2024-05-25,45,Chinese,1182.22,6.85,58,Wallet,2.7,Delayed
+1764,2024-11-12,19,Indian,544.47,12.95,21,UPI,3.8,Cancelled
+1765,2024-01-31,30,Bakery,397.98,0.9,29,Card,3.3,Delayed
+1766,2024-06-01,26,Bakery,323.14,12.0,37,UPI,3.3,Delayed
+1767,2024-08-17,62,Bakery,504.17,2.38,61,Cash,4.4,Delivered
+1768,2024-06-02,49,Bakery,1113.34,13.09,40,UPI,3.3,Delayed
+1769,2024-08-22,35,Cafe,452.31,11.16,16,Wallet,3.3,Delivered
+1770,2024-07-07,37,Italian,269.95,5.95,45,Cash,3.0,Cancelled
+1771,2024-11-24,60,Bakery,634.07,5.37,81,Wallet,2.7,Delayed
+1772,2024-07-10,29,Chinese,185.2,2.83,27,Card,3.3,Delivered
+1773,2024-10-28,54,Indian,840.26,1.71,41,UPI,3.2,Delivered
+1774,2024-08-05,27,Fast Food,297.75,1.98,52,Wallet,4.2,Cancelled
+1775,2024-11-30,64,Chinese,684.52,2.34,67,Cash,4.5,Cancelled
+1776,2024-07-26,50,Fast Food,911.28,12.67,28,UPI,2.8,Cancelled
+1777,2024-09-23,51,Fast Food,326.92,13.79,45,UPI,3.7,Delayed
+1778,2024-09-08,59,Bakery,574.54,1.34,76,Card,3.8,Cancelled
+1779,2024-01-14,63,Cafe,1065.58,8.88,69,Wallet,2.8,Delivered
+1780,2024-11-11,43,Italian,995.09,8.2,75,Cash,2.9,Delivered
+1781,2024-03-18,52,Chinese,989.4,12.52,72,Cash,4.5,Cancelled
+1782,2024-12-28,20,Italian,455.53,7.65,75,Cash,2.8,Delayed
+1783,2024-05-31,65,Fast Food,772.27,10.65,87,Card,3.8,Cancelled
+1784,2024-11-04,24,Fast Food,740.05,14.54,38,Wallet,4.8,Cancelled
+1785,2024-12-10,27,Cafe,822.71,3.65,24,Wallet,3.5,Cancelled
+1786,2024-06-10,47,Cafe,417.04,4.75,54,Wallet,2.8,Delivered
+1787,2024-07-05,57,Indian,1026.28,12.42,74,Card,4.5,Delivered
+1788,2024-03-23,57,Indian,1010.35,9.42,59,Card,3.3,Cancelled
+1789,2024-01-13,55,Indian,1043.88,12.57,24,Card,3.5,Delivered
+1790,2024-12-15,40,Bakery,425.01,1.83,42,Card,3.1,Delivered
+1791,2024-02-21,42,Bakery,632.17,3.8,78,Card,3.2,Delivered
+1792,2024-01-02,32,Bakery,337.82,10.72,70,Cash,3.2,Cancelled
+1793,2024-04-01,58,Fast Food,1098.61,6.34,42,UPI,2.5,Delayed
+1794,2024-08-09,28,Cafe,562.78,2.06,76,UPI,3.2,Cancelled
+1795,2024-09-10,39,Cafe,292.88,11.29,39,Card,2.9,Delivered
+1796,2024-06-10,47,Bakery,373.78,9.35,51,Card,2.8,Cancelled
+1797,2024-12-10,58,Bakery,434.37,14.84,32,Card,4.7,Cancelled
+1798,2024-06-05,32,Bakery,217.41,8.15,60,Wallet,5.0,Cancelled
+1799,2024-04-10,59,Cafe,341.3,7.68,44,Card,3.5,Cancelled
+1800,2024-03-06,49,Cafe,229.02,2.02,81,UPI,2.8,Delayed
+1801,2024-08-15,58,Italian,486.01,8.01,46,Card,4.2,Cancelled
+1802,2024-01-08,27,Indian,812.2,9.65,76,Wallet,3.2,Delivered
+1803,2024-04-07,43,Cafe,631.96,7.69,79,Wallet,4.9,Delivered
+1804,2024-09-24,37,Fast Food,247.42,3.88,43,UPI,3.8,Cancelled
+1805,2024-03-15,21,Italian,192.11,2.94,36,UPI,4.9,Delivered
+1806,2024-08-25,31,Bakery,150.9,4.69,19,Card,3.4,Delivered
+1807,2024-11-03,33,Bakery,831.0,7.58,78,Wallet,4.6,Delivered
+1808,2024-11-14,48,Italian,916.49,13.88,59,Card,4.0,Delivered
+1809,2024-09-17,58,Chinese,585.4,8.44,83,Cash,2.8,Delayed
+1810,2024-10-08,28,Fast Food,384.63,13.86,45,UPI,3.4,Delayed
+1811,2024-10-04,40,Chinese,198.31,3.41,34,UPI,4.2,Delayed
+1812,2024-07-05,26,Chinese,786.06,14.86,64,UPI,3.7,Delivered
+1813,2024-07-13,49,Italian,896.54,13.77,87,UPI,4.8,Delayed
+1814,2024-05-20,21,Indian,638.8,3.48,16,Wallet,2.6,Delivered
+1815,2024-06-05,42,Indian,348.54,12.73,82,Card,2.8,Delayed
+1816,2024-10-13,18,Fast Food,886.41,11.68,23,Wallet,4.4,Delayed
+1817,2024-02-22,62,Indian,177.35,0.74,81,Cash,4.3,Delayed
+1818,2024-05-03,21,Indian,173.08,11.21,50,Wallet,3.7,Delivered
+1819,2024-05-17,46,Bakery,424.24,9.31,87,UPI,4.7,Cancelled
+1820,2024-07-28,60,Italian,1013.87,3.06,44,Card,4.7,Cancelled
+1821,2024-08-30,22,Chinese,1182.06,3.46,55,UPI,2.6,Delayed
+1822,2024-02-25,27,Chinese,459.85,5.0,44,UPI,4.5,Delayed
+1823,2024-02-02,61,Fast Food,506.4,5.18,42,Card,3.3,Delayed
+1824,2024-03-17,41,Bakery,832.73,11.02,41,Card,4.0,Delayed
+1825,2024-01-03,37,Fast Food,732.15,7.34,70,Wallet,2.6,Delivered
+1826,2024-06-28,35,Bakery,515.89,4.2,75,Wallet,3.5,Delivered
+1827,2024-01-17,48,Indian,1092.05,12.45,30,Cash,4.0,Delivered
+1828,2024-04-26,18,Cafe,431.04,6.13,62,UPI,4.2,Delivered
+1829,2024-08-02,41,Italian,1127.37,9.67,36,Wallet,4.5,Cancelled
+1830,2024-05-04,48,Bakery,962.98,14.49,87,Wallet,3.3,Delivered
+1831,2024-06-13,23,Indian,873.54,8.28,28,Card,4.9,Delayed
+1832,2024-08-24,53,Fast Food,396.09,13.56,70,Cash,3.7,Delivered
+1833,2024-12-13,45,Cafe,1026.15,5.34,32,Cash,2.7,Cancelled
+1834,2024-08-06,58,Cafe,744.01,2.37,68,UPI,2.8,Cancelled
+1835,2024-01-10,19,Fast Food,1048.47,9.37,30,Card,5.0,Delayed
+1836,2024-11-16,23,Fast Food,635.97,0.52,65,Card,3.8,Cancelled
+1837,2024-02-15,43,Italian,943.92,7.21,45,Wallet,4.0,Delivered
+1838,2024-05-06,33,Chinese,894.59,3.18,60,Card,4.0,Delayed
+1839,2024-12-25,23,Indian,1093.38,11.6,43,Cash,4.4,Delayed
+1840,2024-03-25,54,Italian,884.42,14.91,81,Card,3.6,Cancelled
+1841,2024-11-21,60,Indian,690.25,3.54,80,Wallet,4.6,Delivered
+1842,2024-07-18,47,Indian,908.17,11.85,63,Card,2.8,Cancelled
+1843,2024-11-11,60,Bakery,351.42,3.95,43,Wallet,2.9,Cancelled
+1844,2024-05-15,48,Fast Food,287.39,10.95,25,Card,4.2,Delivered
+1845,2024-12-11,29,Italian,553.09,6.49,54,Cash,3.3,Delayed
+1846,2024-08-08,18,Italian,812.06,4.57,22,Card,3.5,Delivered
+1847,2024-07-28,20,Chinese,1003.9,13.8,63,Wallet,4.6,Cancelled
+1848,2024-09-24,31,Chinese,266.27,10.23,51,Cash,4.9,Delayed
+1849,2024-09-12,43,Cafe,720.37,13.86,27,Card,3.0,Cancelled
+1850,2024-11-22,18,Chinese,734.32,1.72,19,Cash,3.9,Delivered
+1851,2024-09-26,26,Indian,261.7,2.53,79,Card,3.5,Cancelled
+1852,2024-04-13,26,Bakery,180.31,5.03,50,Wallet,5.0,Delayed
+1853,2024-08-16,19,Bakery,847.81,13.35,37,UPI,4.4,Cancelled
+1854,2024-11-15,39,Indian,504.32,11.64,31,Cash,4.0,Delivered
+1855,2024-01-03,18,Cafe,516.57,5.48,47,Cash,2.9,Cancelled
+1856,2024-01-15,61,Bakery,459.76,12.17,85,Card,4.5,Delayed
+1857,2024-08-02,54,Cafe,853.26,12.35,34,Card,3.1,Cancelled
+1858,2024-10-28,59,Indian,1173.22,11.81,27,UPI,5.0,Delayed
+1859,2024-08-25,55,Cafe,458.73,12.93,37,Wallet,4.8,Cancelled
+1860,2024-10-03,24,Cafe,723.23,11.07,23,Cash,3.9,Delayed
+1861,2024-06-29,54,Chinese,429.49,7.95,84,Wallet,2.6,Delayed
+1862,2024-11-11,64,Chinese,1065.45,7.34,81,Card,4.6,Delivered
+1863,2024-10-04,43,Chinese,981.32,10.34,52,Cash,4.3,Cancelled
+1864,2024-12-16,35,Italian,790.05,11.44,27,Wallet,4.3,Delivered
+1865,2024-10-23,65,Italian,243.69,10.73,38,Cash,4.4,Delayed
+1866,2024-07-21,53,Indian,548.19,13.24,67,UPI,3.1,Delivered
+1867,2024-08-22,50,Italian,541.05,4.87,73,UPI,4.5,Delayed
+1868,2024-05-02,18,Cafe,1033.08,14.5,44,Wallet,3.5,Delayed
+1869,2024-11-08,23,Italian,209.16,4.87,31,UPI,2.5,Cancelled
+1870,2024-10-23,25,Cafe,774.23,4.0,42,UPI,3.2,Delayed
+1871,2024-01-13,21,Indian,865.37,5.44,75,UPI,3.9,Delayed
+1872,2024-08-17,25,Fast Food,1167.96,10.95,67,Wallet,2.8,Cancelled
+1873,2024-08-18,24,Chinese,404.18,14.8,28,Card,3.1,Delayed
+1874,2024-09-10,35,Indian,430.96,7.94,56,Cash,2.6,Cancelled
+1875,2024-09-28,52,Bakery,848.93,12.86,83,UPI,4.2,Cancelled
+1876,2024-02-28,51,Bakery,1037.0,11.3,62,Card,3.3,Delayed
+1877,2024-08-31,39,Chinese,512.83,2.56,22,Card,4.5,Cancelled
+1878,2024-05-06,22,Bakery,790.49,3.68,86,Cash,3.3,Cancelled
+1879,2024-04-21,38,Cafe,631.43,14.65,33,Cash,3.5,Cancelled
+1880,2024-09-03,18,Italian,909.67,9.16,40,Wallet,2.5,Delivered
+1881,2024-08-07,48,Indian,568.3,12.5,29,Card,3.6,Delivered
+1882,2024-01-12,53,Italian,758.08,13.67,43,Card,3.3,Delayed
+1883,2024-05-07,21,Cafe,195.46,13.91,66,Card,2.9,Delivered
+1884,2024-06-02,58,Fast Food,487.27,10.21,34,Card,4.4,Delayed
+1885,2024-02-16,28,Fast Food,613.36,12.41,40,UPI,3.0,Cancelled
+1886,2024-03-12,28,Cafe,166.89,4.65,33,Cash,4.9,Delayed
+1887,2024-09-17,44,Indian,273.44,11.11,31,UPI,3.7,Delayed
+1888,2024-04-16,59,Fast Food,433.69,9.8,64,UPI,4.5,Cancelled
+1889,2024-11-17,29,Chinese,377.8,9.98,65,Wallet,2.6,Delayed
+1890,2024-03-01,38,Cafe,175.1,14.24,26,Card,3.8,Delayed
+1891,2024-09-06,63,Cafe,415.32,12.7,45,UPI,4.4,Delayed
+1892,2024-05-31,26,Fast Food,402.94,6.85,22,Wallet,3.9,Delivered
+1893,2024-10-06,34,Indian,204.12,8.26,32,Cash,4.4,Delivered
+1894,2024-03-01,48,Fast Food,803.45,14.3,32,Cash,2.8,Cancelled
+1895,2024-04-13,53,Chinese,1047.37,13.76,63,Cash,4.2,Delivered
+1896,2024-02-06,50,Indian,816.19,9.54,32,UPI,4.1,Delivered
+1897,2024-07-07,28,Chinese,927.4,14.7,45,UPI,3.3,Delivered
+1898,2024-11-03,62,Chinese,228.26,13.18,19,Card,4.6,Delivered
+1899,2024-05-31,30,Indian,915.58,6.07,34,Wallet,3.8,Cancelled
+1900,2024-10-30,54,Chinese,224.32,13.6,21,UPI,4.0,Cancelled
+1901,2024-09-11,58,Cafe,356.35,0.56,51,UPI,4.7,Delivered
+1902,2024-05-13,57,Fast Food,875.23,0.71,65,UPI,3.2,Delayed
+1903,2024-10-13,63,Italian,873.21,9.33,16,UPI,3.5,Delivered
+1904,2024-04-27,31,Italian,660.61,1.02,38,Cash,3.6,Cancelled
+1905,2024-09-11,32,Italian,445.08,14.12,50,Wallet,3.9,Delivered
+1906,2024-02-04,41,Cafe,1140.45,10.18,74,UPI,4.9,Delayed
+1907,2024-04-26,54,Fast Food,584.89,0.77,17,Cash,4.7,Delayed
+1908,2024-07-19,62,Indian,1085.47,9.97,36,UPI,2.9,Delivered
+1909,2024-03-10,56,Italian,480.42,14.57,15,UPI,3.0,Cancelled
+1910,2024-11-09,21,Cafe,240.4,7.1,67,Wallet,3.7,Cancelled
+1911,2024-06-04,45,Cafe,623.99,2.27,60,Wallet,3.1,Delayed
+1912,2024-07-01,53,Italian,814.55,11.39,38,Wallet,5.0,Delayed
+1913,2024-08-04,64,Chinese,618.56,0.73,28,Wallet,3.8,Delivered
+1914,2024-06-10,19,Italian,881.96,9.91,25,Wallet,4.9,Cancelled
+1915,2024-05-11,61,Bakery,545.64,6.13,35,Cash,2.5,Cancelled
+1916,2024-06-01,26,Bakery,1170.78,8.69,70,UPI,5.0,Delayed
+1917,2024-09-09,29,Chinese,301.59,3.02,15,Card,4.4,Cancelled
+1918,2024-12-21,51,Italian,1025.76,2.04,90,Wallet,4.7,Delayed
+1919,2024-11-05,47,Bakery,462.47,14.6,41,Wallet,4.8,Delayed
+1920,2024-10-20,25,Indian,864.15,11.55,30,Wallet,2.9,Delayed
+1921,2024-11-06,38,Fast Food,571.48,13.74,86,Wallet,4.2,Delayed
+1922,2024-06-18,48,Chinese,810.02,12.19,16,Wallet,2.5,Delayed
+1923,2024-12-13,50,Indian,850.61,13.69,61,Cash,3.8,Delayed
+1924,2024-07-21,60,Indian,615.77,7.5,41,Card,4.4,Cancelled
+1925,2024-08-02,57,Fast Food,882.39,10.42,46,Card,3.5,Delivered
+1926,2024-11-21,36,Bakery,667.86,6.68,38,Card,4.9,Delayed
+1927,2024-06-30,38,Chinese,278.64,7.83,25,Cash,3.2,Delayed
+1928,2024-10-16,35,Chinese,695.99,3.29,40,Cash,4.1,Delivered
+1929,2024-05-08,53,Bakery,709.58,11.7,29,Cash,4.6,Delivered
+1930,2024-11-18,37,Bakery,960.1,14.79,86,Wallet,4.2,Delayed
+1931,2024-09-26,62,Cafe,221.98,11.63,24,Card,3.3,Delivered
+1932,2024-10-25,56,Cafe,430.0,1.02,16,Card,4.4,Delayed
+1933,2024-04-16,24,Cafe,925.87,10.7,31,Wallet,2.6,Delayed
+1934,2024-10-12,51,Indian,408.18,3.05,48,Card,4.4,Delayed
+1935,2024-08-24,47,Fast Food,545.3,1.48,23,Card,4.7,Delayed
+1936,2024-04-23,31,Cafe,1137.66,10.19,59,Cash,3.1,Delayed
+1937,2024-10-24,25,Fast Food,920.95,13.36,52,UPI,3.7,Delayed
+1938,2024-12-26,40,Cafe,1015.62,1.91,65,UPI,3.9,Delayed
+1939,2024-10-23,24,Bakery,577.9,13.05,64,UPI,4.8,Delayed
+1940,2024-06-04,30,Bakery,1062.93,1.63,41,Wallet,4.1,Delayed
+1941,2024-01-25,54,Fast Food,511.25,6.85,70,Card,4.1,Delayed
+1942,2024-03-11,25,Bakery,1027.96,13.44,28,UPI,3.9,Delayed
+1943,2024-09-18,20,Cafe,599.79,5.35,15,Card,4.7,Delivered
+1944,2024-09-24,20,Indian,756.03,8.49,57,Wallet,3.2,Cancelled
+1945,2024-07-08,60,Fast Food,553.71,8.11,15,Card,3.1,Cancelled
+1946,2024-12-11,56,Indian,765.96,9.23,68,Card,3.8,Cancelled
+1947,2024-11-06,32,Indian,925.22,13.33,35,Wallet,3.0,Cancelled
+1948,2024-03-18,25,Chinese,473.11,9.5,39,Cash,4.9,Delivered
+1949,2024-11-12,48,Italian,169.85,12.98,33,UPI,2.9,Cancelled
+1950,2024-06-13,22,Indian,1006.75,1.86,82,Card,3.5,Delivered
+1951,2024-01-16,39,Chinese,861.44,13.14,29,UPI,2.7,Delivered
+1952,2024-06-02,52,Fast Food,221.6,11.32,64,Cash,4.1,Delivered
+1953,2024-10-05,30,Chinese,603.04,1.32,15,Wallet,3.0,Delayed
+1954,2024-02-04,41,Bakery,300.45,13.65,57,Cash,3.7,Cancelled
+1955,2024-06-12,59,Italian,811.82,6.47,86,Cash,4.8,Delivered
+1956,2024-05-25,61,Indian,1106.48,12.39,85,Cash,4.9,Delayed
+1957,2024-07-04,47,Italian,604.3,11.93,58,Card,3.2,Delayed
+1958,2024-11-10,44,Chinese,1110.32,8.3,28,Wallet,3.1,Cancelled
+1959,2024-02-11,44,Italian,1111.18,2.51,58,Card,4.4,Delayed
+1960,2024-01-25,31,Fast Food,639.75,0.73,48,Wallet,3.4,Cancelled
+1961,2024-05-21,25,Indian,401.57,14.67,79,Wallet,3.6,Cancelled
+1962,2024-11-17,25,Chinese,558.52,4.66,19,Card,3.6,Delivered
+1963,2024-02-13,49,Italian,866.83,10.9,30,Card,5.0,Delivered
+1964,2024-04-30,48,Fast Food,618.11,13.53,16,Card,3.8,Cancelled
+1965,2024-05-19,60,Bakery,614.38,12.07,61,UPI,5.0,Delayed
+1966,2024-04-23,40,Chinese,988.12,8.08,25,UPI,3.9,Delayed
+1967,2024-06-10,53,Fast Food,802.78,2.89,35,Cash,4.5,Delayed
+1968,2024-02-03,61,Italian,880.35,14.56,61,Card,4.2,Delivered
+1969,2024-06-19,51,Fast Food,565.26,0.95,81,Wallet,3.8,Cancelled
+1970,2024-01-19,25,Bakery,1100.8,14.24,40,Card,3.3,Cancelled
+1971,2024-02-12,49,Indian,659.51,3.15,30,UPI,2.8,Delayed
+1972,2024-12-09,42,Cafe,464.33,9.05,90,Wallet,4.8,Delivered
+1973,2024-10-28,19,Cafe,436.37,3.59,53,Wallet,2.9,Delivered
+1974,2024-08-29,62,Bakery,426.32,13.57,16,Wallet,2.9,Delivered
+1975,2024-06-01,42,Indian,631.84,11.19,36,Cash,4.0,Cancelled
+1976,2024-11-04,64,Fast Food,514.14,8.23,89,Wallet,3.6,Delayed
+1977,2024-07-14,18,Fast Food,667.69,9.91,41,UPI,4.1,Cancelled
+1978,2024-10-10,42,Cafe,702.56,3.24,62,Card,2.6,Delivered
+1979,2024-01-16,34,Indian,843.53,9.27,64,Wallet,3.9,Delivered
+1980,2024-12-26,45,Italian,470.02,10.25,28,UPI,3.3,Delayed
+1981,2024-10-07,40,Fast Food,486.16,13.73,17,Card,4.8,Delivered
+1982,2024-03-10,25,Indian,387.43,7.75,21,Card,5.0,Cancelled
+1983,2024-10-04,38,Cafe,789.85,13.47,49,Cash,2.7,Cancelled
+1984,2024-10-11,47,Indian,818.01,2.67,77,Cash,3.3,Delivered
+1985,2024-10-10,55,Italian,562.79,4.43,81,Card,3.4,Delivered
+1986,2024-03-08,48,Chinese,345.01,7.53,86,UPI,3.1,Delivered
+1987,2024-03-12,52,Indian,176.07,12.76,85,Card,3.4,Delayed
+1988,2024-05-06,51,Chinese,438.94,13.21,90,UPI,4.2,Delivered
+1989,2024-04-19,27,Cafe,801.77,1.65,41,Wallet,4.8,Delayed
+1990,2024-08-13,39,Bakery,363.48,13.8,45,UPI,4.6,Delivered
+1991,2024-06-07,51,Fast Food,382.6,1.59,54,Wallet,4.1,Delayed
+1992,2024-12-28,44,Bakery,1064.03,2.48,27,UPI,3.8,Cancelled
+1993,2024-06-06,28,Fast Food,1140.82,3.88,73,UPI,3.2,Cancelled
+1994,2024-07-09,62,Italian,962.78,9.37,26,Card,3.6,Cancelled
+1995,2024-09-05,38,Indian,867.66,14.7,67,Card,4.3,Delayed
+1996,2024-09-20,56,Italian,751.92,12.76,76,Cash,3.9,Cancelled
+1997,2024-08-24,27,Cafe,576.7,1.6,35,Cash,3.2,Cancelled
+1998,2024-06-13,50,Italian,1160.88,4.66,24,Cash,3.6,Cancelled
+1999,2024-10-12,42,Bakery,790.11,2.73,64,Card,2.9,Delivered
+2000,2024-09-23,44,Fast Food,1100.99,11.36,72,Card,2.5,Delayed
+2001,2024-12-27,59,Italian,311.32,14.19,43,Cash,2.6,Delayed
+2002,2024-07-21,53,Chinese,1173.5,5.44,34,UPI,2.8,Delayed
+2003,2024-01-18,42,Bakery,639.06,12.98,88,Card,2.7,Delivered
+2004,2024-06-11,34,Italian,525.22,3.41,43,Wallet,4.7,Cancelled
+2005,2024-10-22,28,Italian,214.8,8.87,36,Cash,2.8,Delayed
+2006,2024-10-23,63,Chinese,825.76,12.46,41,UPI,4.1,Cancelled
+2007,2024-10-20,36,Chinese,1141.78,9.18,23,Card,2.9,Delayed
+2008,2024-03-27,29,Fast Food,1022.05,7.86,53,UPI,4.7,Cancelled
+2009,2024-06-10,45,Cafe,219.91,8.72,27,UPI,4.9,Delayed
+2010,2024-03-14,46,Bakery,206.35,7.78,65,Cash,3.3,Delayed
+2011,2024-11-15,48,Italian,686.55,3.68,37,Wallet,2.8,Delayed
+2012,2024-06-16,31,Fast Food,196.0,14.89,68,Card,4.1,Delivered
+2013,2024-05-12,49,Fast Food,1192.79,5.51,37,UPI,4.8,Delayed
+2014,2024-02-26,40,Cafe,571.76,3.38,28,Wallet,4.5,Delivered
+2015,2024-11-28,61,Fast Food,503.83,9.52,70,UPI,2.7,Delayed
+2016,2024-12-31,21,Indian,489.01,1.41,71,Cash,4.5,Delayed
+2017,2024-06-16,23,Indian,408.23,4.24,68,Card,3.2,Cancelled
+2018,2024-09-02,33,Italian,615.47,11.06,41,Cash,2.8,Delayed
+2019,2024-08-23,57,Bakery,1157.74,4.91,77,UPI,3.6,Delayed
+2020,2024-10-22,58,Fast Food,719.97,1.61,73,Cash,3.5,Delayed
+2021,2024-12-07,62,Chinese,877.82,7.75,32,Card,3.4,Cancelled
+2022,2024-06-03,38,Chinese,733.19,1.6,67,Cash,2.9,Cancelled
+2023,2024-10-27,53,Fast Food,1140.55,2.79,38,UPI,4.8,Delivered
+2024,2024-06-10,23,Chinese,1109.67,11.84,54,Card,3.4,Delayed
+2025,2024-03-18,53,Bakery,1081.8,3.39,48,Cash,4.5,Delivered
+2026,2024-05-21,23,Chinese,714.84,4.35,33,Cash,3.5,Cancelled
+2027,2024-08-03,30,Cafe,1065.94,14.3,68,Cash,2.7,Delivered
+2028,2024-12-09,53,Cafe,152.22,8.83,60,Cash,3.8,Delayed
+2029,2024-09-11,58,Chinese,337.17,8.45,66,Card,3.1,Delayed
+2030,2024-05-05,59,Fast Food,266.87,8.25,28,Wallet,4.2,Cancelled
+2031,2024-07-03,56,Cafe,898.12,3.96,57,Wallet,4.1,Delayed
+2032,2024-06-15,43,Cafe,927.36,1.16,49,UPI,4.1,Delivered
+2033,2024-02-23,29,Indian,877.49,13.66,66,UPI,3.2,Cancelled
+2034,2024-11-13,57,Bakery,564.35,14.5,42,UPI,4.3,Cancelled
+2035,2024-02-24,54,Bakery,560.75,14.4,83,Wallet,3.4,Delayed
+2036,2024-03-31,38,Italian,885.75,14.07,15,UPI,3.5,Delivered
+2037,2024-04-10,59,Italian,236.37,8.57,30,UPI,4.4,Delivered
+2038,2024-10-16,33,Chinese,599.13,1.44,44,UPI,3.7,Delayed
+2039,2024-03-10,33,Cafe,1195.47,11.76,31,Wallet,2.9,Delivered
+2040,2024-01-21,44,Chinese,688.13,14.9,33,Wallet,2.9,Cancelled
+2041,2024-11-01,30,Chinese,163.16,13.1,69,Cash,3.8,Cancelled
+2042,2024-11-27,56,Indian,1075.67,9.08,76,Wallet,2.7,Cancelled
+2043,2024-06-09,60,Fast Food,910.23,1.61,64,Card,3.0,Cancelled
+2044,2024-07-22,25,Indian,832.83,11.27,74,UPI,3.0,Delivered
+2045,2024-06-11,37,Cafe,943.87,13.35,21,Wallet,4.2,Delayed
+2046,2024-08-17,32,Fast Food,366.64,12.26,45,Card,4.6,Delivered
+2047,2024-09-11,31,Bakery,671.68,10.35,72,Wallet,3.0,Delivered
+2048,2024-10-01,27,Indian,1123.37,10.45,27,UPI,3.3,Cancelled
+2049,2024-12-26,51,Italian,419.22,11.18,43,Cash,4.0,Cancelled
+2050,2024-06-19,65,Chinese,868.28,13.14,31,Cash,4.3,Delivered
+2051,2024-11-13,21,Bakery,265.96,4.6,20,Wallet,2.8,Cancelled
+2052,2024-03-21,53,Chinese,826.98,7.03,80,Card,3.3,Cancelled
+2053,2024-03-10,49,Italian,896.93,4.64,80,Cash,2.6,Delayed
+2054,2024-04-04,35,Italian,1073.27,1.09,90,UPI,3.6,Cancelled
+2055,2024-01-07,48,Bakery,973.2,12.04,68,Wallet,3.4,Delayed
+2056,2024-02-13,62,Cafe,1177.33,8.4,56,Wallet,3.7,Delayed
+2057,2024-11-11,47,Italian,682.3,13.68,36,Wallet,4.3,Delayed
+2058,2024-08-29,65,Cafe,488.34,13.94,78,Cash,3.4,Delayed
+2059,2024-08-10,63,Cafe,1027.87,7.42,30,Card,4.5,Cancelled
+2060,2024-12-31,54,Fast Food,633.96,4.43,58,Wallet,4.3,Delivered
+2061,2024-08-29,27,Indian,764.25,10.35,71,UPI,4.9,Cancelled
+2062,2024-01-12,45,Fast Food,332.46,12.88,90,Wallet,4.9,Cancelled
+2063,2024-01-05,65,Fast Food,973.01,0.89,59,Cash,3.6,Delivered
+2064,2024-01-30,50,Indian,255.34,9.9,57,Cash,3.0,Delayed
+2065,2024-10-10,24,Indian,299.35,13.2,90,Card,4.3,Delayed
+2066,2024-12-31,27,Cafe,502.63,2.23,46,Cash,2.7,Cancelled
+2067,2024-05-09,35,Indian,452.51,10.99,70,UPI,5.0,Delivered
+2068,2024-07-06,50,Italian,565.98,1.28,77,Wallet,4.0,Delayed
+2069,2024-08-23,21,Indian,799.91,12.51,22,Card,4.2,Cancelled
+2070,2024-02-15,52,Chinese,490.35,2.87,70,Wallet,4.4,Delayed
+2071,2024-02-26,54,Bakery,735.09,14.51,69,Card,3.1,Delayed
+2072,2024-09-12,27,Indian,843.28,2.54,28,UPI,5.0,Delivered
+2073,2024-07-09,35,Cafe,397.63,5.07,76,UPI,2.5,Delivered
+2074,2024-05-19,43,Bakery,516.11,12.36,61,UPI,4.1,Delivered
+2075,2024-02-10,61,Italian,698.63,8.32,15,UPI,2.6,Cancelled
+2076,2024-02-26,44,Bakery,367.29,3.2,80,Cash,3.8,Delayed
+2077,2024-05-27,38,Fast Food,485.56,11.95,23,Cash,4.4,Delayed
+2078,2024-12-02,28,Cafe,403.4,9.53,73,Cash,4.7,Delayed
+2079,2024-05-05,63,Indian,190.93,9.77,63,Cash,2.7,Cancelled
+2080,2024-11-07,42,Chinese,417.2,14.14,19,UPI,3.8,Delayed
+2081,2024-08-05,47,Cafe,210.07,5.05,74,Card,3.0,Delivered
+2082,2024-06-16,21,Chinese,468.87,0.61,48,Wallet,4.5,Delivered
+2083,2024-11-16,34,Chinese,1171.54,6.74,28,UPI,4.4,Delivered
+2084,2024-10-17,55,Italian,1061.57,11.69,89,UPI,3.0,Delivered
+2085,2024-10-21,33,Chinese,554.94,5.57,24,Wallet,4.2,Delivered
+2086,2024-06-25,64,Chinese,1093.49,9.23,73,UPI,4.9,Cancelled
+2087,2024-04-26,60,Indian,1035.78,12.17,74,Card,3.1,Delayed
+2088,2024-09-03,45,Cafe,1011.22,9.76,18,Wallet,4.2,Delayed
+2089,2024-11-13,52,Chinese,275.74,13.61,31,Cash,3.4,Delayed
+2090,2024-08-27,38,Fast Food,808.39,8.54,35,Wallet,3.9,Delayed
+2091,2024-06-05,29,Chinese,601.67,1.96,45,Cash,3.9,Cancelled
+2092,2024-10-04,34,Bakery,237.38,4.87,74,UPI,4.9,Cancelled
+2093,2024-10-31,44,Bakery,731.59,13.81,90,Wallet,3.8,Cancelled
+2094,2024-07-26,47,Fast Food,163.88,2.5,70,Wallet,4.8,Delivered
+2095,2024-10-12,33,Bakery,620.31,3.97,78,UPI,2.6,Cancelled
+2096,2024-05-28,38,Bakery,466.93,11.45,33,Cash,2.5,Delivered
+2097,2024-09-25,21,Cafe,935.89,14.51,44,UPI,4.1,Delayed
+2098,2024-08-01,22,Bakery,1013.65,13.98,89,Wallet,4.6,Cancelled
+2099,2024-03-19,30,Cafe,328.55,10.48,35,Wallet,4.7,Cancelled
+2100,2024-03-13,62,Chinese,695.96,5.11,61,Card,3.9,Delayed
+2101,2024-06-08,37,Fast Food,408.73,3.42,51,Wallet,4.9,Cancelled
+2102,2024-12-20,63,Chinese,229.88,13.46,53,Card,4.6,Delivered
+2103,2024-06-04,31,Indian,393.15,10.72,17,Wallet,4.9,Delayed
+2104,2024-12-02,37,Bakery,1194.77,1.85,79,UPI,4.4,Cancelled
+2105,2024-02-03,23,Bakery,1097.17,10.7,40,Card,3.4,Cancelled
+2106,2024-04-04,22,Indian,254.47,3.55,73,Cash,4.0,Delayed
+2107,2024-02-03,35,Bakery,166.1,9.98,30,UPI,3.0,Delayed
+2108,2024-11-16,39,Chinese,685.01,11.09,81,Card,3.1,Cancelled
+2109,2024-06-30,62,Cafe,636.91,10.26,79,Cash,3.6,Delivered
+2110,2024-02-10,21,Chinese,177.49,6.41,21,UPI,4.3,Cancelled
+2111,2024-03-05,64,Bakery,1129.05,8.65,61,Wallet,3.6,Delivered
+2112,2024-08-29,61,Cafe,541.64,11.11,36,Wallet,2.6,Cancelled
+2113,2024-11-04,26,Indian,831.03,4.75,75,UPI,4.5,Cancelled
+2114,2024-11-06,63,Chinese,824.29,14.38,49,Card,4.0,Delayed
+2115,2024-04-02,36,Bakery,205.58,13.47,59,Wallet,3.7,Delayed
+2116,2024-12-12,55,Italian,505.9,7.5,22,Cash,4.1,Cancelled
+2117,2024-05-28,60,Bakery,781.05,14.7,40,UPI,3.0,Delayed
+2118,2024-01-19,41,Chinese,630.56,1.73,48,UPI,4.8,Delayed
+2119,2024-02-14,51,Italian,685.17,3.98,60,Card,3.6,Delivered
+2120,2024-12-06,56,Cafe,788.54,13.16,77,Wallet,4.3,Cancelled
+2121,2024-05-08,35,Fast Food,789.48,6.94,65,Card,2.9,Delivered
+2122,2024-01-12,29,Fast Food,643.58,10.66,46,Card,4.6,Delivered
+2123,2024-08-30,61,Italian,587.5,3.48,51,UPI,2.9,Delivered
+2124,2024-07-31,22,Fast Food,1151.93,7.28,69,Card,3.0,Delivered
+2125,2024-09-26,36,Indian,235.35,8.32,88,Card,3.3,Delayed
+2126,2024-12-20,41,Fast Food,948.83,3.05,87,Cash,4.9,Delayed
+2127,2024-05-22,27,Fast Food,529.43,0.86,23,Card,5.0,Delayed
+2128,2024-03-25,58,Italian,882.44,5.82,57,Card,3.4,Delayed
+2129,2024-05-18,35,Fast Food,1187.48,6.76,53,Wallet,3.2,Delivered
+2130,2024-05-28,41,Bakery,879.41,7.14,52,Cash,2.9,Cancelled
+2131,2024-12-09,59,Cafe,205.25,2.06,87,Card,4.7,Cancelled
+2132,2024-09-17,34,Italian,185.31,12.33,40,Card,2.5,Delivered
+2133,2024-03-10,39,Indian,790.4,8.2,49,Wallet,4.1,Cancelled
+2134,2024-05-14,50,Fast Food,484.39,0.65,78,Wallet,3.7,Cancelled
+2135,2024-07-08,52,Fast Food,1045.61,3.9,30,Cash,5.0,Delivered
+2136,2024-01-18,53,Indian,1192.79,7.39,44,UPI,4.7,Cancelled
+2137,2024-05-05,39,Indian,768.81,10.15,89,UPI,4.9,Delayed
+2138,2024-11-22,41,Cafe,963.89,7.88,50,Cash,3.7,Delivered
+2139,2024-10-27,22,Bakery,586.81,7.84,62,UPI,3.8,Delivered
+2140,2024-01-30,35,Cafe,647.48,8.47,40,Cash,4.2,Cancelled
+2141,2024-11-10,47,Cafe,278.2,10.34,29,UPI,4.1,Cancelled
+2142,2024-09-06,53,Italian,853.99,13.55,68,UPI,3.1,Cancelled
+2143,2024-10-17,34,Chinese,506.17,12.85,30,UPI,3.9,Cancelled
+2144,2024-03-01,46,Italian,1190.63,5.85,54,UPI,3.2,Cancelled
+2145,2024-01-18,22,Bakery,765.91,5.38,21,Card,4.6,Delivered
+2146,2024-12-10,53,Chinese,386.96,10.48,55,Wallet,5.0,Delayed
+2147,2024-09-15,34,Indian,1152.21,11.12,79,Wallet,2.6,Cancelled
+2148,2024-04-07,61,Fast Food,300.84,11.17,25,UPI,3.0,Delivered
+2149,2024-08-31,31,Fast Food,491.92,2.12,31,UPI,4.5,Delivered
+2150,2024-10-27,61,Chinese,490.31,8.95,85,Cash,3.1,Delivered
+2151,2024-04-02,18,Bakery,164.24,13.67,56,UPI,2.8,Delivered
+2152,2024-06-09,20,Cafe,758.19,7.17,76,Cash,2.7,Cancelled
+2153,2024-02-09,60,Bakery,266.84,2.48,85,Wallet,4.0,Delayed
+2154,2024-07-05,48,Chinese,586.21,10.78,81,Cash,3.7,Cancelled
+2155,2024-12-19,60,Bakery,695.17,13.87,70,UPI,4.9,Delayed
+2156,2024-07-07,62,Chinese,1000.77,11.76,19,Card,4.8,Delivered
+2157,2024-02-20,27,Fast Food,1184.88,3.89,46,UPI,3.3,Delivered
+2158,2024-01-21,29,Italian,831.8,7.89,16,UPI,3.4,Delayed
+2159,2024-08-19,22,Fast Food,152.62,1.23,63,Cash,4.9,Cancelled
+2160,2024-09-08,43,Italian,262.95,7.67,83,Cash,3.9,Cancelled
+2161,2024-11-21,61,Chinese,543.49,9.71,53,Cash,4.4,Delivered
+2162,2024-12-15,55,Fast Food,167.26,4.42,49,Wallet,4.5,Cancelled
+2163,2024-09-14,44,Bakery,983.1,12.73,55,Wallet,4.4,Cancelled
+2164,2024-05-20,61,Fast Food,1178.25,8.9,60,Card,3.0,Delivered
+2165,2024-07-11,54,Chinese,213.63,6.1,72,Wallet,4.8,Delayed
+2166,2024-03-23,35,Fast Food,344.72,3.57,31,UPI,2.7,Delivered
+2167,2024-03-22,51,Italian,1125.7,13.04,62,UPI,2.6,Delivered
+2168,2024-01-04,46,Cafe,835.65,7.28,87,Cash,4.1,Delayed
+2169,2024-02-21,56,Chinese,547.96,11.23,58,UPI,4.7,Delivered
+2170,2024-11-23,56,Fast Food,762.56,4.43,18,Wallet,2.6,Cancelled
+2171,2024-02-26,32,Bakery,1151.41,7.42,60,UPI,3.0,Delayed
+2172,2024-05-06,22,Chinese,173.38,12.19,90,UPI,3.2,Delivered
+2173,2024-02-15,19,Chinese,766.39,4.63,18,Card,4.3,Delayed
+2174,2024-06-17,60,Fast Food,1179.61,8.56,56,UPI,4.0,Delayed
+2175,2024-12-06,25,Italian,552.63,2.41,89,UPI,3.6,Cancelled
+2176,2024-04-27,30,Bakery,658.35,3.09,16,Wallet,2.6,Delivered
+2177,2024-06-06,44,Italian,1056.85,13.0,90,Card,2.5,Delayed
+2178,2024-06-27,35,Fast Food,526.67,8.64,26,Card,3.2,Cancelled
+2179,2024-07-18,54,Chinese,336.91,14.1,88,Card,4.9,Delayed
+2180,2024-03-20,51,Fast Food,946.9,2.95,85,Wallet,4.1,Delivered
+2181,2024-05-09,65,Bakery,293.92,7.1,57,UPI,4.6,Cancelled
+2182,2024-06-03,47,Italian,163.2,5.67,74,UPI,3.4,Delivered
+2183,2024-08-24,27,Italian,1140.28,12.64,15,Card,4.7,Delayed
+2184,2024-02-06,21,Fast Food,1030.28,9.98,49,Cash,3.0,Delayed
+2185,2024-10-17,29,Italian,341.88,3.14,25,Card,3.7,Delivered
+2186,2024-12-05,41,Bakery,696.46,10.54,86,UPI,2.8,Delivered
+2187,2024-07-12,63,Cafe,402.5,10.72,71,Cash,3.6,Cancelled
+2188,2024-06-15,33,Italian,372.18,12.19,77,Cash,4.3,Cancelled
+2189,2024-12-03,27,Indian,872.96,13.78,40,Wallet,3.7,Cancelled
+2190,2024-02-08,36,Bakery,220.25,5.9,74,Cash,2.8,Delayed
+2191,2024-08-27,42,Cafe,720.55,7.74,45,UPI,4.0,Delivered
+2192,2024-05-11,42,Indian,1059.02,4.91,85,Wallet,4.5,Delayed
+2193,2024-08-17,63,Cafe,797.54,10.92,15,Wallet,3.5,Delivered
+2194,2024-11-12,23,Fast Food,807.97,0.99,44,UPI,2.8,Delivered
+2195,2024-05-28,41,Fast Food,1054.14,9.2,43,Cash,4.1,Cancelled
+2196,2024-03-04,36,Fast Food,757.83,11.94,68,Wallet,3.1,Delayed
+2197,2024-10-05,56,Bakery,760.55,9.36,46,Wallet,3.0,Cancelled
+2198,2024-06-11,28,Cafe,1132.02,0.85,82,Wallet,2.6,Cancelled
+2199,2024-07-31,35,Fast Food,1001.74,8.08,43,Cash,2.7,Cancelled
+2200,2024-03-20,29,Indian,1083.07,13.89,17,Card,3.6,Delivered
+2201,2024-02-05,59,Indian,592.92,4.17,74,Cash,4.5,Delivered
+2202,2024-12-16,59,Italian,1041.35,6.79,46,Wallet,3.3,Delayed
+2203,2024-12-09,62,Italian,720.9,2.54,20,Cash,4.2,Delivered
+2204,2024-07-14,50,Fast Food,467.61,13.91,89,UPI,2.6,Delivered
+2205,2024-09-21,65,Cafe,757.32,9.89,29,Card,4.7,Delivered
+2206,2024-09-14,37,Fast Food,709.04,2.6,24,Wallet,4.9,Delayed
+2207,2024-02-19,26,Italian,1074.36,11.99,50,UPI,4.6,Cancelled
+2208,2024-01-11,23,Chinese,353.34,2.58,82,Wallet,3.5,Delivered
+2209,2024-04-18,52,Bakery,987.74,8.61,21,UPI,3.1,Delivered
+2210,2024-04-27,34,Cafe,1089.86,9.11,16,UPI,4.5,Delivered
+2211,2024-02-08,41,Indian,969.77,2.06,40,Card,3.7,Delayed
+2212,2024-12-12,30,Indian,757.75,2.68,76,Card,4.7,Delivered
+2213,2024-12-28,38,Cafe,660.28,13.25,80,Card,3.5,Delivered
+2214,2024-06-04,41,Indian,610.92,2.59,50,Wallet,3.0,Delayed
+2215,2024-09-23,59,Chinese,1179.23,4.26,42,Card,3.5,Delivered
+2216,2024-08-14,55,Chinese,287.35,11.14,49,Cash,3.0,Cancelled
+2217,2024-09-15,36,Indian,644.19,1.62,42,Cash,3.3,Delayed
+2218,2024-11-20,30,Indian,514.05,13.44,64,UPI,3.6,Cancelled
+2219,2024-09-15,62,Indian,634.08,10.25,58,UPI,3.6,Delivered
+2220,2024-10-29,48,Indian,220.4,4.23,88,Card,3.7,Delivered
+2221,2024-03-14,47,Fast Food,1037.7,13.4,67,Card,2.7,Delivered
+2222,2024-10-31,27,Fast Food,799.74,11.0,55,Cash,3.9,Delivered
+2223,2024-05-28,62,Chinese,1037.17,14.28,81,Wallet,2.8,Cancelled
+2224,2024-05-22,18,Chinese,650.77,13.47,50,UPI,3.0,Delivered
+2225,2024-01-01,43,Chinese,624.12,1.03,89,Wallet,4.2,Delivered
+2226,2024-11-21,33,Cafe,966.23,8.14,38,Card,3.3,Cancelled
+2227,2024-07-29,51,Fast Food,421.46,9.25,25,Card,3.8,Cancelled
+2228,2024-01-12,38,Chinese,466.06,11.09,18,UPI,4.8,Cancelled
+2229,2024-01-09,18,Chinese,235.39,6.41,75,Wallet,4.4,Delayed
+2230,2024-06-17,54,Italian,185.59,9.18,88,Card,4.4,Delayed
+2231,2024-07-22,51,Italian,590.78,11.99,65,Card,4.1,Delayed
+2232,2024-05-15,24,Bakery,977.11,13.11,67,Wallet,3.2,Cancelled
+2233,2024-08-09,32,Italian,502.79,9.92,72,Cash,2.6,Cancelled
+2234,2024-05-12,61,Indian,486.02,1.16,63,UPI,2.6,Delayed
+2235,2024-02-20,18,Indian,637.61,7.62,41,Cash,4.5,Cancelled
+2236,2024-08-25,41,Bakery,495.28,10.19,54,Wallet,4.6,Delayed
+2237,2024-10-28,44,Indian,1164.11,7.14,34,UPI,3.2,Delivered
+2238,2024-12-14,54,Indian,684.64,8.49,21,Cash,4.0,Delivered
+2239,2024-01-01,22,Indian,156.76,9.9,66,Wallet,3.9,Delivered
+2240,2024-09-21,43,Italian,857.5,5.92,74,Card,3.7,Delayed
+2241,2024-01-19,38,Italian,657.65,13.27,34,Card,3.9,Cancelled
+2242,2024-12-04,25,Italian,866.36,10.91,26,Wallet,4.5,Cancelled
+2243,2024-10-13,42,Indian,239.19,6.4,31,Card,4.9,Delayed
+2244,2024-10-12,54,Cafe,546.67,5.07,40,Wallet,3.9,Delayed
+2245,2024-02-06,55,Fast Food,934.34,1.06,31,Card,3.6,Cancelled
+2246,2024-02-16,31,Italian,1044.19,12.86,60,Wallet,4.5,Delayed
+2247,2024-02-29,34,Italian,613.03,4.09,42,UPI,4.3,Delivered
+2248,2024-03-15,37,Cafe,531.95,6.27,30,UPI,3.6,Delivered
+2249,2024-08-02,56,Chinese,1136.08,5.44,21,Cash,2.7,Delayed
+2250,2024-03-31,42,Chinese,1182.89,3.29,51,Wallet,2.6,Delayed
+2251,2024-06-30,25,Indian,1114.64,14.14,74,UPI,2.7,Delivered
+2252,2024-08-13,61,Chinese,770.57,8.19,28,Wallet,4.7,Delayed
+2253,2024-01-03,49,Chinese,633.46,5.69,57,Wallet,3.0,Cancelled
+2254,2024-03-10,18,Indian,982.64,13.56,36,Wallet,3.8,Delayed
+2255,2024-09-10,31,Fast Food,937.1,14.82,64,UPI,4.8,Delivered
+2256,2024-06-23,45,Fast Food,1043.96,6.66,63,UPI,3.4,Delivered
+2257,2024-05-16,63,Italian,630.32,9.22,63,Cash,3.8,Delayed
+2258,2024-12-27,50,Italian,282.67,12.71,90,Wallet,4.6,Delivered
+2259,2024-09-17,63,Cafe,513.9,3.04,59,UPI,4.3,Delayed
+2260,2024-01-22,50,Bakery,961.4,3.05,40,Cash,3.6,Delivered
+2261,2024-10-18,63,Indian,341.72,10.78,67,Wallet,3.1,Delayed
+2262,2024-06-08,39,Indian,351.51,13.44,55,UPI,4.4,Delayed
+2263,2024-03-14,53,Cafe,933.05,13.64,35,Cash,5.0,Delivered
+2264,2024-05-22,61,Fast Food,904.15,2.09,61,UPI,4.1,Cancelled
+2265,2024-01-06,52,Indian,1112.42,7.11,49,Card,4.5,Cancelled
+2266,2024-11-23,39,Fast Food,1099.27,3.74,39,Wallet,4.1,Cancelled
+2267,2024-11-15,19,Indian,173.18,9.85,29,Wallet,3.3,Delivered
+2268,2024-04-08,55,Fast Food,1140.79,7.17,63,Wallet,4.0,Delivered
+2269,2024-01-27,58,Italian,593.04,10.63,30,Card,2.9,Delayed
+2270,2024-09-04,46,Cafe,891.3,2.13,40,Cash,5.0,Cancelled
+2271,2024-05-27,28,Fast Food,160.69,14.34,23,Cash,3.5,Cancelled
+2272,2024-04-14,45,Bakery,1092.11,2.16,39,Wallet,3.7,Cancelled
+2273,2024-06-16,23,Indian,1017.95,3.0,42,Cash,3.5,Delayed
+2274,2024-03-13,34,Cafe,664.33,13.84,46,Card,3.9,Delivered
+2275,2024-06-09,60,Indian,436.74,12.13,90,Card,2.5,Delivered
+2276,2024-01-26,32,Bakery,415.17,10.8,56,Wallet,3.8,Cancelled
+2277,2024-03-18,60,Bakery,470.81,14.17,63,Wallet,4.3,Cancelled
+2278,2024-04-24,31,Fast Food,591.68,3.4,86,Card,4.8,Cancelled
+2279,2024-06-20,22,Indian,1097.9,14.53,55,UPI,3.1,Delayed
+2280,2024-04-07,39,Fast Food,466.72,8.75,27,Card,3.0,Cancelled
+2281,2024-06-30,51,Bakery,1047.83,9.24,82,UPI,4.8,Delayed
+2282,2024-07-30,25,Cafe,553.66,4.2,65,Cash,4.6,Delayed
+2283,2024-04-05,39,Cafe,790.02,5.44,52,Cash,2.5,Delayed
+2284,2024-10-13,63,Cafe,606.97,0.66,50,Wallet,4.9,Delivered
+2285,2024-03-04,62,Bakery,1144.17,6.14,33,UPI,4.1,Cancelled
+2286,2024-02-15,33,Bakery,283.57,4.35,23,Card,3.1,Cancelled
+2287,2024-10-13,36,Fast Food,728.3,11.21,54,Card,3.3,Cancelled
+2288,2024-07-27,33,Cafe,685.47,9.56,84,UPI,4.6,Cancelled
+2289,2024-10-30,46,Bakery,417.23,11.59,29,Wallet,4.7,Cancelled
+2290,2024-01-22,24,Indian,1058.78,3.38,83,Wallet,2.8,Delayed
+2291,2024-10-20,65,Indian,1025.28,1.91,53,Card,3.9,Delivered
+2292,2024-02-28,54,Italian,1059.16,0.5,31,Wallet,4.8,Delayed
+2293,2024-04-12,39,Italian,576.74,12.43,54,Cash,4.5,Delayed
+2294,2024-12-06,36,Chinese,1135.88,3.32,36,Cash,4.8,Delayed
+2295,2024-11-24,49,Chinese,482.11,2.68,78,Cash,3.6,Cancelled
+2296,2024-03-14,35,Indian,939.63,1.99,86,Cash,4.4,Delivered
+2297,2024-01-08,43,Italian,769.84,5.98,46,Cash,3.0,Delayed
+2298,2024-12-19,18,Fast Food,262.64,0.62,39,Card,3.6,Cancelled
+2299,2024-07-21,62,Cafe,558.29,11.33,62,Wallet,2.5,Delivered
+2300,2024-04-26,28,Italian,894.15,4.81,65,Wallet,4.7,Cancelled
+2301,2024-11-14,48,Bakery,225.7,4.8,88,Card,2.7,Cancelled
+2302,2024-01-17,45,Fast Food,220.41,5.48,44,UPI,3.7,Delivered
+2303,2024-08-29,32,Italian,664.27,2.01,85,Card,3.9,Cancelled
+2304,2024-09-08,62,Indian,1058.01,12.63,45,Cash,3.5,Cancelled
+2305,2024-05-31,63,Italian,751.02,11.18,87,Card,2.7,Delayed
+2306,2024-11-07,40,Italian,574.34,8.44,27,Card,3.1,Delayed
+2307,2024-01-08,19,Indian,510.99,2.07,27,Wallet,2.8,Delayed
+2308,2024-10-31,65,Cafe,393.17,9.94,40,Card,4.8,Delayed
+2309,2024-09-27,33,Bakery,588.28,11.59,64,Wallet,2.7,Delayed
+2310,2024-11-07,54,Chinese,822.68,6.45,64,Cash,2.5,Delayed
+2311,2024-05-03,33,Bakery,943.16,4.21,68,Card,2.8,Delayed
+2312,2024-01-05,38,Fast Food,165.98,8.51,65,Cash,4.9,Delayed
+2313,2024-02-17,32,Indian,220.89,14.77,90,Cash,3.3,Cancelled
+2314,2024-10-07,26,Bakery,776.63,4.28,38,Card,2.9,Delivered
+2315,2024-05-02,58,Indian,490.28,13.16,86,Cash,3.2,Delivered
+2316,2024-01-15,18,Cafe,342.15,3.78,83,Wallet,3.7,Cancelled
+2317,2024-06-18,27,Chinese,1190.42,0.62,88,Cash,4.3,Delayed
+2318,2024-10-24,37,Italian,1074.21,3.55,88,Wallet,3.7,Cancelled
+2319,2024-06-22,46,Cafe,373.41,7.41,44,UPI,3.5,Delayed
+2320,2024-12-25,59,Cafe,489.69,0.61,62,UPI,2.7,Delivered
+2321,2024-02-20,40,Cafe,564.19,7.26,31,Cash,4.3,Cancelled
+2322,2024-10-04,43,Italian,543.99,7.99,79,Card,5.0,Delivered
+2323,2024-03-06,25,Fast Food,639.21,1.31,22,Card,2.8,Delivered
+2324,2024-10-07,22,Fast Food,939.78,13.13,57,Wallet,4.7,Cancelled
+2325,2024-11-25,37,Indian,239.07,11.16,27,Cash,5.0,Delivered
+2326,2024-06-05,55,Cafe,380.03,5.61,82,Card,3.1,Delayed
+2327,2024-06-06,57,Fast Food,902.44,10.42,49,Card,2.9,Cancelled
+2328,2024-02-01,58,Bakery,238.55,10.71,77,Card,2.8,Cancelled
+2329,2024-09-16,52,Chinese,798.75,4.54,38,Wallet,2.9,Cancelled
+2330,2024-08-18,45,Chinese,500.13,6.17,81,Wallet,3.1,Delivered
+2331,2024-02-13,33,Italian,1132.47,4.22,28,Wallet,3.6,Delivered
+2332,2024-02-15,22,Fast Food,600.35,7.89,77,UPI,4.9,Delivered
+2333,2024-12-21,27,Chinese,305.03,2.06,89,Cash,3.0,Delayed
+2334,2024-09-06,40,Cafe,440.59,3.12,26,UPI,4.0,Delivered
+2335,2024-09-04,35,Cafe,359.96,3.78,77,UPI,3.4,Delivered
+2336,2024-05-15,36,Italian,895.62,6.22,56,Cash,3.6,Delivered
+2337,2024-02-20,50,Fast Food,610.75,13.91,67,Card,4.7,Delayed
+2338,2024-05-05,40,Fast Food,473.84,9.28,63,Cash,4.5,Cancelled
+2339,2024-03-16,22,Bakery,374.29,1.61,77,Card,4.6,Cancelled
+2340,2024-11-10,26,Cafe,373.94,7.11,24,Wallet,2.9,Cancelled
+2341,2024-10-11,44,Bakery,1158.67,4.13,19,Card,4.2,Delivered
+2342,2024-07-15,26,Bakery,1071.29,0.76,66,Card,2.5,Delayed
+2343,2024-08-03,65,Fast Food,1136.25,1.07,73,UPI,4.2,Delivered
+2344,2024-04-18,22,Fast Food,667.46,7.47,23,Cash,2.7,Delayed
+2345,2024-08-12,22,Chinese,567.09,14.65,44,Card,4.7,Cancelled
+2346,2024-08-04,25,Bakery,718.1,7.16,16,Cash,3.7,Cancelled
+2347,2024-03-09,37,Indian,866.51,3.24,57,UPI,4.4,Cancelled
+2348,2024-03-13,58,Bakery,987.59,4.96,35,UPI,4.3,Delivered
+2349,2024-04-05,61,Indian,640.65,7.98,62,UPI,2.7,Delivered
+2350,2024-06-22,23,Cafe,463.73,13.33,62,Cash,4.5,Cancelled
+2351,2024-02-26,61,Italian,1017.84,13.19,80,UPI,2.9,Delivered
+2352,2024-04-19,49,Italian,528.03,5.84,87,Wallet,4.2,Delivered
+2353,2024-10-21,58,Bakery,722.42,2.52,61,Cash,3.6,Delivered
+2354,2024-10-25,32,Italian,552.04,14.18,76,UPI,3.3,Cancelled
+2355,2024-10-30,48,Indian,896.65,11.66,58,Wallet,4.2,Delivered
+2356,2024-01-14,36,Fast Food,857.21,0.62,38,UPI,3.7,Delayed
+2357,2024-05-11,30,Chinese,884.2,6.32,79,Wallet,4.0,Cancelled
+2358,2024-11-14,47,Fast Food,635.43,9.53,85,UPI,4.2,Cancelled
+2359,2024-09-23,19,Fast Food,1081.53,14.95,30,Card,3.7,Delivered
+2360,2024-12-10,25,Indian,213.67,10.32,27,Wallet,4.2,Delivered
+2361,2024-11-16,43,Indian,852.33,11.39,76,Card,3.7,Delayed
+2362,2024-03-30,36,Fast Food,299.17,9.54,66,UPI,4.5,Delivered
+2363,2024-09-26,62,Chinese,918.34,12.51,71,Cash,2.5,Delayed
+2364,2024-05-31,57,Chinese,514.91,14.25,43,Cash,3.8,Delivered
+2365,2024-11-22,57,Fast Food,212.58,11.53,63,Wallet,3.2,Cancelled
+2366,2024-11-21,24,Indian,314.77,10.78,28,Cash,3.5,Cancelled
+2367,2024-08-11,52,Cafe,1139.69,2.02,28,Wallet,3.6,Delivered
+2368,2024-01-14,33,Indian,602.13,8.47,41,Cash,3.2,Delayed
+2369,2024-10-02,27,Bakery,241.33,7.01,83,UPI,4.3,Cancelled
+2370,2024-10-11,46,Italian,170.86,7.09,49,Card,3.8,Cancelled
+2371,2024-09-12,55,Italian,388.65,6.68,68,UPI,4.0,Delayed
+2372,2024-08-28,26,Bakery,1163.97,5.7,79,Card,4.3,Cancelled
+2373,2024-12-31,29,Bakery,675.3,1.21,29,Cash,3.8,Delayed
+2374,2024-01-15,62,Bakery,703.14,7.58,78,Card,3.4,Delivered
+2375,2024-11-13,24,Bakery,159.95,7.12,83,Card,3.7,Delivered
+2376,2024-08-05,59,Chinese,639.94,0.81,36,Wallet,3.7,Cancelled
+2377,2024-11-18,22,Italian,687.46,1.25,65,Wallet,4.2,Delivered
+2378,2024-03-16,40,Chinese,832.31,10.65,84,Cash,4.0,Cancelled
+2379,2024-07-30,49,Fast Food,450.45,9.37,89,Wallet,5.0,Delayed
+2380,2024-09-06,32,Bakery,1098.19,10.07,59,Wallet,2.6,Cancelled
+2381,2024-10-21,55,Cafe,484.43,5.32,28,Wallet,4.8,Delayed
+2382,2024-02-10,49,Bakery,494.56,12.28,35,Wallet,3.1,Cancelled
+2383,2024-12-25,44,Indian,218.23,11.09,18,UPI,4.5,Delivered
+2384,2024-01-26,28,Bakery,562.68,2.17,25,Wallet,3.7,Delivered
+2385,2024-12-22,61,Fast Food,470.28,10.51,72,Cash,2.5,Cancelled
+2386,2024-04-30,58,Italian,1047.26,1.51,20,Wallet,4.8,Delayed
+2387,2024-02-21,48,Cafe,669.88,10.72,49,Wallet,3.2,Delayed
+2388,2024-01-20,23,Indian,1158.28,10.81,80,UPI,4.1,Cancelled
+2389,2024-06-27,26,Cafe,434.32,13.33,50,Card,4.5,Cancelled
+2390,2024-03-08,40,Cafe,989.42,12.89,17,Wallet,4.1,Delivered
+2391,2024-10-26,65,Indian,1108.74,2.48,56,UPI,3.5,Cancelled
+2392,2024-10-14,50,Chinese,335.34,5.14,61,UPI,4.3,Delayed
+2393,2024-06-03,23,Fast Food,849.01,7.07,49,Card,4.4,Cancelled
+2394,2024-05-17,53,Fast Food,257.81,5.4,32,Card,2.7,Delayed
+2395,2024-01-06,41,Cafe,508.67,14.57,34,Wallet,2.7,Delivered
+2396,2024-01-11,64,Chinese,635.09,11.65,84,Card,3.8,Delayed
+2397,2024-05-27,60,Fast Food,960.28,3.78,17,Wallet,3.1,Delivered
+2398,2024-05-25,37,Fast Food,206.17,11.9,60,Wallet,4.0,Delivered
+2399,2024-05-06,40,Italian,295.25,14.97,23,Wallet,2.5,Delayed
+2400,2024-02-20,27,Italian,299.55,6.37,52,Wallet,4.8,Delivered
+2401,2024-12-20,36,Italian,784.44,9.73,48,Cash,4.8,Delivered
+2402,2024-09-26,65,Bakery,670.2,8.95,81,Cash,3.8,Delivered
+2403,2024-09-25,47,Chinese,245.05,9.25,41,Cash,4.7,Delayed
+2404,2024-01-10,52,Cafe,1042.98,3.05,32,UPI,2.9,Delivered
+2405,2024-05-13,19,Fast Food,1087.81,4.26,16,UPI,3.8,Delayed
+2406,2024-08-09,54,Fast Food,827.39,1.52,74,Cash,3.1,Delivered
+2407,2024-02-16,63,Bakery,576.86,6.66,81,Cash,3.8,Delivered
+2408,2024-09-26,34,Italian,209.03,9.91,77,Cash,3.1,Delayed
+2409,2024-04-26,33,Cafe,435.15,7.34,22,Cash,4.6,Cancelled
+2410,2024-09-27,29,Bakery,1172.42,9.37,59,Card,4.2,Cancelled
+2411,2024-03-19,53,Fast Food,1088.64,8.83,51,Cash,4.4,Delayed
+2412,2024-09-22,20,Italian,431.47,7.86,22,Wallet,4.3,Delivered
+2413,2024-11-23,53,Chinese,1007.53,6.08,20,Card,3.6,Delivered
+2414,2024-10-10,47,Chinese,696.35,10.97,60,Wallet,2.8,Delivered
+2415,2024-04-18,18,Fast Food,900.92,10.38,50,Wallet,4.7,Cancelled
+2416,2024-07-17,35,Cafe,165.18,13.44,45,UPI,4.6,Delayed
+2417,2024-11-04,59,Chinese,556.43,1.06,16,Wallet,4.0,Delayed
+2418,2024-07-24,42,Fast Food,1100.53,4.96,59,Wallet,3.1,Delivered
+2419,2024-02-12,34,Cafe,970.82,8.94,85,Wallet,4.4,Delivered
+2420,2024-08-04,24,Chinese,854.58,1.27,50,Cash,2.8,Cancelled
+2421,2024-06-20,31,Cafe,508.19,1.86,28,Wallet,3.5,Cancelled
+2422,2024-02-29,21,Indian,919.98,2.96,67,UPI,3.7,Delayed
+2423,2024-05-22,23,Fast Food,459.17,10.65,36,UPI,4.3,Delayed
+2424,2024-05-21,33,Indian,1078.31,12.08,16,Card,3.1,Delivered
+2425,2024-10-11,57,Cafe,683.42,9.03,16,Card,3.8,Cancelled
+2426,2024-05-08,57,Italian,1046.36,10.44,25,UPI,4.1,Cancelled
+2427,2024-10-23,57,Indian,978.42,13.43,55,Wallet,3.2,Cancelled
+2428,2024-11-11,40,Indian,797.8,13.99,26,Card,4.4,Delayed
+2429,2024-10-19,53,Cafe,585.11,11.72,32,UPI,3.0,Delivered
+2430,2024-08-19,25,Italian,166.09,13.06,31,UPI,3.9,Delayed
+2431,2024-07-14,28,Italian,160.07,14.18,51,Wallet,2.9,Delivered
+2432,2024-11-07,27,Fast Food,624.63,11.42,87,Card,3.1,Delivered
+2433,2024-12-06,63,Cafe,213.91,11.76,56,Cash,4.3,Delayed
+2434,2024-01-15,54,Indian,451.66,6.26,78,Wallet,4.6,Cancelled
+2435,2024-10-25,61,Chinese,1007.15,2.72,76,Cash,3.8,Delayed
+2436,2024-02-02,50,Italian,893.21,5.47,47,Cash,3.5,Delivered
+2437,2024-06-01,45,Cafe,309.27,3.72,51,Card,3.1,Delivered
+2438,2024-03-18,63,Bakery,1135.68,5.04,18,Card,3.7,Delivered
+2439,2024-01-05,36,Italian,331.03,5.23,32,Card,2.5,Cancelled
+2440,2024-03-26,46,Italian,1089.27,8.41,47,Cash,4.1,Delayed
+2441,2024-12-23,33,Bakery,1120.4,12.32,40,UPI,3.6,Cancelled
+2442,2024-10-15,64,Bakery,316.76,7.51,29,UPI,3.8,Delayed
+2443,2024-06-29,21,Bakery,895.54,5.87,85,Cash,5.0,Delayed
+2444,2024-06-20,38,Cafe,1146.9,10.31,53,Card,4.6,Delivered
+2445,2024-03-05,65,Cafe,656.31,12.54,75,Wallet,3.6,Delayed
+2446,2024-01-21,30,Italian,632.18,3.3,87,UPI,3.5,Cancelled
+2447,2024-11-14,46,Bakery,777.24,4.66,16,UPI,2.7,Cancelled
+2448,2024-11-22,50,Cafe,940.67,5.95,49,Cash,3.1,Delivered
+2449,2024-09-30,21,Cafe,775.2,10.65,23,UPI,4.7,Delivered
+2450,2024-02-07,61,Chinese,1103.26,8.15,49,Card,4.8,Delivered
+2451,2024-11-12,54,Bakery,284.48,6.61,80,Cash,3.5,Cancelled
+2452,2024-11-05,38,Fast Food,810.27,13.13,28,Wallet,4.2,Delayed
+2453,2024-09-10,20,Bakery,445.82,11.69,16,Cash,2.7,Cancelled
+2454,2024-04-17,27,Indian,333.94,4.1,90,UPI,4.0,Cancelled
+2455,2024-01-05,60,Bakery,639.24,12.75,67,Card,3.3,Delayed
+2456,2024-06-27,26,Fast Food,1065.37,8.67,87,Cash,4.8,Delayed
+2457,2024-08-19,21,Cafe,412.23,7.59,80,UPI,4.9,Delayed
+2458,2024-08-17,22,Fast Food,199.37,12.56,62,UPI,3.3,Cancelled
+2459,2024-07-05,31,Bakery,1145.9,12.45,48,Wallet,3.8,Cancelled
+2460,2024-05-01,37,Indian,741.97,11.27,54,Cash,3.5,Delivered
+2461,2024-06-19,54,Indian,517.42,8.33,83,UPI,4.2,Delayed
+2462,2024-01-24,23,Chinese,997.13,10.1,39,Wallet,4.0,Delayed
+2463,2024-03-13,53,Italian,1000.72,4.92,35,UPI,4.0,Delayed
+2464,2024-09-05,61,Fast Food,326.16,10.09,87,UPI,3.2,Delivered
+2465,2024-11-24,28,Italian,1126.37,14.66,47,UPI,3.7,Delayed
+2466,2024-06-14,31,Fast Food,1007.03,6.47,90,UPI,5.0,Delayed
+2467,2024-05-01,48,Fast Food,621.01,8.0,70,Cash,3.9,Delayed
+2468,2024-06-30,60,Indian,777.32,10.79,15,Card,4.8,Cancelled
+2469,2024-05-27,39,Bakery,578.99,9.13,65,Card,2.5,Delivered
+2470,2024-01-29,28,Indian,692.14,8.39,32,Wallet,3.5,Cancelled
+2471,2024-10-19,61,Italian,954.43,6.49,24,Card,4.4,Delayed
+2472,2024-10-28,35,Chinese,447.73,2.41,61,Cash,4.3,Cancelled
+2473,2024-02-29,38,Cafe,1122.48,5.25,34,Wallet,4.8,Delivered
+2474,2024-12-20,53,Chinese,1126.01,13.09,19,UPI,3.0,Delivered
+2475,2024-10-27,30,Chinese,261.07,7.47,67,UPI,4.0,Cancelled
+2476,2024-05-09,46,Chinese,335.59,2.6,40,Cash,3.8,Delivered
+2477,2024-09-15,44,Italian,1110.11,2.24,73,Cash,3.3,Delayed
+2478,2024-09-04,32,Indian,975.2,7.63,79,Wallet,4.2,Delivered
+2479,2024-04-18,51,Indian,706.49,13.89,84,Card,4.5,Cancelled
+2480,2024-10-08,25,Italian,850.33,5.43,83,Wallet,2.6,Delivered
+2481,2024-08-04,42,Indian,917.15,9.92,68,Wallet,4.0,Delivered
+2482,2024-07-20,22,Chinese,567.93,2.06,46,Wallet,2.8,Cancelled
+2483,2024-02-05,56,Chinese,914.12,14.11,20,Card,3.7,Cancelled
+2484,2024-06-19,41,Bakery,625.57,9.69,88,Card,3.3,Delivered
+2485,2024-04-01,38,Indian,545.65,11.86,70,Card,4.2,Cancelled
+2486,2024-02-10,58,Chinese,759.14,1.4,15,Wallet,4.5,Cancelled
+2487,2024-04-17,41,Bakery,942.03,1.94,66,Cash,4.6,Delayed
+2488,2024-03-03,46,Italian,537.15,2.86,15,UPI,2.7,Delivered
+2489,2024-05-10,19,Indian,936.37,12.16,24,Card,4.7,Delivered
+2490,2024-08-27,61,Cafe,911.76,2.82,32,UPI,4.1,Delivered
+2491,2024-10-23,57,Indian,702.23,3.04,23,UPI,4.8,Delayed
+2492,2024-01-22,57,Chinese,178.47,8.4,75,Card,3.9,Delayed
+2493,2024-03-13,53,Indian,584.92,1.95,60,Cash,2.8,Delayed
+2494,2024-07-30,49,Italian,535.2,12.64,77,UPI,2.7,Delivered
+2495,2024-08-10,52,Bakery,478.47,12.84,71,UPI,4.7,Delayed
+2496,2024-03-21,32,Fast Food,1112.7,8.31,25,Wallet,2.7,Delivered
+2497,2024-01-12,33,Chinese,377.14,0.69,36,Cash,2.6,Delayed
+2498,2024-05-16,45,Fast Food,1161.98,12.2,46,Cash,3.6,Delayed
+2499,2024-05-21,25,Chinese,514.54,12.29,29,UPI,3.1,Delayed
+2500,2024-05-22,43,Chinese,729.01,11.94,29,Card,4.8,Delayed
+2501,2024-04-13,23,Cafe,851.44,5.95,77,Wallet,2.6,Cancelled
+2502,2024-09-12,36,Fast Food,342.84,14.55,86,UPI,2.7,Delivered
+2503,2024-06-05,28,Chinese,615.89,7.12,39,UPI,2.8,Delivered
+2504,2024-01-01,36,Italian,454.95,14.88,17,UPI,4.6,Cancelled
+2505,2024-08-10,62,Bakery,967.49,12.21,56,Card,3.1,Cancelled
+2506,2024-12-29,33,Bakery,476.85,14.66,23,UPI,2.9,Cancelled
+2507,2024-06-16,59,Chinese,1009.62,7.7,41,Cash,3.8,Delayed
+2508,2024-07-07,59,Italian,292.8,1.02,50,UPI,2.8,Delivered
+2509,2024-04-09,37,Chinese,340.33,4.52,90,Cash,3.6,Delivered
+2510,2024-03-24,21,Indian,1085.42,8.28,54,Cash,3.2,Delayed
+2511,2024-02-19,46,Chinese,1080.97,2.19,36,Card,4.9,Delivered
+2512,2024-10-10,21,Indian,407.89,14.32,40,Cash,4.0,Delivered
+2513,2024-08-30,58,Italian,927.72,4.96,50,Cash,2.9,Delayed
+2514,2024-08-25,44,Cafe,1090.15,3.9,90,Wallet,3.7,Cancelled
+2515,2024-12-22,25,Indian,865.64,13.81,74,UPI,4.5,Cancelled
+2516,2024-11-10,25,Indian,270.08,10.51,88,Cash,2.9,Cancelled
+2517,2024-03-21,63,Italian,886.95,3.17,76,UPI,3.0,Delivered
+2518,2024-10-14,49,Chinese,195.65,6.42,55,Card,4.7,Cancelled
+2519,2024-05-08,43,Chinese,1099.77,2.1,70,Cash,3.8,Delayed
+2520,2024-07-30,18,Cafe,777.27,3.61,40,Wallet,4.1,Cancelled
+2521,2024-01-02,22,Chinese,909.08,1.27,87,Card,4.0,Cancelled
+2522,2024-04-09,25,Chinese,272.34,10.65,59,Wallet,4.2,Delayed
+2523,2024-08-03,29,Fast Food,688.62,4.29,15,Wallet,3.4,Cancelled
+2524,2024-03-05,41,Indian,821.83,6.6,85,Cash,4.5,Delayed
+2525,2024-10-18,60,Indian,662.94,14.65,47,Cash,3.9,Cancelled
+2526,2024-03-02,24,Cafe,724.77,6.74,29,UPI,3.1,Delivered
+2527,2024-10-31,65,Italian,198.81,3.42,89,Wallet,3.3,Cancelled
+2528,2024-05-25,30,Cafe,1135.45,1.68,81,Cash,3.6,Delayed
+2529,2024-09-09,33,Chinese,722.55,14.61,29,Wallet,3.5,Delayed
+2530,2024-10-30,32,Fast Food,407.65,7.2,60,UPI,3.1,Delayed
+2531,2024-11-09,32,Fast Food,1004.26,14.36,22,Card,3.3,Delivered
+2532,2024-10-27,56,Cafe,757.64,1.18,30,UPI,3.3,Delayed
+2533,2024-09-14,62,Fast Food,987.91,9.62,59,Cash,2.6,Cancelled
+2534,2024-08-12,20,Italian,981.06,11.79,19,Card,3.5,Delivered
+2535,2024-07-31,41,Indian,519.36,9.82,58,Card,4.9,Delayed
+2536,2024-06-29,31,Chinese,930.5,7.21,19,Card,4.1,Delayed
+2537,2024-01-21,27,Italian,319.96,7.13,37,Wallet,4.9,Cancelled
+2538,2024-05-20,48,Chinese,1163.37,3.13,86,Wallet,2.6,Cancelled
+2539,2024-12-08,51,Bakery,906.05,12.4,23,Cash,5.0,Delayed
+2540,2024-02-27,49,Bakery,291.74,10.78,67,Card,4.3,Delivered
+2541,2024-02-27,19,Chinese,637.27,4.26,85,Card,4.8,Cancelled
+2542,2024-08-26,29,Chinese,808.95,5.07,71,UPI,3.1,Cancelled
+2543,2024-08-16,23,Italian,638.02,8.93,60,Card,4.6,Delivered
+2544,2024-02-22,31,Indian,1098.48,5.16,52,Wallet,3.1,Cancelled
+2545,2024-06-09,49,Cafe,1010.52,11.18,17,Cash,2.8,Delayed
+2546,2024-03-25,46,Cafe,389.85,13.48,70,Cash,3.5,Delivered
+2547,2024-08-16,41,Italian,388.55,6.25,27,UPI,2.7,Cancelled
+2548,2024-01-18,36,Italian,807.55,2.53,22,Cash,3.6,Cancelled
+2549,2024-03-19,45,Italian,1077.95,11.79,84,Card,3.1,Delivered
+2550,2024-08-16,38,Fast Food,732.39,12.79,43,Cash,2.9,Cancelled
+2551,2024-04-05,19,Chinese,782.45,7.72,20,Wallet,4.9,Cancelled
+2552,2024-05-31,30,Chinese,916.04,10.21,61,Cash,3.9,Delivered
+2553,2024-07-30,36,Bakery,1115.21,12.31,33,UPI,3.4,Delivered
+2554,2024-05-19,21,Cafe,360.34,14.18,42,Card,3.9,Delivered
+2555,2024-11-27,35,Fast Food,953.56,9.27,32,Wallet,3.6,Delivered
+2556,2024-08-16,19,Italian,456.46,4.21,26,Wallet,2.9,Delayed
+2557,2024-12-14,31,Fast Food,851.81,10.24,41,Wallet,2.8,Delayed
+2558,2024-01-23,61,Italian,377.57,11.52,38,UPI,3.3,Delayed
+2559,2024-01-29,27,Chinese,673.38,5.73,32,Wallet,3.1,Cancelled
+2560,2024-08-03,25,Bakery,860.34,8.53,19,Cash,3.6,Cancelled
+2561,2024-10-16,45,Italian,1117.46,1.52,21,Wallet,4.0,Delayed
+2562,2024-05-18,32,Chinese,817.95,10.28,27,Cash,3.6,Cancelled
+2563,2024-11-20,38,Chinese,497.96,4.43,34,Card,4.9,Delayed
+2564,2024-09-11,46,Fast Food,525.42,9.92,26,Cash,3.7,Cancelled
+2565,2024-03-10,63,Bakery,1136.39,12.53,32,Card,2.6,Delayed
+2566,2024-09-21,23,Fast Food,829.45,5.22,43,Cash,4.0,Delivered
+2567,2024-09-12,27,Fast Food,694.74,5.65,76,Wallet,3.1,Cancelled
+2568,2024-04-14,45,Fast Food,366.67,12.34,34,Wallet,3.1,Delayed
+2569,2024-10-10,39,Italian,211.77,3.98,60,UPI,3.9,Delivered
+2570,2024-11-12,22,Italian,500.48,11.81,17,UPI,5.0,Delayed
+2571,2024-03-31,30,Indian,285.37,4.09,23,Cash,2.6,Delayed
+2572,2024-01-16,40,Cafe,830.22,0.97,18,Cash,4.1,Delayed
+2573,2024-10-16,23,Chinese,487.24,6.52,43,Cash,3.9,Cancelled
+2574,2024-09-03,64,Chinese,1197.23,0.68,20,Card,4.6,Cancelled
+2575,2024-09-06,45,Cafe,1169.05,13.87,40,Cash,2.8,Delivered
+2576,2024-05-29,41,Cafe,523.78,9.51,81,Wallet,2.9,Delivered
+2577,2024-12-21,40,Bakery,1065.03,9.3,87,UPI,2.5,Delivered
+2578,2024-03-26,40,Indian,680.36,12.52,69,UPI,4.3,Cancelled
+2579,2024-09-27,61,Indian,1074.33,8.89,57,Card,4.3,Cancelled
+2580,2024-03-28,40,Chinese,292.77,9.32,90,Cash,4.4,Delayed
+2581,2024-10-20,31,Fast Food,1027.08,13.63,62,UPI,2.9,Cancelled
+2582,2024-12-03,20,Chinese,794.9,10.77,52,Cash,2.9,Delivered
+2583,2024-12-26,23,Chinese,678.87,13.13,83,UPI,4.3,Cancelled
+2584,2024-04-06,41,Indian,892.13,4.37,71,UPI,3.5,Delayed
+2585,2024-03-26,21,Italian,840.87,3.26,52,UPI,2.8,Cancelled
+2586,2024-09-02,26,Bakery,304.97,8.26,39,UPI,3.7,Delayed
+2587,2024-08-12,60,Fast Food,1018.51,12.32,17,Card,3.3,Cancelled
+2588,2024-08-17,61,Bakery,1174.92,8.47,71,Card,4.1,Delivered
+2589,2024-06-14,48,Indian,333.35,9.81,16,Card,4.1,Delivered
+2590,2024-07-14,59,Chinese,851.67,5.05,71,UPI,4.2,Delivered
+2591,2024-08-05,62,Cafe,890.04,4.71,41,UPI,3.8,Cancelled
+2592,2024-02-04,30,Bakery,166.44,2.45,19,Cash,2.7,Delayed
+2593,2024-01-24,38,Cafe,855.93,10.34,73,Cash,3.0,Cancelled
+2594,2024-10-16,20,Fast Food,196.54,3.14,70,Card,2.5,Delivered
+2595,2024-11-16,23,Indian,462.58,10.28,25,Wallet,2.5,Delivered
+2596,2024-05-20,46,Cafe,738.51,9.12,31,Wallet,4.5,Cancelled
+2597,2024-05-15,56,Indian,421.78,8.29,66,Card,2.8,Delayed
+2598,2024-10-18,32,Cafe,1009.93,12.8,73,UPI,4.4,Delivered
+2599,2024-04-24,55,Bakery,240.97,13.56,56,Cash,4.3,Delivered
+2600,2024-01-10,58,Bakery,510.56,2.3,49,Cash,4.2,Delivered
