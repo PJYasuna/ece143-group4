@@ -37,6 +37,8 @@ class DataPreprocessor:
         """
         self.df = pd.read_csv(self.file_path)
         self.df['order_date'] = pd.to_datetime(self.df['order_date'])
+        if 'order_id' in self.df.columns:
+            self.df = self.df.drop(columns=['order_id'])
         return self.df
 
     # ==============================
@@ -94,7 +96,7 @@ class DataPreprocessor:
         df['order_weekday'] = df['order_date'].dt.weekday
 
         # Drop unnecessary columns
-        df = df.drop(columns=['order_date', 'order_id'])
+        df = df.drop(columns=['order_date'])
 
         # Drop missing values
         df = df.dropna()
@@ -104,6 +106,28 @@ class DataPreprocessor:
 
         self.df_encoded = df_encoded
         return df_encoded
+
+    # ==============================
+    # 5. Correlation with Targets
+    # ==============================
+    def target_correlations(self):
+        """
+        Compute correlation of all features with:
+        - delivery_time_minutes
+        - delivery_partner_rating
+        """
+        if self.df_encoded is None:
+            raise ValueError("Run feature_engineering() first.")
+
+        results = {}
+
+        for target in ['delivery_time_minutes', 'delivery_partner_rating']:
+            if target in self.df_encoded.columns:
+                corr = self.df_encoded.corr(numeric_only=True)[target].drop(target)
+                corr = corr.sort_values(key=lambda x: x.abs(), ascending=False)
+                results[target] = corr
+
+        return results
 
     # ==============================
     # 5. Normalize Data (Min-Max)
@@ -161,7 +185,15 @@ if __name__ == "__main__":
 
     # Feature engineering
     df_encoded = processor.feature_engineering()
+    
+    # Target correlations
+    corrs = processor.target_correlations()
 
+    print("\n=== Correlation with delivery_time_minutes ===")
+    print(corrs.get("delivery_time_minutes"))
+
+    print("\n=== Correlation with delivery_partner_rating ===")
+    print(corrs.get("delivery_partner_rating"))
     # Normalize
     df_minmax = processor.normalize_minmax()
     df_standardized = processor.normalize_standard()
