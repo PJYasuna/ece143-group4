@@ -8,6 +8,7 @@ Author: Ethan Do
 """
 import torch
 import torch.nn as nn
+import matplotlib.pyplot as plt
 
 class Trainer:
     def __init__(self, model, config, device):
@@ -77,9 +78,13 @@ class Trainer:
 
         Returns:
             float: the average MAE over the dataset
+            lists: the prediction from the model and the real values
         """
         self.model.eval()
         total_mae = 0
+
+        all_preds = []
+        all_actual = []
 
         with torch.no_grad():
             for X_batch, y_batch in test_loader:
@@ -87,6 +92,15 @@ class Trainer:
                 y_batch = y_batch.to(self.device)
 
                 preds = self.model(X_batch)
+
                 total_mae += torch.mean(torch.abs(preds - y_batch)).item()
 
-        return total_mae / len(test_loader)
+                all_preds.append(preds.cpu())
+                all_actual.append(y_batch.cpu())
+
+        all_preds = torch.cat(all_preds).numpy()
+        all_actual = torch.cat(all_actual).numpy()
+
+        mae = total_mae / len(test_loader)
+
+        return mae, all_preds, all_actual

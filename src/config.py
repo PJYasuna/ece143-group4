@@ -8,7 +8,7 @@ Author: Ethan Do
 """
 
 class Config:
-    DATA_PATH = "../data/train.csv"
+    DATA_PATH = "data/train.csv"
 
     TEST_SIZE = 0.1
     RANDOM_SEED = 123
