@@ -15,13 +15,20 @@ food-delivery-analysis/
 │   ├── train.csv (new dataset)
 │
 ├── src/
-│   ├── preprocessing.py (old dataset)
 │   ├── preprocessing_v2.py (new dataset)
 │   ├── visualization.py
-│   ├── modeling.py
+│   ├── model.py
+│   ├── data.py
+│   ├── config.py
+│   ├── utils.py
+│   ├── trainer.py
 │
 ├── notebook/
 │   └── visualization.ipynb
+│   
+├── archive/
+│   └── preprocessing.py (old dataset preprocessing)
+│   └── changli_modeling (draft of the model)
 │
 └── README.md
 ```
