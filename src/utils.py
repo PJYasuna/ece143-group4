@@ -4,7 +4,7 @@ utils.py
 This module handles:
 - Hardware settings for the model
 
-Author: Ethan Do
+Author: Ethan Do and Changli
 """
 
 import torch

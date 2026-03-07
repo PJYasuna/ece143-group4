@@ -4,7 +4,7 @@ model.py
 This module handles:
 - creating our model based on config
 
-Author: Ethan Do
+Author: Ethan Do and Changli
 """
 import torch.nn as nn
 
@@ -21,9 +21,11 @@ class SimpleMLP(nn.Module):
         super().__init__()
 
         self.network = nn.Sequential(
-            nn.Linear(input_size, hidden_size),
-            nn.ReLU(),
-            nn.Linear(hidden_size, 1)
+        nn.Linear(input_size, hidden_size),
+        nn.ReLU(),
+        nn.Linear(hidden_size, hidden_size),
+        nn.ReLU(),
+        nn.Linear(hidden_size, 1)
         )
 
     def forward(self, x):

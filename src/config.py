@@ -4,7 +4,7 @@ config.py
 This module handles:
 - the configuration of our program allowing flexibility within our model
 
-Author: Ethan Do
+Author: Ethan Do and Changli
 """
 
 class Config:

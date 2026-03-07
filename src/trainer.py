@@ -4,7 +4,7 @@ trainer.py
 This module handles:
 - Creates a Trainer Object to pipeline training steps
 
-Author: Ethan Do
+Author: Ethan Do and Changli
 """
 import torch
 import torch.nn as nn

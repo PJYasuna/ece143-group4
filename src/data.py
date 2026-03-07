@@ -6,7 +6,7 @@ This module handles:
 - Converts data into Tensor Dataset
 - Provides compatibility with the Pytorch based model
 
-Author: Ethan Do
+Author: Ethan Do and Changli
 """
 
 import torch
