@@ -1,7 +1,7 @@
 """
 main.py
 
-Author: Ethan Do
+Author: Ethan Do amd Changli
 """
 
 from src.config import Config
@@ -10,6 +10,7 @@ from src.data import load_and_prepare
 from src.trainer import Trainer
 from src.model import build_model
 import matplotlib.pyplot as plt
+import pandas as pd
 
 def main():
     config = Config()
@@ -40,6 +41,13 @@ def main():
     plt.ylabel("Predicted Values")
     plt.title("Actual vs Predicted")
     plt.show()
+
+    results = pd.DataFrame({
+    "Actual": actual.flatten(),
+    "Predicted": preds.flatten()
+    })
+
+    results.to_csv(f"results/data/{config.MODEL_NAME}_predictions.csv", index=False)
 
 if __name__ == "__main__":
     main()

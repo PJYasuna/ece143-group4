@@ -21,5 +21,5 @@ class Config:
     EARLY_STOPPING_PATIENCE = 10
 
     DEVICE = "cuda" # if gpu allows, "cuda" runs model on cpu leading to faster training
-    MODEL_NAME = "mlp" # Options for models are "linear", "mlp". More models can be made later for scalibility.
+    MODEL_NAME = "linear" # Options for models are "linear", "mlp". More models can be made later for scalibility.
     HIDDEN_SIZE = 64

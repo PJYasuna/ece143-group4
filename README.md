@@ -42,7 +42,7 @@ Run the main program:
 
 python main.py
 
-The script will load the dataset, train the selected model, and output training results.
+The script will load the dataset, train the selected. model, and output training results.
 
 ## Configuration
 The project uses a configuration file (config.py) to control model behavior and training parameters.
