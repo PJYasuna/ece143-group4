@@ -82,10 +82,12 @@ class Trainer:
         """
         self.model.eval()
         total_mae = 0
+        total = 0
+        correct = 0
+
 
         all_preds = []
         all_actual = []
-
         with torch.no_grad():
             for X_batch, y_batch in test_loader:
                 X_batch = X_batch.to(self.device)
@@ -94,10 +96,12 @@ class Trainer:
                 preds = self.model(X_batch)
 
                 total_mae += torch.mean(torch.abs(preds - y_batch)).item()
-
+    
+                correct += torch.sum(torch.abs(preds - y_batch) <= 0.5).item()
+                total += y_batch.numel()
                 all_preds.append(preds.cpu())
                 all_actual.append(y_batch.cpu())
-
+        print(f'accuracy: {correct / total}')
         all_preds = torch.cat(all_preds).numpy()
         all_actual = torch.cat(all_actual).numpy()
 
