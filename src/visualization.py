@@ -201,24 +201,23 @@ def plot_feature_correlation_with_rating(df, output_dir=None):
         )
 
     categorical_cols = ["Road_traffic_density", "Weatherconditions", "City", "Festival"]
-
-    cols_to_keep = ["Delivery_person_Ratings", "Delivery_person_Age", "Vehicle_condition", 
+    numeric_cols = ["Delivery_person_Ratings", "Delivery_person_Age", "Vehicle_condition", 
                     "multiple_deliveries", "Time_taken(min)", "distance_km"]
-    
-    df_for_corr = pd.get_dummies(df[cols_to_keep + categorical_cols], columns=categorical_cols)
 
+    df_for_corr = pd.get_dummies(df[numeric_cols + categorical_cols], columns=categorical_cols, dtype=int)
     rating_corr = df_for_corr.corr()["Delivery_person_Ratings"].drop("Delivery_person_Ratings").sort_values()
-
-    fig, ax = plt.subplots(figsize=(10, 10))
+    rating_corr = rating_corr[~rating_corr.index.str.contains('NaN|Unknown', case=False)]
+    rating_corr = rating_corr[rating_corr.abs() > 0.01]
+    fig, ax = plt.subplots(figsize=(10, 8))
     colors = ['#ff9999' if x < 0 else '#66b3ff' for x in rating_corr]
     rating_corr.plot(kind="barh", color=colors, ax=ax)
     
-    ax.set_title("Enhanced Feature Correlation with Rating", fontsize=14)
+    ax.set_title("Key Feature Correlation with Delivery Ratings", fontsize=14)
     ax.set_xlabel("Correlation Coefficient")
     plt.axvline(x=0, color='black', linestyle='-', alpha=0.2)
     plt.tight_layout()
     
-    _save(fig, "Feature_Correlation_with_Rating_Full.png", output_dir)
+    _save(fig, "Feature_Correlation_with_Rating_Cleaned.png", output_dir)
     plt.show()
     plt.close()
 
