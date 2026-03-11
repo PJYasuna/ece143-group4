@@ -97,7 +97,7 @@ class Trainer:
 
                 total_mae += torch.mean(torch.abs(preds - y_batch)).item()
     
-                correct += torch.sum(torch.abs(preds - y_batch) <= 0.5).item()
+                correct += torch.sum(torch.abs(preds - y_batch) <= 0.05).item()
                 total += y_batch.numel()
                 all_preds.append(preds.cpu())
                 all_actual.append(y_batch.cpu())
